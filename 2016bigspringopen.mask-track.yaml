@@ -1,7 +1,7 @@
 pilotsAtEss:
-- 0
-- 0
-- 0
+- 7
+- 5
+- 5
 raceTime:
 - openTask: 2016-08-07T19:30:00Z
   closeTask: 2016-08-08T01:00:00Z
@@ -34,62 +34,603 @@ raceTime:
   openClose: 21600
   tickClose: 21782
 ssBestTime:
-- null
-- null
-- null
+- 2.526944 h
+- 2.088889 h
+- 2.973889 h
 gsBestTime:
-- null
-- null
-- null
+- 2.537500 h
+- 2.090556 h
+- 2.979444 h
 taskDistance:
-- null
-- null
-- null
+- 126.748939 km
+- 116.160007 km
+- 192.210227 km
 taskSpeedDistance:
-- null
-- null
-- null
+- 117.152430 km
+- 106.562979 km
+- 182.613394 km
 bestDistance:
-- null
-- null
-- null
+- 126.748939 km
+- 116.160007 km
+- 192.210227 km
 sumDistance:
-- null
-- null
-- null
+- 1018.156451 km
+- 652.788049 km
+- 1318.762270 km
 leadScaling:
-- null
-- null
-- null
+- 4.047854e-8
+- 4.892319e-8
+- 1.665951e-8
 leadCoefMin:
-- null
-- null
-- null
+- 1.37944023
+- 1.201274
+- 2.28866589
 lead:
-- []
-- []
-- []
+- - - - '110'
+      - Bruce Barmakian
+    - coef: 1.37944023
+      frac: 1
+  - - - '105'
+      - Cory Barnwell
+    - coef: 1.47026754
+      frac: 0.81848605
+  - - - '104'
+      - Derreck Turner
+    - coef: 1.47283212
+      frac: 0.81508514
+  - - - '101'
+      - Davis Straub
+    - coef: 1.51742599
+      frac: 0.76012303
+  - - - '106'
+      - Larry Bunner
+    - coef: 1.95705468
+      frac: 0.37694785
+  - - - '102'
+      - Tom McGowan
+    - coef: 2.07110898
+      frac: 0.29741672
+  - - - '108'
+      - David Whittle
+    - coef: 2.17475078
+      frac: 0.22887722
+  - - - '103'
+      - Kevin Carter
+    - coef: 2.22194119
+      frac: 0.19866771
+  - - - '109'
+      - Jay Devorak
+    - coef: 3.19635807
+      frac: 0
+- - - - '104'
+      - Derreck Turner
+    - coef: 1.201274
+      frac: 1
+  - - - '103'
+      - Kevin Carter
+    - coef: 1.56828759
+      frac: 0.51778498
+  - - - '102'
+      - Tom McGowan
+    - coef: 1.97230439
+      frac: 0.20901732
+  - - - '106'
+      - Larry Bunner
+    - coef: 1.99275619
+      frac: 0.19509109
+  - - - '110'
+      - Bruce Barmakian
+    - coef: 1.99791265
+      frac: 0.19159891
+  - - - '108'
+      - David Whittle
+    - coef: 2.02389343
+      frac: 0.17411683
+  - - - '105'
+      - Cory Barnwell
+    - coef: 2.93415388
+      frac: 0
+- - - - '110'
+      - Bruce Barmakian
+    - coef: 2.28866589
+      frac: 1
+  - - - '104'
+      - Derreck Turner
+    - coef: 2.49539827
+      frac: 0.73469534
+  - - - '103'
+      - Kevin Carter
+    - coef: 2.53248616
+      frac: 0.703845
+  - - - '106'
+      - Larry Bunner
+    - coef: 2.65306162
+      frac: 0.61287188
+  - - - '107'
+      - Anna Eppink
+    - coef: 3.26422538
+      frac: 0.25359414
+  - - - '105'
+      - Cory Barnwell
+    - coef: 3.32200044
+      frac: 0.22440827
+  - - - '108'
+      - David Whittle
+    - coef: 4.13870593
+      frac: 0
+  - - - '102'
+      - Tom McGowan
+    - coef: 4.16763997
+      frac: 0
+  - - - '109'
+      - Jay Devorak
+    - coef: 5.06285124
+      frac: 0
+  - - - '101'
+      - Davis Straub
+    - coef: 7.0499211
+      frac: 0
 arrival:
-- []
-- []
-- []
+- - - - '110'
+      - Bruce Barmakian
+    - rank: '1'
+      frac: 1
+  - - - '104'
+      - Derreck Turner
+    - rank: '2'
+      frac: 0.7258484
+  - - - '105'
+      - Cory Barnwell
+    - rank: '3'
+      frac: 0.52344023
+  - - - '101'
+      - Davis Straub
+    - rank: '4'
+      frac: 0.38170262
+  - - - '103'
+      - Kevin Carter
+    - rank: '5'
+      frac: 0.28956268
+  - - - '102'
+      - Tom McGowan
+    - rank: '6'
+      frac: 0.23594752
+  - - - '108'
+      - David Whittle
+    - rank: '7'
+      frac: 0.20978426
+- - - - '104'
+      - Derreck Turner
+    - rank: '1'
+      frac: 1
+  - - - '103'
+      - Kevin Carter
+    - rank: '2'
+      frac: 0.636896
+  - - - '110'
+      - Bruce Barmakian
+    - rank: '3'
+      frac: 0.405728
+  - - - '106'
+      - Larry Bunner
+    - rank: '4'
+      frac: 0.276112
+  - - - '108'
+      - David Whittle
+    - rank: '5'
+      frac: 0.217664
+- - - - '103'
+      - Kevin Carter
+    - rank: '1'
+      frac: 1
+  - - - '110'
+      - Bruce Barmakian
+    - rank: '2'
+      frac: 0.636896
+  - - - '106'
+      - Larry Bunner
+    - rank: '3'
+      frac: 0.405728
+  - - - '104'
+      - Derreck Turner
+    - rank: '4'
+      frac: 0.276112
+  - - - '105'
+      - Cory Barnwell
+    - rank: '5'
+      frac: 0.217664
 ssSpeed:
-- []
-- []
-- []
+- - - - '110'
+      - Bruce Barmakian
+    - time: 2.526944 h
+      frac: 1
+  - - - '104'
+      - Derreck Turner
+    - time: 2.539444 h
+      frac: 0.96045653
+  - - - '105'
+      - Cory Barnwell
+    - time: 2.615000 h
+      frac: 0.85468651
+  - - - '103'
+      - Kevin Carter
+    - time: 2.656111 h
+      frac: 0.81239903
+  - - - '101'
+      - Davis Straub
+    - time: 2.815556 h
+      frac: 0.67936559
+  - - - '102'
+      - Tom McGowan
+    - time: 3.125833 h
+      frac: 0.47836634
+  - - - '108'
+      - David Whittle
+    - time: 3.628333 h
+      frac: 0.21699976
+- - - - '104'
+      - Derreck Turner
+    - time: 2.088889 h
+      frac: 1
+  - - - '110'
+      - Bruce Barmakian
+    - time: 2.222778 h
+      frac: 0.7952654
+  - - - '103'
+      - Kevin Carter
+    - time: 2.369167 h
+      frac: 0.6649672
+  - - - '106'
+      - Larry Bunner
+    - time: 2.505000 h
+      frac: 0.56398534
+  - - - '108'
+      - David Whittle
+    - time: 2.890556 h
+      frac: 0.32491659
+- - - - '103'
+      - Kevin Carter
+    - time: 2.973889 h
+      frac: 1
+  - - - '110'
+      - Bruce Barmakian
+    - time: 3.307222 h
+      frac: 0.66569394
+  - - - '106'
+      - Larry Bunner
+    - time: 3.433333 h
+      frac: 0.58595543
+  - - - '104'
+      - Derreck Turner
+    - time: 3.643889 h
+      frac: 0.46755475
+  - - - '105'
+      - Cory Barnwell
+    - time: 4.253333 h
+      frac: 0.18045518
 gsSpeed:
-- []
-- []
-- []
+- - - - '110'
+      - Bruce Barmakian
+    - time: 2.537500 h
+      frac: 1
+  - - - '104'
+      - Derreck Turner
+    - time: 2.549722 h
+      frac: 0.96109864
+  - - - '105'
+      - Cory Barnwell
+    - time: 2.626389 h
+      frac: 0.85397419
+  - - - '103'
+      - Kevin Carter
+    - time: 2.732778 h
+      frac: 0.75322574
+  - - - '101'
+      - Davis Straub
+    - time: 2.824444 h
+      frac: 0.68104467
+  - - - '102'
+      - Tom McGowan
+    - time: 3.399444 h
+      frac: 0.3359754
+  - - - '108'
+      - David Whittle
+    - time: 3.632222 h
+      frac: 0.22124543
+- - - - '104'
+      - Derreck Turner
+    - time: 2.090556 h
+      frac: 1
+  - - - '110'
+      - Bruce Barmakian
+    - time: 2.223889 h
+      frac: 0.79588641
+  - - - '103'
+      - Kevin Carter
+    - time: 2.452778 h
+      frac: 0.60259851
+  - - - '106'
+      - Larry Bunner
+    - time: 2.511667 h
+      frac: 0.56061635
+  - - - '108'
+      - David Whittle
+    - time: 2.945556 h
+      frac: 0.29548512
+- - - - '103'
+      - Kevin Carter
+    - time: 2.979444 h
+      frac: 1
+  - - - '110'
+      - Bruce Barmakian
+    - time: 3.323889 h
+      frac: 0.6585181
+  - - - '106'
+      - Larry Bunner
+    - time: 3.441944 h
+      frac: 0.58438036
+  - - - '104'
+      - Derreck Turner
+    - time: 3.651667 h
+      frac: 0.46670995
+  - - - '105'
+      - Cory Barnwell
+    - time: 4.365000 h
+      frac: 0.1362842
 nigh:
-- []
-- []
-- []
+- - - - '109'
+      - Jay Devorak
+    - togo:
+        distance: 26.523426 km
+        flipSum:
+        - 26.523426 km
+        legs:
+        - 26.523426 km
+        legsSum:
+        - 26.523426 km
+        waypoints:
+        - lat: 32.757
+          lng: -100.68996667
+        - lat: 32.82281861
+          lng: -100.41724058
+      made: 100.225939 km
+  - - - '106'
+      - Larry Bunner
+    - togo:
+        distance: 51.060895 km
+        flipSum:
+        - 51.060895 km
+        - 50.884469 km
+        legs:
+        - 0.176426 km
+        - 50.884469 km
+        legsSum:
+        - 0.176426 km
+        - 51.060895 km
+        waypoints:
+        - lat: 32.70526667
+          lng: -100.9419
+        - lat: 32.70383509
+          lng: -100.94271299
+        - lat: 32.82281861
+          lng: -100.41724058
+      made: 75.687939 km
+- - - - '102'
+      - Tom McGowan
+    - togo:
+        distance: 46.032149 km
+        flipSum:
+        - 46.032149 km
+        - 27.433795 km
+        legs:
+        - 18.598354 km
+        - 27.433795 km
+        legsSum:
+        - 18.598354 km
+        - 46.032149 km
+        waypoints:
+        - lat: 32.60386667
+          lng: -101.72338333
+        - lat: 32.74764618
+          lng: -101.62185805
+        - lat: 32.75905799
+          lng: -101.9149043
+      made: 70.128007 km
+  - - - '105'
+      - Cory Barnwell
+    - togo:
+        distance: 79.299941 km
+        flipSum:
+        - 79.299941 km
+        - 52.740413 km
+        - 28.097481 km
+        legs:
+        - 26.559528 km
+        - 24.642932 km
+        - 28.097481 km
+        legsSum:
+        - 26.559528 km
+        - 51.202461 km
+        - 79.299941 km
+        waypoints:
+        - lat: 32.46733333
+          lng: -101.43336667
+        - lat: 32.53053303
+          lng: -101.70647842
+        - lat: 32.73847451
+          lng: -101.61545737
+        - lat: 32.75891628
+          lng: -101.91491424
+      made: 36.860007 km
+- - - - '107'
+      - Anna Eppink
+    - togo:
+        distance: 41.591452 km
+        flipSum:
+        - 41.591452 km
+        legs:
+        - 41.591452 km
+        legsSum:
+        - 41.591452 km
+        waypoints:
+        - lat: 33.33011667
+          lng: -100.6148
+        - lat: 33.63317519
+          lng: -100.3519523
+      made: 150.619227 km
+  - - - '108'
+      - David Whittle
+    - togo:
+        distance: 99.862691 km
+        flipSum:
+        - 99.862691 km
+        legs:
+        - 99.862691 km
+        legsSum:
+        - 99.862691 km
+        waypoints:
+        - lat: 32.87028333
+          lng: -100.91863333
+        - lat: 33.63301748
+          lng: -100.35166882
+      made: 92.347227 km
+  - - - '109'
+      - Jay Devorak
+    - togo:
+        distance: 129.845981 km
+        flipSum:
+        - 129.845981 km
+        - 114.871867 km
+        legs:
+        - 14.974114 km
+        - 114.871867 km
+        legsSum:
+        - 14.974114 km
+        - 129.845981 km
+        waypoints:
+        - lat: 32.62246667
+          lng: -101.0504
+        - lat: 32.73945197
+          lng: -100.97115171
+        - lat: 33.6329457
+          lng: -100.35152172
+      made: 62.364227 km
+  - - - '101'
+      - Davis Straub
+    - togo:
+        distance: 166.210908 km
+        flipSum:
+        - 166.210908 km
+        - 117.409335 km
+        legs:
+        - 48.801574 km
+        - 117.409335 km
+        legsSum:
+        - 48.801574 km
+        - 166.210908 km
+        waypoints:
+        - lat: 32.40611667
+          lng: -101.35278333
+        - lat: 32.72426021
+          lng: -100.99405325
+        - lat: 33.63301748
+          lng: -100.35166882
+      made: 25.999227 km
+  - - - '102'
+      - Tom McGowan
+    - togo:
+        distance: 115.828991 km
+        flipSum:
+        - 115.828991 km
+        - 114.029522 km
+        legs:
+        - 1.799469 km
+        - 114.029522 km
+        legsSum:
+        - 1.799469 km
+        - 115.828991 km
+        waypoints:
+        - lat: 32.75386667
+          lng: -100.9725
+        - lat: 32.74233477
+          lng: -100.95900074
+        - lat: 33.6329457
+          lng: -100.35152172
+      made: 76.381227 km
 land:
-- []
-- []
-- []
+- - - - '107'
+      - Anna Eppink
+    - togo: 24.747379 km
+      made: 102.001560 km
+  - - - '109'
+      - Jay Devorak
+    - togo: 26.528902 km
+      made: 100.220037 km
+  - - - '106'
+      - Larry Bunner
+    - togo: 101.919660 km
+      made: 24.829279 km
+- - - - '102'
+      - Tom McGowan
+    - togo: 46.316684 km
+      made: 69.843323 km
+  - - - '105'
+      - Cory Barnwell
+    - togo: 79.453820 km
+      made: 36.706187 km
+  - - - '107'
+      - Anna Eppink
+    - togo: 111.160007 km
+      made: 5.000000 km
+  - - - '109'
+      - Jay Devorak
+    - togo: 111.160007 km
+      made: 5.000000 km
+- - - - '107'
+      - Anna Eppink
+    - togo: 43.055614 km
+      made: 149.154613 km
+  - - - '108'
+      - David Whittle
+    - togo: 100.818980 km
+      made: 91.391247 km
+  - - - '109'
+      - Jay Devorak
+    - togo: 129.953633 km
+      made: 62.256594 km
+  - - - '101'
+      - Davis Straub
+    - togo: 166.414134 km
+      made: 25.796093 km
+  - - - '102'
+      - Tom McGowan
+    - togo: 226.281851 km
+      made: -34.071624 km
 altStopped:
-- []
-- []
-- []
+- - - - '109'
+      - Jay Devorak
+    - 692.000 m
+  - - - '106'
+      - Larry Bunner
+    - 618.000 m
+- - - - '105'
+      - Cory Barnwell
+    - 808.000 m
+  - - - '102'
+      - Tom McGowan
+    - 872.000 m
+- - - - '107'
+      - Anna Eppink
+    - 725.000 m
+  - - - '108'
+      - David Whittle
+    - 761.000 m
+  - - - '101'
+      - Davis Straub
+    - 752.000 m
+  - - - '109'
+      - Jay Devorak
+    - 687.000 m
+  - - - '102'
+      - Tom McGowan
+    - 564.000 m
