@@ -1,0 +1,627 @@
+- sphericalPointToPoint:
+    taskRoute:
+      distance: 128.030427 km
+      legs:
+      - 75.850721 km
+      - 52.179707 km
+      legsSum:
+      - 75.850721 km
+      - 128.030427 km
+      flipSum:
+      - 128.030427 km
+      - 52.179707 km
+      waypoints:
+      - lat: 32.2176
+        lng: -101.5249
+      - lat: 32.6977
+        lng: -100.9506
+      - lat: 32.8238
+        lng: -100.4131
+    taskRouteSpeedSubset: null
+    speedRoute:
+      distance: 128.030427 km
+      legs:
+      - 75.850721 km
+      - 52.179707 km
+      legsSum:
+      - 75.850721 km
+      - 128.030427 km
+      flipSum:
+      - 128.030427 km
+      - 52.179707 km
+      waypoints:
+      - lat: 32.2176
+        lng: -101.5249
+      - lat: 32.6977
+        lng: -100.9506
+      - lat: 32.8238
+        lng: -100.4131
+  ellipsoidPointToPoint:
+    taskRoute:
+      distance: 128.030427 km
+      legs:
+      - 75.850721 km
+      - 52.179707 km
+      legsSum:
+      - 75.850721 km
+      - 128.030427 km
+      flipSum:
+      - 128.030427 km
+      - 52.179707 km
+      waypoints:
+      - lat: 32.2176
+        lng: -101.5249
+      - lat: 32.6977
+        lng: -100.9506
+      - lat: 32.8238
+        lng: -100.4131
+    taskRouteSpeedSubset: null
+    speedRoute:
+      distance: 128.030427 km
+      legs:
+      - 75.850721 km
+      - 52.179707 km
+      legsSum:
+      - 75.850721 km
+      - 128.030427 km
+      flipSum:
+      - 128.030427 km
+      - 52.179707 km
+      waypoints:
+      - lat: 32.2176
+        lng: -101.5249
+      - lat: 32.6977
+        lng: -100.9506
+      - lat: 32.8238
+        lng: -100.4131
+  sphericalEdgeToEdge:
+    taskRoute: null
+    taskRouteSpeedSubset: null
+    speedRoute:
+      distance: 117.152430 km
+      legs:
+      - 65.597353 km
+      - 51.555077 km
+      legsSum:
+      - 65.597353 km
+      - 117.152430 km
+      flipSum:
+      - 117.152430 km
+      - 51.555077 km
+      waypoints:
+      - lat: 32.28116937
+        lng: -101.44973514
+      - lat: 32.68985352
+        lng: -100.94537836
+      - lat: 32.82282349
+        lng: -100.41721998
+  ellipsoidEdgeToEdge:
+    taskRoute: null
+    taskRouteSpeedSubset: null
+    speedRoute:
+      distance: 117.227330 km
+      legs:
+      - 65.583963 km
+      - 51.643367 km
+      legsSum:
+      - 65.583963 km
+      - 117.227330 km
+      flipSum:
+      - 117.227330 km
+      - 51.643367 km
+      waypoints:
+      - lat: 32.28116937
+        lng: -101.44973514
+      - lat: 32.68985352
+        lng: -100.94537836
+      - lat: 32.82282349
+        lng: -100.41721998
+  projection:
+    taskRoute: null
+    taskRouteSpeedSubset: null
+    speedRoute:
+      spherical:
+        distance: 117.152430 km
+        legs:
+        - 65.597353 km
+        - 51.555077 km
+        legsSum:
+        - 65.597353 km
+        - 117.152430 km
+        flipSum:
+        - 117.152430 km
+        - 51.555077 km
+        waypoints:
+        - lat: 32.28116937
+          lng: -101.44973514
+        - lat: 32.68985352
+          lng: -100.94537836
+        - lat: 32.82282349
+          lng: -100.41721998
+      ellipsoid:
+        distance: 117.152430 km
+        legs:
+        - 65.597353 km
+        - 51.555077 km
+        legsSum:
+        - 65.597353 km
+        - 117.152430 km
+        flipSum:
+        - 117.152430 km
+        - 51.555077 km
+        waypoints:
+        - lat: 32.28116937
+          lng: -101.44973514
+        - lat: 32.68985352
+          lng: -100.94537836
+        - lat: 32.82282349
+          lng: -100.41721998
+      planar:
+        distance: 117.152430 km
+        legs:
+        - 65.597353 km
+        - 51.555077 km
+        legsSum:
+        - 65.597353 km
+        - 117.152430 km
+        mappedPoints:
+        - easting: 269287.908
+          northing: 3574237.014
+        - easting: 317622.997
+          northing: 3618577.524
+        - easting: 367339.616
+          northing: 3632534.852
+        flipSum:
+        - 117.152430 km
+        - 51.555077 km
+        mappedZones:
+        - latZone: S
+          lngZone: 14
+- sphericalPointToPoint:
+    taskRoute:
+      distance: 136.097847 km
+      legs:
+      - 27.222934 km
+      - 37.820311 km
+      - 34.155991 km
+      - 36.898611 km
+      legsSum:
+      - 27.222934 km
+      - 65.043245 km
+      - 99.199236 km
+      - 136.097847 km
+      flipSum:
+      - 136.097847 km
+      - 108.874913 km
+      - 71.054602 km
+      - 36.898611 km
+      waypoints:
+      - lat: 32.2176
+        lng: -101.5249
+      - lat: 32.40552
+        lng: -101.33923
+      - lat: 32.52643
+        lng: -101.71603
+      - lat: 32.7887
+        lng: -101.5261
+      - lat: 32.7592
+        lng: -101.9192
+    taskRouteSpeedSubset: null
+    speedRoute:
+      distance: 136.097847 km
+      legs:
+      - 27.222934 km
+      - 37.820311 km
+      - 34.155991 km
+      - 36.898611 km
+      legsSum:
+      - 27.222934 km
+      - 65.043245 km
+      - 99.199236 km
+      - 136.097847 km
+      flipSum:
+      - 136.097847 km
+      - 108.874913 km
+      - 71.054602 km
+      - 36.898611 km
+      waypoints:
+      - lat: 32.2176
+        lng: -101.5249
+      - lat: 32.40552
+        lng: -101.33923
+      - lat: 32.52643
+        lng: -101.71603
+      - lat: 32.7887
+        lng: -101.5261
+      - lat: 32.7592
+        lng: -101.9192
+  ellipsoidPointToPoint:
+    taskRoute:
+      distance: 136.097847 km
+      legs:
+      - 27.222934 km
+      - 37.820311 km
+      - 34.155991 km
+      - 36.898611 km
+      legsSum:
+      - 27.222934 km
+      - 65.043245 km
+      - 99.199236 km
+      - 136.097847 km
+      flipSum:
+      - 136.097847 km
+      - 108.874913 km
+      - 71.054602 km
+      - 36.898611 km
+      waypoints:
+      - lat: 32.2176
+        lng: -101.5249
+      - lat: 32.40552
+        lng: -101.33923
+      - lat: 32.52643
+        lng: -101.71603
+      - lat: 32.7887
+        lng: -101.5261
+      - lat: 32.7592
+        lng: -101.9192
+    taskRouteSpeedSubset: null
+    speedRoute:
+      distance: 136.097847 km
+      legs:
+      - 27.222934 km
+      - 37.820311 km
+      - 34.155991 km
+      - 36.898611 km
+      legsSum:
+      - 27.222934 km
+      - 65.043245 km
+      - 99.199236 km
+      - 136.097847 km
+      flipSum:
+      - 136.097847 km
+      - 108.874913 km
+      - 71.054602 km
+      - 36.898611 km
+      waypoints:
+      - lat: 32.2176
+        lng: -101.5249
+      - lat: 32.40552
+        lng: -101.33923
+      - lat: 32.52643
+        lng: -101.71603
+      - lat: 32.7887
+        lng: -101.5261
+      - lat: 32.7592
+        lng: -101.9192
+  sphericalEdgeToEdge:
+    taskRoute: null
+    taskRouteSpeedSubset: null
+    speedRoute:
+      distance: 106.562979 km
+      legs:
+      - 16.908600 km
+      - 36.801121 km
+      - 24.714479 km
+      - 28.138779 km
+      legsSum:
+      - 16.908600 km
+      - 53.709721 km
+      - 78.424199 km
+      - 106.562979 km
+      flipSum:
+      - 106.562979 km
+      - 89.654379 km
+      - 52.853258 km
+      - 28.138779 km
+      waypoints:
+      - lat: 32.28820818
+        lng: -101.45909082
+      - lat: 32.40468017
+        lng: -101.34337303
+      - lat: 32.53019473
+        lng: -101.70634348
+      - lat: 32.73872538
+        lng: -101.61501133
+      - lat: 32.75891769
+        lng: -101.91493557
+  ellipsoidEdgeToEdge:
+    taskRoute: null
+    taskRouteSpeedSubset: null
+    speedRoute:
+      distance: 106.608607 km
+      legs:
+      - 16.896245 km
+      - 36.852664 km
+      - 24.662614 km
+      - 28.197085 km
+      legsSum:
+      - 16.896245 km
+      - 53.748908 km
+      - 78.411522 km
+      - 106.608607 km
+      flipSum:
+      - 106.608607 km
+      - 89.712363 km
+      - 52.859699 km
+      - 28.197085 km
+      waypoints:
+      - lat: 32.28820818
+        lng: -101.45909082
+      - lat: 32.40468017
+        lng: -101.34337303
+      - lat: 32.53019473
+        lng: -101.70634348
+      - lat: 32.73872538
+        lng: -101.61501133
+      - lat: 32.75891769
+        lng: -101.91493557
+  projection:
+    taskRoute: null
+    taskRouteSpeedSubset: null
+    speedRoute:
+      spherical:
+        distance: 106.562979 km
+        legs:
+        - 16.908600 km
+        - 36.801121 km
+        - 24.714479 km
+        - 28.138779 km
+        legsSum:
+        - 16.908600 km
+        - 53.709721 km
+        - 78.424199 km
+        - 106.562979 km
+        flipSum:
+        - 106.562979 km
+        - 89.654379 km
+        - 52.853258 km
+        - 28.138779 km
+        waypoints:
+        - lat: 32.28820818
+          lng: -101.45909082
+        - lat: 32.40468017
+          lng: -101.34337303
+        - lat: 32.53019473
+          lng: -101.70634348
+        - lat: 32.73872538
+          lng: -101.61501133
+        - lat: 32.75891769
+          lng: -101.91493557
+      ellipsoid:
+        distance: 106.562979 km
+        legs:
+        - 16.908600 km
+        - 36.801121 km
+        - 24.714479 km
+        - 28.138779 km
+        legsSum:
+        - 16.908600 km
+        - 53.709721 km
+        - 78.424199 km
+        - 106.562979 km
+        flipSum:
+        - 106.562979 km
+        - 89.654379 km
+        - 52.853258 km
+        - 28.138779 km
+        waypoints:
+        - lat: 32.28820818
+          lng: -101.45909082
+        - lat: 32.40468017
+          lng: -101.34337303
+        - lat: 32.53019473
+          lng: -101.70634348
+        - lat: 32.73872538
+          lng: -101.61501133
+        - lat: 32.75891769
+          lng: -101.91493557
+      planar:
+        distance: 106.562979 km
+        legs:
+        - 16.908600 km
+        - 36.801121 km
+        - 24.714479 km
+        - 28.138779 km
+        legsSum:
+        - 16.908600 km
+        - 53.709721 km
+        - 78.424199 km
+        - 106.562979 km
+        mappedPoints:
+        - easting: 268424.476
+          northing: 3575037.734
+        - easting: 279607.236
+          northing: 3587708.972
+        - easting: 245813.164
+          northing: 3602435.902
+        - easting: 254963.502
+          northing: 3625347.998
+        - easting: 226911.538
+          northing: 3628321.937
+        flipSum:
+        - 106.562979 km
+        - 89.654379 km
+        - 52.853258 km
+        - 28.138779 km
+        mappedZones:
+        - latZone: S
+          lngZone: 14
+- sphericalPointToPoint:
+    taskRoute:
+      distance: 194.253443 km
+      legs:
+      - 75.850721 km
+      - 118.402723 km
+      legsSum:
+      - 75.850721 km
+      - 194.253443 km
+      flipSum:
+      - 194.253443 km
+      - 118.402723 km
+      waypoints:
+      - lat: 32.2176
+        lng: -101.5249
+      - lat: 32.6977
+        lng: -100.9506
+      - lat: 33.6361
+        lng: -100.3494
+    taskRouteSpeedSubset: null
+    speedRoute:
+      distance: 194.253443 km
+      legs:
+      - 75.850721 km
+      - 118.402723 km
+      legsSum:
+      - 75.850721 km
+      - 194.253443 km
+      flipSum:
+      - 194.253443 km
+      - 118.402723 km
+      waypoints:
+      - lat: 32.2176
+        lng: -101.5249
+      - lat: 32.6977
+        lng: -100.9506
+      - lat: 33.6361
+        lng: -100.3494
+  ellipsoidPointToPoint:
+    taskRoute:
+      distance: 194.253443 km
+      legs:
+      - 75.850721 km
+      - 118.402723 km
+      legsSum:
+      - 75.850721 km
+      - 194.253443 km
+      flipSum:
+      - 194.253443 km
+      - 118.402723 km
+      waypoints:
+      - lat: 32.2176
+        lng: -101.5249
+      - lat: 32.6977
+        lng: -100.9506
+      - lat: 33.6361
+        lng: -100.3494
+    taskRouteSpeedSubset: null
+    speedRoute:
+      distance: 194.253443 km
+      legs:
+      - 75.850721 km
+      - 118.402723 km
+      legsSum:
+      - 75.850721 km
+      - 194.253443 km
+      flipSum:
+      - 194.253443 km
+      - 118.402723 km
+      waypoints:
+      - lat: 32.2176
+        lng: -101.5249
+      - lat: 32.6977
+        lng: -100.9506
+      - lat: 33.6361
+        lng: -100.3494
+  sphericalEdgeToEdge:
+    taskRoute: null
+    taskRouteSpeedSubset: null
+    speedRoute:
+      distance: 182.613394 km
+      legs:
+      - 65.199542 km
+      - 117.413852 km
+      legsSum:
+      - 65.199542 km
+      - 182.613394 km
+      flipSum:
+      - 182.613394 km
+      - 117.413852 km
+      waypoints:
+      - lat: 32.28596617
+        lng: -101.45586421
+      - lat: 32.72412298
+        lng: -100.99382867
+      - lat: 33.63303282
+        lng: -100.35165753
+  ellipsoidEdgeToEdge:
+    taskRoute: null
+    taskRouteSpeedSubset: null
+    speedRoute:
+      distance: 182.415902 km
+      legs:
+      - 65.161906 km
+      - 117.253996 km
+      legsSum:
+      - 65.161906 km
+      - 182.415902 km
+      flipSum:
+      - 182.415902 km
+      - 117.253996 km
+      waypoints:
+      - lat: 32.28596617
+        lng: -101.45586421
+      - lat: 32.72412298
+        lng: -100.99382867
+      - lat: 33.63303282
+        lng: -100.35165753
+  projection:
+    taskRoute: null
+    taskRouteSpeedSubset: null
+    speedRoute:
+      spherical:
+        distance: 182.613394 km
+        legs:
+        - 65.199542 km
+        - 117.413852 km
+        legsSum:
+        - 65.199542 km
+        - 182.613394 km
+        flipSum:
+        - 182.613394 km
+        - 117.413852 km
+        waypoints:
+        - lat: 32.28596617
+          lng: -101.45586421
+        - lat: 32.72412298
+          lng: -100.99382867
+        - lat: 33.63303282
+          lng: -100.35165753
+      ellipsoid:
+        distance: 182.613394 km
+        legs:
+        - 65.199542 km
+        - 117.413852 km
+        legsSum:
+        - 65.199542 km
+        - 182.613394 km
+        flipSum:
+        - 182.613394 km
+        - 117.413852 km
+        waypoints:
+        - lat: 32.28596617
+          lng: -101.45586421
+        - lat: 32.72412298
+          lng: -100.99382867
+        - lat: 33.63303282
+          lng: -100.35165753
+      planar:
+        distance: 182.613394 km
+        legs:
+        - 65.199542 km
+        - 117.413852 km
+        legsSum:
+        - 65.199542 km
+        - 182.613394 km
+        mappedPoints:
+        - easting: 268722.715
+          northing: 3574782.146
+        - easting: 313151.556
+          northing: 3622461.804
+        - easting: 374638.637
+          northing: 3722287.695
+        flipSum:
+        - 182.613394 km
+        - 117.413852 km
+        mappedZones:
+        - latZone: S
+          lngZone: 14

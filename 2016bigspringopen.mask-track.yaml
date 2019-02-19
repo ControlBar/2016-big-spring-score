@@ -1,0 +1,95 @@
+pilotsAtEss:
+- 0
+- 0
+- 0
+raceTime:
+- openTask: 2016-08-07T19:30:00Z
+  closeTask: 2016-08-08T01:00:00Z
+  firstStart: 2016-08-07T19:30:14Z
+  firstLead: 2016-08-07T19:30:14Z
+  lastArrival: 2016-08-07T23:08:40Z
+  leadAllDown: 13530
+  leadArrival: 13106
+  leadClose: 19786
+  openClose: 19800
+  tickClose: 19786
+- openTask: 2016-08-08T19:00:00Z
+  closeTask: 2016-08-09T01:00:00Z
+  firstStart: 2016-08-08T19:00:02Z
+  firstLead: 2016-08-08T19:00:02Z
+  lastArrival: 2016-08-08T21:58:39Z
+  leadAllDown: 10887
+  leadArrival: 10717
+  leadClose: 21598
+  openClose: 21600
+  tickClose: 21598
+- openTask: 2016-08-11T19:00:00Z
+  closeTask: 2016-08-12T01:00:00Z
+  firstStart: 2016-08-11T18:56:58Z
+  firstLead: 2016-08-11T18:56:58Z
+  lastArrival: 2016-08-11T23:37:58Z
+  leadAllDown: 17031
+  leadArrival: 16860
+  leadClose: 21782
+  openClose: 21600
+  tickClose: 21782
+ssBestTime:
+- null
+- null
+- null
+gsBestTime:
+- null
+- null
+- null
+taskDistance:
+- null
+- null
+- null
+taskSpeedDistance:
+- null
+- null
+- null
+bestDistance:
+- null
+- null
+- null
+sumDistance:
+- null
+- null
+- null
+leadScaling:
+- null
+- null
+- null
+leadCoefMin:
+- null
+- null
+- null
+lead:
+- []
+- []
+- []
+arrival:
+- []
+- []
+- []
+ssSpeed:
+- []
+- []
+- []
+gsSpeed:
+- []
+- []
+- []
+nigh:
+- []
+- []
+- []
+land:
+- []
+- []
+- []
+altStopped:
+- []
+- []
+- []
