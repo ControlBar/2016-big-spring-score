@@ -1,0 +1,391 @@
+score:
+- - - - '101'
+      - Davis Straub
+    - place: '4'
+      total: 783
+      distance: 372.5
+      leading: 81.9
+      arrival: 29.9
+      time: 299.1
+      ss: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:19:27Z
+      ssElapsed: 2.824167 h
+      distanceMade: 126.747000 km
+      distanceFrac: 1
+  - - - '103'
+      - Kevin Carter
+    - place: '5'
+      total: 741
+      distance: 372.5
+      leading: 14.6
+      arrival: 22.7
+      time: 330.8
+      ss: 2016-08-07T19:50:00Z
+      es: 2016-08-07T22:33:57Z
+      ssElapsed: 2.732500 h
+      distanceMade: 126.747000 km
+      distanceFrac: 1
+  - - - '104'
+      - Derreck Turner
+    - place: '2'
+      total: 940
+      distance: 372.5
+      leading: 88.2
+      arrival: 56.9
+      time: 422.1
+      ss: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:02:58Z
+      ssElapsed: 2.549444 h
+      distanceMade: 126.747000 km
+      distanceFrac: 1
+  - - - '105'
+      - Cory Barnwell
+    - place: '3'
+      total: 877
+      distance: 372.5
+      leading: 88.6
+      arrival: 41.1
+      time: 375.1
+      ss: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:07:34Z
+      ssElapsed: 2.626111 h
+      distanceMade: 126.747000 km
+      distanceFrac: 1
+  - - - '106'
+      - Larry Bunner
+    - place: '10'
+      total: 301
+      distance: 263.4
+      leading: 37.8
+      arrival: 0
+      time: 0
+      ss: 2016-08-07T19:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 75.665000 km
+      distanceFrac: 0.5969766542797857
+  - - - '108'
+      - David Whittle
+    - place: '7'
+      total: 507
+      distance: 372.5
+      leading: 20.6
+      arrival: 16.5
+      time: 97.2
+      ss: 2016-08-07T19:30:00Z
+      es: 2016-08-07T23:07:55Z
+      ssElapsed: 3.631944 h
+      distanceMade: 126.747000 km
+      distanceFrac: 1
+  - - - '109'
+      - Jay Devorak
+    - place: '9'
+      total: 332
+      distance: 332.3
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-08-07T19:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 100.217000 km
+      distanceFrac: 0.7906853811135569
+  - - - '110'
+      - Bruce Barmakian
+    - place: '1'
+      total: 1000
+      distance: 372.5
+      leading: 109.8
+      arrival: 78.4
+      time: 439.2
+      ss: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:02:14Z
+      ssElapsed: 2.537222 h
+      distanceMade: 126.747000 km
+      distanceFrac: 1
+  - - - '102'
+      - Tom McGowan
+    - place: '6'
+      total: 567
+      distance: 372.5
+      leading: 28.3
+      arrival: 18.5
+      time: 147.5
+      ss: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:53:58Z
+      ssElapsed: 3.399444 h
+      distanceMade: 126.747000 km
+      distanceFrac: 1
+  - - - '107'
+      - Anna Eppink
+    - place: '8'
+      total: 336
+      distance: 336.2
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-08-07T19:50:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 102.000000 km
+      distanceFrac: 0.8047527752136145
+- - - - '107'
+      - Anna Eppink
+    - place: '9'
+      total: 43
+      distance: 42.5
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 5.000000 km
+      distanceFrac: 4.303888994095064e-2
+  - - - '109'
+      - Jay Devorak
+    - place: '9'
+      total: 43
+      distance: 42.5
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-08-08T19:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 5.000000 km
+      distanceFrac: 4.303888994095064e-2
+  - - - '101'
+      - Davis Straub
+    - place: '2'
+      total: 961
+      distance: 390.9
+      leading: 104.4
+      arrival: 52.3
+      time: 413.3
+      ss: 2016-08-08T19:00:00Z
+      es: 2016-08-08T21:05:53Z
+      ssElapsed: 2.098056 h
+      distanceMade: 116.174000 km
+      distanceFrac: 1
+  - - - '102'
+      - Tom McGowan
+    - place: '7'
+      total: 331
+      distance: 313.3
+      leading: 17.9
+      arrival: 0
+      time: 0
+      ss: 2016-08-08T19:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 70.033000 km
+      distanceFrac: 0.6028285158469193
+  - - - '103'
+      - Kevin Carter
+    - place: '4'
+      total: 736
+      distance: 390.9
+      leading: 52.1
+      arrival: 35.8
+      time: 256.9
+      ss: 2016-08-08T19:00:00Z
+      es: 2016-08-08T21:27:09Z
+      ssElapsed: 2.452500 h
+      distanceMade: 116.174000 km
+      distanceFrac: 1
+  - - - '104'
+      - Derreck Turner
+    - place: '1'
+      total: 1000
+      distance: 390.9
+      leading: 106.6
+      arrival: 76.1
+      time: 426.4
+      ss: 2016-08-08T19:00:00Z
+      es: 2016-08-08T21:05:25Z
+      ssElapsed: 2.090278 h
+      distanceMade: 116.174000 km
+      distanceFrac: 1
+  - - - '105'
+      - Cory Barnwell
+    - place: '8'
+      total: 202
+      distance: 201.8
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-08-08T19:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 36.770000 km
+      distanceFrac: 0.316507996625751
+  - - - '106'
+      - Larry Bunner
+    - place: '5'
+      total: 664
+      distance: 390.9
+      leading: 14.6
+      arrival: 19.1
+      time: 239
+      ss: 2016-08-08T19:20:00Z
+      es: 2016-08-08T21:50:41Z
+      ssElapsed: 2.511389 h
+      distanceMade: 116.174000 km
+      distanceFrac: 1
+  - - - '108'
+      - David Whittle
+    - place: '6'
+      total: 546
+      distance: 390.9
+      leading: 13.2
+      arrival: 16.2
+      time: 126
+      ss: 2016-08-08T19:00:00Z
+      es: 2016-08-08T21:56:43Z
+      ssElapsed: 2.945278 h
+      distanceMade: 116.174000 km
+      distanceFrac: 1
+  - - - '110'
+      - Bruce Barmakian
+    - place: '3'
+      total: 770
+      distance: 390.9
+      leading: 14.3
+      arrival: 25.1
+      time: 339.3
+      ss: 2016-08-08T19:20:00Z
+      es: 2016-08-08T21:33:25Z
+      ssElapsed: 2.223611 h
+      distanceMade: 116.174000 km
+      distanceFrac: 1
+- - - - '104'
+      - Derreck Turner
+    - place: '4'
+      total: 704
+      distance: 422.4
+      leading: 73.4
+      arrival: 19.9
+      time: 188.7
+      ss: 2016-08-11T19:00:00Z
+      es: 2016-08-11T22:39:05Z
+      ssElapsed: 3.651389 h
+      distanceMade: 192.208000 km
+      distanceFrac: 1
+  - - - '105'
+      - Cory Barnwell
+    - place: '5'
+      total: 514
+      distance: 422.4
+      leading: 20.3
+      arrival: 15.7
+      time: 55.1
+      ss: 2016-08-11T19:15:00Z
+      es: 2016-08-11T23:36:53Z
+      ssElapsed: 4.364722 h
+      distanceMade: 192.208000 km
+      distanceFrac: 1
+  - - - '106'
+      - Larry Bunner
+    - place: '3'
+      total: 748
+      distance: 422.4
+      leading: 60.4
+      arrival: 29.3
+      time: 236.3
+      ss: 2016-08-11T19:00:00Z
+      es: 2016-08-11T22:26:30Z
+      ssElapsed: 3.441667 h
+      distanceMade: 192.208000 km
+      distanceFrac: 1
+  - - - '107'
+      - Anna Eppink
+    - place: '6'
+      total: 400
+      distance: 376.7
+      leading: 23.1
+      arrival: 0
+      time: 0
+      ss: 2016-08-11T19:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 150.616000 km
+      distanceFrac: 0.783609423124948
+  - - - '108'
+      - David Whittle
+    - place: '7'
+      total: 280
+      distance: 279.6
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-08-11T19:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 92.345000 km
+      distanceFrac: 0.4804430616831766
+  - - - '109'
+      - Jay Devorak
+    - place: '8'
+      total: 205
+      distance: 204.6
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-08-11T19:15:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 62.297000 km
+      distanceFrac: 0.324112419878465
+  - - - '110'
+      - Bruce Barmakian
+    - place: '2'
+      total: 836
+      distance: 422.4
+      leading: 101.1
+      arrival: 46
+      time: 266.3
+      ss: 2016-08-11T19:00:00Z
+      es: 2016-08-11T22:19:25Z
+      ssElapsed: 3.323611 h
+      distanceMade: 192.208000 km
+      distanceFrac: 1
+  - - - '101'
+      - Davis Straub
+    - place: '10'
+      total: 88
+      distance: 87.7
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-08-11T19:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 25.991000 km
+      distanceFrac: 0.13522329975859484
+  - - - '103'
+      - Kevin Carter
+    - place: '1'
+      total: 969
+      distance: 422.4
+      leading: 69.9
+      arrival: 72.2
+      time: 404.3
+      ss: 2016-08-11T19:15:00Z
+      es: 2016-08-11T22:13:45Z
+      ssElapsed: 2.979167 h
+      distanceMade: 192.208000 km
+      distanceFrac: 1
+  - - - '102'
+      - Tom McGowan
+    - place: '9'
+      total: 184
+      distance: 243.9
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2016-08-11T18:57:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 76.359000 km
+      distanceFrac: 0.3972727461916257

@@ -65,7 +65,7 @@ leadCoefMin:
 - 1.37944023
 - 1.201274
 - 2.28866589
-lead:
+leadRank:
 - - - - '110'
       - Bruce Barmakian
     - coef: 1.37944023
@@ -170,7 +170,7 @@ lead:
       - Davis Straub
     - coef: 7.0499211
       frac: 0
-arrival:
+arrivalRank:
 - - - - '110'
       - Bruce Barmakian
     - rank: '1'
@@ -239,6 +239,111 @@ arrival:
       - Cory Barnwell
     - rank: '5'
       frac: 0.217664
+reachRank:
+- - - - '110'
+      - Bruce Barmakian
+    - frac: 1
+      reach: 126.748939 km
+  - - - '104'
+      - Derreck Turner
+    - frac: 1
+      reach: 126.748939 km
+  - - - '105'
+      - Cory Barnwell
+    - frac: 1
+      reach: 126.748939 km
+  - - - '101'
+      - Davis Straub
+    - frac: 1
+      reach: 126.748939 km
+  - - - '103'
+      - Kevin Carter
+    - frac: 1
+      reach: 126.748939 km
+  - - - '102'
+      - Tom McGowan
+    - frac: 1
+      reach: 126.748939 km
+  - - - '108'
+      - David Whittle
+    - frac: 1
+      reach: 126.748939 km
+  - - - '109'
+      - Jay Devorak
+    - frac: 0.79074381
+      reach: 100.225939 km
+  - - - '106'
+      - Larry Bunner
+    - frac: 0.5971485
+      reach: 75.687939 km
+- - - - '104'
+      - Derreck Turner
+    - frac: 1
+      reach: 116.160007 km
+  - - - '103'
+      - Kevin Carter
+    - frac: 1
+      reach: 116.160007 km
+  - - - '110'
+      - Bruce Barmakian
+    - frac: 1
+      reach: 116.160007 km
+  - - - '106'
+      - Larry Bunner
+    - frac: 1
+      reach: 116.160007 km
+  - - - '108'
+      - David Whittle
+    - frac: 1
+      reach: 116.160007 km
+  - - - '102'
+      - Tom McGowan
+    - frac: 0.60371903
+      reach: 70.128007 km
+  - - - '105'
+      - Cory Barnwell
+    - frac: 0.31732098
+      reach: 36.860007 km
+- - - - '103'
+      - Kevin Carter
+    - frac: 1
+      reach: 192.210227 km
+  - - - '110'
+      - Bruce Barmakian
+    - frac: 1
+      reach: 192.210227 km
+  - - - '106'
+      - Larry Bunner
+    - frac: 1
+      reach: 192.210227 km
+  - - - '104'
+      - Derreck Turner
+    - frac: 1
+      reach: 192.210227 km
+  - - - '105'
+      - Cory Barnwell
+    - frac: 1
+      reach: 192.210227 km
+  - - - '107'
+      - Anna Eppink
+    - frac: 0.78361713
+      reach: 150.619227 km
+  - - - '108'
+      - David Whittle
+    - frac: 0.48044908
+      reach: 92.347227 km
+  - - - '102'
+      - Tom McGowan
+    - frac: 0.39738378
+      reach: 76.381227 km
+  - - - '109'
+      - Jay Devorak
+    - frac: 0.32445842
+      reach: 62.364227 km
+  - - - '101'
+      - Davis Straub
+    - frac: 0.13526454
+      reach: 25.999227 km
 ssSpeed:
 - - - - '110'
       - Bruce Barmakian
