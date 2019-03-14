@@ -1,8 +1,8 @@
 validityWorking:
 - time:
     nominalTime: 2.000000 h
-    ssBestTime: 2.526944 h
-    gsBestTime: 2.537500 h
+    ssBestTime: 2.526227 h
+    gsBestTime: 2.537251 h
     nominalDistance: 120.0 km
     bestDistance: 126.7 km
   launch:
@@ -19,8 +19,8 @@ validityWorking:
     bestDistance: 126.7 km
 - time:
     nominalTime: 2.000000 h
-    ssBestTime: 2.088889 h
-    gsBestTime: 2.090556 h
+    ssBestTime: 2.088729 h
+    gsBestTime: 2.090482 h
     nominalDistance: 120.0 km
     bestDistance: 116.2 km
   launch:
@@ -37,8 +37,8 @@ validityWorking:
     bestDistance: 116.2 km
 - time:
     nominalTime: 2.000000 h
-    ssBestTime: 2.973889 h
-    gsBestTime: 2.979444 h
+    ssBestTime: 2.973579 h
+    gsBestTime: 2.979174 h
     nominalDistance: 120.0 km
     bestDistance: 192.2 km
   launch:
@@ -130,13 +130,13 @@ score:
         arrival: 78.4
         time: 439.2
       velocity:
-        ss: 2016-08-07T19:30:38Z
+        ss: 2016-08-07T19:30:39.68787105868Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:02:15Z
+        es: 2016-08-07T22:02:14.103298565826Z
         ssDistance: 117.152 km
-        ssElapsed: 2.526944 h
-        gsElapsed: 2.537500 h
-        ssVelocity: 46.36 km / h
+        ssElapsed: 2.526227 h
+        gsElapsed: 2.537251 h
+        ssVelocity: 46.37 km / h
         gsVelocity: 46.17 km / h
       reachDistance: 126.749 km
       landedDistance: 126.749 km
@@ -153,15 +153,15 @@ score:
         distance: 372.529
         leading: 88.4
         arrival: 56.9
-        time: 419.3
+        time: 419.2
       velocity:
-        ss: 2016-08-07T19:30:37Z
+        ss: 2016-08-07T19:30:37.461323618556Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:02:59Z
+        es: 2016-08-07T22:02:58.465545826687Z
         ssDistance: 117.152 km
-        ssElapsed: 2.539444 h
-        gsElapsed: 2.549722 h
-        ssVelocity: 46.13 km / h
+        ssElapsed: 2.539168 h
+        gsElapsed: 2.549574 h
+        ssVelocity: 46.14 km / h
         gsVelocity: 45.95 km / h
       reachDistance: 126.749 km
       landedDistance: 126.749 km
@@ -180,13 +180,13 @@ score:
         arrival: 41.1
         time: 364.3
       velocity:
-        ss: 2016-08-07T19:30:41Z
+        ss: 2016-08-07T19:30:43.228260517604Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:07:35Z
+        es: 2016-08-07T22:07:34.17243697316Z
         ssDistance: 117.152 km
-        ssElapsed: 2.615000 h
-        gsElapsed: 2.626389 h
-        ssVelocity: 44.80 km / h
+        ssElapsed: 2.614151 h
+        gsElapsed: 2.626159 h
+        ssVelocity: 44.81 km / h
         gsVelocity: 44.61 km / h
       reachDistance: 126.749 km
       landedDistance: 126.749 km
@@ -205,13 +205,13 @@ score:
         arrival: 29.9
         time: 275.6
       velocity:
-        ss: 2016-08-07T19:30:32Z
+        ss: 2016-08-07T19:30:35.45051998015Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:19:28Z
+        es: 2016-08-07T22:19:26.89727100115Z
         ssDistance: 117.152 km
-        ssElapsed: 2.815556 h
-        gsElapsed: 2.824444 h
-        ssVelocity: 41.61 km / h
+        ssElapsed: 2.814291 h
+        gsElapsed: 2.824138 h
+        ssVelocity: 41.63 km / h
         gsVelocity: 41.48 km / h
       reachDistance: 126.749 km
       landedDistance: 126.749 km
@@ -230,13 +230,13 @@ score:
         arrival: 22.7
         time: 312.6
       velocity:
-        ss: 2016-08-07T19:54:36Z
+        ss: 2016-08-07T19:54:37.293708282696Z
         gs: 2016-08-07T19:50:00Z
-        es: 2016-08-07T22:33:58Z
+        es: 2016-08-07T22:33:57.036500048236Z
         ssDistance: 117.152 km
-        ssElapsed: 2.656111 h
-        gsElapsed: 2.732778 h
-        ssVelocity: 44.11 km / h
+        ssElapsed: 2.655484 h
+        gsElapsed: 2.732510 h
+        ssVelocity: 44.12 km / h
         gsVelocity: 42.87 km / h
       reachDistance: 126.749 km
       landedDistance: 126.749 km
@@ -253,14 +253,14 @@ score:
         distance: 372.529
         leading: 28.4
         arrival: 18.5
-        time: 98.6
+        time: 98.5
       velocity:
-        ss: 2016-08-07T19:46:25Z
+        ss: 2016-08-07T19:46:26.283382974138Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:53:58Z
+        es: 2016-08-07T22:53:57.92202476124Z
         ssDistance: 117.152 km
-        ssElapsed: 3.125833 h
-        gsElapsed: 3.399444 h
+        ssElapsed: 3.125455 h
+        gsElapsed: 3.399423 h
         ssVelocity: 37.48 km / h
         gsVelocity: 34.46 km / h
       reachDistance: 126.749 km
@@ -278,16 +278,16 @@ score:
         distance: 372.529
         leading: 20.5
         arrival: 16.5
-        time: 39.8
+        time: 39.7
       velocity:
-        ss: 2016-08-07T19:30:14Z
+        ss: 2016-08-07T19:30:15.71831771545Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T23:07:56Z
+        es: 2016-08-07T23:07:55.393881605094Z
         ssDistance: 117.152 km
-        ssElapsed: 3.628333 h
-        gsElapsed: 3.632222 h
+        ssElapsed: 3.627688 h
+        gsElapsed: 3.632054 h
         ssVelocity: 32.29 km / h
-        gsVelocity: 32.25 km / h
+        gsVelocity: 32.26 km / h
       reachDistance: 126.749 km
       landedDistance: 126.749 km
       stoppedAlt: null
@@ -322,7 +322,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-07T20:15:21Z
+        ss: 2016-08-07T20:15:25.48393027336Z
         gs: 2016-08-07T19:50:00Z
         es: null
         ssDistance: null
@@ -347,7 +347,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-07T19:30:22Z
+        ss: 2016-08-07T19:30:30.31909091246Z
         gs: 2016-08-07T19:30:00Z
         es: null
         ssDistance: null
@@ -372,14 +372,14 @@ score:
         arrival: 65.6
         time: 367.2
       velocity:
-        ss: 2016-08-08T19:00:06Z
+        ss: 2016-08-08T19:00:06.309120913721Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:05:26Z
+        es: 2016-08-08T21:05:25.734838620442Z
         ssDistance: 106.563 km
-        ssElapsed: 2.088889 h
-        gsElapsed: 2.090556 h
-        ssVelocity: 51.01 km / h
-        gsVelocity: 50.97 km / h
+        ssElapsed: 2.088729 h
+        gsElapsed: 2.090482 h
+        ssVelocity: 51.02 km / h
+        gsVelocity: 50.98 km / h
       reachDistance: 116.160 km
       landedDistance: 116.160 km
       stoppedAlt: null
@@ -397,13 +397,13 @@ score:
         arrival: 26.6
         time: 282.5
       velocity:
-        ss: 2016-08-08T19:20:04Z
+        ss: 2016-08-08T19:20:05.770154012662Z
         gs: 2016-08-08T19:20:00Z
-        es: 2016-08-08T21:33:26Z
+        es: 2016-08-08T21:33:25.155791604088Z
         ssDistance: 106.563 km
-        ssElapsed: 2.222778 h
-        gsElapsed: 2.223889 h
-        ssVelocity: 47.94 km / h
+        ssElapsed: 2.222052 h
+        gsElapsed: 2.223654 h
+        ssVelocity: 47.96 km / h
         gsVelocity: 47.92 km / h
       reachDistance: 116.160 km
       landedDistance: 116.160 km
@@ -422,13 +422,13 @@ score:
         arrival: 41.8
         time: 202.2
       velocity:
-        ss: 2016-08-08T19:05:01Z
+        ss: 2016-08-08T19:05:02.661357980924Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:27:10Z
+        es: 2016-08-08T21:27:09.891412590239Z
         ssDistance: 106.563 km
-        ssElapsed: 2.369167 h
-        gsElapsed: 2.452778 h
-        ssVelocity: 44.98 km / h
+        ssElapsed: 2.368675 h
+        gsElapsed: 2.452748 h
+        ssVelocity: 44.99 km / h
         gsVelocity: 43.45 km / h
       reachDistance: 116.160 km
       landedDistance: 116.160 km
@@ -447,12 +447,12 @@ score:
         arrival: 18.1
         time: 184.8
       velocity:
-        ss: 2016-08-08T19:20:24Z
+        ss: 2016-08-08T19:20:24.3524127553Z
         gs: 2016-08-08T19:20:00Z
-        es: 2016-08-08T21:50:42Z
+        es: 2016-08-08T21:50:41.37343349762Z
         ssDistance: 106.563 km
-        ssElapsed: 2.505000 h
-        gsElapsed: 2.511667 h
+        ssElapsed: 2.504728 h
+        gsElapsed: 2.511493 h
         ssVelocity: 42.54 km / h
         gsVelocity: 42.43 km / h
       reachDistance: 116.160 km
@@ -472,12 +472,12 @@ score:
         arrival: 14.3
         time: 74.7
       velocity:
-        ss: 2016-08-08T19:03:18Z
+        ss: 2016-08-08T19:03:19.25950355586Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:56:44Z
+        es: 2016-08-08T21:56:43.471618260114Z
         ssDistance: 106.563 km
-        ssElapsed: 2.890556 h
-        gsElapsed: 2.945556 h
+        ssElapsed: 2.890059 h
+        gsElapsed: 2.945409 h
         ssVelocity: 36.87 km / h
         gsVelocity: 36.18 km / h
       reachDistance: 116.160 km
@@ -497,7 +497,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-08T19:00:26Z
+        ss: 2016-08-08T19:00:27.951883867276Z
         gs: 2016-08-08T19:00:00Z
         es: null
         ssDistance: null
@@ -522,7 +522,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-08T19:00:02Z
+        ss: 2016-08-08T19:00:03.578086816853Z
         gs: 2016-08-08T19:00:00Z
         es: null
         ssDistance: null
@@ -581,14 +581,14 @@ score:
         arrival: 72.2
         time: 404.3
       velocity:
-        ss: 2016-08-11T19:15:20Z
+        ss: 2016-08-11T19:15:20.142572964414Z
         gs: 2016-08-11T19:15:00Z
-        es: 2016-08-11T22:13:46Z
+        es: 2016-08-11T22:13:45.02687368831Z
         ssDistance: 182.613 km
-        ssElapsed: 2.973889 h
-        gsElapsed: 2.979444 h
+        ssElapsed: 2.973579 h
+        gsElapsed: 2.979174 h
         ssVelocity: 61.41 km / h
-        gsVelocity: 61.29 km / h
+        gsVelocity: 61.30 km / h
       reachDistance: 192.210 km
       landedDistance: 192.210 km
       stoppedAlt: null
@@ -606,13 +606,13 @@ score:
         arrival: 46
         time: 238.7
       velocity:
-        ss: 2016-08-11T19:01:00Z
+        ss: 2016-08-11T19:01:01.259798296074Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:19:26Z
+        es: 2016-08-11T22:19:25.192860426976Z
         ssDistance: 182.613 km
-        ssElapsed: 3.307222 h
-        gsElapsed: 3.323889 h
-        ssVelocity: 55.22 km / h
+        ssElapsed: 3.306648 h
+        gsElapsed: 3.323665 h
+        ssVelocity: 55.23 km / h
         gsVelocity: 54.94 km / h
       reachDistance: 192.210 km
       landedDistance: 192.210 km
@@ -629,14 +629,14 @@ score:
         distance: 422.375
         leading: 56.2
         arrival: 29.3
-        time: 202.8
+        time: 202.7
       velocity:
-        ss: 2016-08-11T19:00:31Z
+        ss: 2016-08-11T19:00:31.2056886077Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:26:31Z
+        es: 2016-08-11T22:26:30.672998655223Z
         ssDistance: 182.613 km
-        ssElapsed: 3.433333 h
-        gsElapsed: 3.441944 h
+        ssElapsed: 3.433185 h
+        gsElapsed: 3.441854 h
         ssVelocity: 53.19 km / h
         gsVelocity: 53.06 km / h
       reachDistance: 192.210 km
@@ -654,15 +654,15 @@ score:
         distance: 422.375
         leading: 70.3
         arrival: 19.9
-        time: 145.7
+        time: 145.6
       velocity:
-        ss: 2016-08-11T19:00:28Z
+        ss: 2016-08-11T19:00:28.352536169674Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:39:06Z
+        es: 2016-08-11T22:39:05.593604270171Z
         ssDistance: 182.613 km
-        ssElapsed: 3.643889 h
-        gsElapsed: 3.651667 h
-        ssVelocity: 50.11 km / h
+        ssElapsed: 3.643678 h
+        gsElapsed: 3.651554 h
+        ssVelocity: 50.12 km / h
         gsVelocity: 50.01 km / h
       reachDistance: 192.210 km
       landedDistance: 192.210 km
@@ -681,13 +681,13 @@ score:
         arrival: 15.7
         time: 0
       velocity:
-        ss: 2016-08-11T19:21:42Z
+        ss: 2016-08-11T19:21:44.464951226652Z
         gs: 2016-08-11T19:15:00Z
-        es: 2016-08-11T23:36:54Z
+        es: 2016-08-11T23:36:53.250388211172Z
         ssDistance: 182.613 km
-        ssElapsed: 4.253333 h
-        gsElapsed: 4.365000 h
-        ssVelocity: 42.93 km / h
+        ssElapsed: 4.252440 h
+        gsElapsed: 4.364792 h
+        ssVelocity: 42.94 km / h
         gsVelocity: 41.84 km / h
       reachDistance: 192.210 km
       landedDistance: 192.210 km
@@ -706,7 +706,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-11T19:15:51Z
+        ss: 2016-08-11T19:15:53.401759749087Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -731,7 +731,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-11T19:16:19Z
+        ss: 2016-08-11T19:16:20.408390504798Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -756,7 +756,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-11T19:15:31Z
+        ss: 2016-08-11T19:15:39.95329136093Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -781,7 +781,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-11T18:56:58Z
+        ss: 2016-08-11T18:56:58.404424245142Z
         gs: 2016-08-11T19:00:00Z
         es: null
         ssDistance: null
@@ -806,7 +806,7 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-11T19:00:34Z
+        ss: 2016-08-11T19:00:36.083959713935Z
         gs: 2016-08-11T19:00:00Z
         es: null
         ssDistance: null
@@ -832,13 +832,13 @@ scoreDf:
         arrival: 78.4
         time: 439.2
       velocity:
-        ss: 2016-08-07T19:30:38Z
+        ss: 2016-08-07T19:30:39.68787105868Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:02:15Z
+        es: 2016-08-07T22:02:14.103298565826Z
         ssDistance: 117.152 km
-        ssElapsed: 2.526944 h
-        gsElapsed: 2.537500 h
-        ssVelocity: 46.36 km / h
+        ssElapsed: 2.526227 h
+        gsElapsed: 2.537251 h
+        ssVelocity: 46.37 km / h
         gsVelocity: 46.17 km / h
       reachDistance: 126.749 km
       landedDistance: 126.749 km
@@ -855,15 +855,15 @@ scoreDf:
         distance: 372.529
         leading: 88.4
         arrival: 56.9
-        time: 419.3
+        time: 419.2
       velocity:
-        ss: 2016-08-07T19:30:37Z
+        ss: 2016-08-07T19:30:37.461323618556Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:02:59Z
+        es: 2016-08-07T22:02:58.465545826687Z
         ssDistance: 117.152 km
-        ssElapsed: 2.539444 h
-        gsElapsed: 2.549722 h
-        ssVelocity: 46.13 km / h
+        ssElapsed: 2.539168 h
+        gsElapsed: 2.549574 h
+        ssVelocity: 46.14 km / h
         gsVelocity: 45.95 km / h
       reachDistance: 126.749 km
       landedDistance: 126.749 km
@@ -882,13 +882,13 @@ scoreDf:
         arrival: 41.1
         time: 364.3
       velocity:
-        ss: 2016-08-07T19:30:41Z
+        ss: 2016-08-07T19:30:43.228260517604Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:07:35Z
+        es: 2016-08-07T22:07:34.17243697316Z
         ssDistance: 117.152 km
-        ssElapsed: 2.615000 h
-        gsElapsed: 2.626389 h
-        ssVelocity: 44.80 km / h
+        ssElapsed: 2.614151 h
+        gsElapsed: 2.626159 h
+        ssVelocity: 44.81 km / h
         gsVelocity: 44.61 km / h
       reachDistance: 126.749 km
       landedDistance: 126.749 km
@@ -907,13 +907,13 @@ scoreDf:
         arrival: 29.9
         time: 275.6
       velocity:
-        ss: 2016-08-07T19:30:32Z
+        ss: 2016-08-07T19:30:35.45051998015Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:19:28Z
+        es: 2016-08-07T22:19:26.89727100115Z
         ssDistance: 117.152 km
-        ssElapsed: 2.815556 h
-        gsElapsed: 2.824444 h
-        ssVelocity: 41.61 km / h
+        ssElapsed: 2.814291 h
+        gsElapsed: 2.824138 h
+        ssVelocity: 41.63 km / h
         gsVelocity: 41.48 km / h
       reachDistance: 126.749 km
       landedDistance: 126.749 km
@@ -932,13 +932,13 @@ scoreDf:
         arrival: 22.7
         time: 312.6
       velocity:
-        ss: 2016-08-07T19:54:36Z
+        ss: 2016-08-07T19:54:37.293708282696Z
         gs: 2016-08-07T19:50:00Z
-        es: 2016-08-07T22:33:58Z
+        es: 2016-08-07T22:33:57.036500048236Z
         ssDistance: 117.152 km
-        ssElapsed: 2.656111 h
-        gsElapsed: 2.732778 h
-        ssVelocity: 44.11 km / h
+        ssElapsed: 2.655484 h
+        gsElapsed: 2.732510 h
+        ssVelocity: 44.12 km / h
         gsVelocity: 42.87 km / h
       reachDistance: 126.749 km
       landedDistance: 126.749 km
@@ -955,14 +955,14 @@ scoreDf:
         distance: 372.529
         leading: 28.4
         arrival: 18.5
-        time: 98.6
+        time: 98.5
       velocity:
-        ss: 2016-08-07T19:46:25Z
+        ss: 2016-08-07T19:46:26.283382974138Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:53:58Z
+        es: 2016-08-07T22:53:57.92202476124Z
         ssDistance: 117.152 km
-        ssElapsed: 3.125833 h
-        gsElapsed: 3.399444 h
+        ssElapsed: 3.125455 h
+        gsElapsed: 3.399423 h
         ssVelocity: 37.48 km / h
         gsVelocity: 34.46 km / h
       reachDistance: 126.749 km
@@ -980,16 +980,16 @@ scoreDf:
         distance: 372.529
         leading: 20.5
         arrival: 16.5
-        time: 39.8
+        time: 39.7
       velocity:
-        ss: 2016-08-07T19:30:14Z
+        ss: 2016-08-07T19:30:15.71831771545Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T23:07:56Z
+        es: 2016-08-07T23:07:55.393881605094Z
         ssDistance: 117.152 km
-        ssElapsed: 3.628333 h
-        gsElapsed: 3.632222 h
+        ssElapsed: 3.627688 h
+        gsElapsed: 3.632054 h
         ssVelocity: 32.29 km / h
-        gsVelocity: 32.25 km / h
+        gsVelocity: 32.26 km / h
       reachDistance: 126.749 km
       landedDistance: 126.749 km
       stoppedAlt: null
@@ -1007,7 +1007,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-07T20:15:21Z
+        ss: 2016-08-07T20:15:25.48393027336Z
         gs: 2016-08-07T19:50:00Z
         es: null
         ssDistance: null
@@ -1032,7 +1032,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-07T19:30:22Z
+        ss: 2016-08-07T19:30:30.31909091246Z
         gs: 2016-08-07T19:30:00Z
         es: null
         ssDistance: null
@@ -1057,14 +1057,14 @@ scoreDf:
         arrival: 65.6
         time: 367.2
       velocity:
-        ss: 2016-08-08T19:00:06Z
+        ss: 2016-08-08T19:00:06.309120913721Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:05:26Z
+        es: 2016-08-08T21:05:25.734838620442Z
         ssDistance: 106.563 km
-        ssElapsed: 2.088889 h
-        gsElapsed: 2.090556 h
-        ssVelocity: 51.01 km / h
-        gsVelocity: 50.97 km / h
+        ssElapsed: 2.088729 h
+        gsElapsed: 2.090482 h
+        ssVelocity: 51.02 km / h
+        gsVelocity: 50.98 km / h
       reachDistance: 116.160 km
       landedDistance: 116.160 km
       stoppedAlt: null
@@ -1082,13 +1082,13 @@ scoreDf:
         arrival: 26.6
         time: 282.5
       velocity:
-        ss: 2016-08-08T19:20:04Z
+        ss: 2016-08-08T19:20:05.770154012662Z
         gs: 2016-08-08T19:20:00Z
-        es: 2016-08-08T21:33:26Z
+        es: 2016-08-08T21:33:25.155791604088Z
         ssDistance: 106.563 km
-        ssElapsed: 2.222778 h
-        gsElapsed: 2.223889 h
-        ssVelocity: 47.94 km / h
+        ssElapsed: 2.222052 h
+        gsElapsed: 2.223654 h
+        ssVelocity: 47.96 km / h
         gsVelocity: 47.92 km / h
       reachDistance: 116.160 km
       landedDistance: 116.160 km
@@ -1107,13 +1107,13 @@ scoreDf:
         arrival: 41.8
         time: 202.2
       velocity:
-        ss: 2016-08-08T19:05:01Z
+        ss: 2016-08-08T19:05:02.661357980924Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:27:10Z
+        es: 2016-08-08T21:27:09.891412590239Z
         ssDistance: 106.563 km
-        ssElapsed: 2.369167 h
-        gsElapsed: 2.452778 h
-        ssVelocity: 44.98 km / h
+        ssElapsed: 2.368675 h
+        gsElapsed: 2.452748 h
+        ssVelocity: 44.99 km / h
         gsVelocity: 43.45 km / h
       reachDistance: 116.160 km
       landedDistance: 116.160 km
@@ -1132,12 +1132,12 @@ scoreDf:
         arrival: 18.1
         time: 184.8
       velocity:
-        ss: 2016-08-08T19:20:24Z
+        ss: 2016-08-08T19:20:24.3524127553Z
         gs: 2016-08-08T19:20:00Z
-        es: 2016-08-08T21:50:42Z
+        es: 2016-08-08T21:50:41.37343349762Z
         ssDistance: 106.563 km
-        ssElapsed: 2.505000 h
-        gsElapsed: 2.511667 h
+        ssElapsed: 2.504728 h
+        gsElapsed: 2.511493 h
         ssVelocity: 42.54 km / h
         gsVelocity: 42.43 km / h
       reachDistance: 116.160 km
@@ -1157,12 +1157,12 @@ scoreDf:
         arrival: 14.3
         time: 74.7
       velocity:
-        ss: 2016-08-08T19:03:18Z
+        ss: 2016-08-08T19:03:19.25950355586Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:56:44Z
+        es: 2016-08-08T21:56:43.471618260114Z
         ssDistance: 106.563 km
-        ssElapsed: 2.890556 h
-        gsElapsed: 2.945556 h
+        ssElapsed: 2.890059 h
+        gsElapsed: 2.945409 h
         ssVelocity: 36.87 km / h
         gsVelocity: 36.18 km / h
       reachDistance: 116.160 km
@@ -1182,7 +1182,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-08T19:00:26Z
+        ss: 2016-08-08T19:00:27.951883867276Z
         gs: 2016-08-08T19:00:00Z
         es: null
         ssDistance: null
@@ -1207,7 +1207,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-08T19:00:02Z
+        ss: 2016-08-08T19:00:03.578086816853Z
         gs: 2016-08-08T19:00:00Z
         es: null
         ssDistance: null
@@ -1232,14 +1232,14 @@ scoreDf:
         arrival: 72.2
         time: 404.3
       velocity:
-        ss: 2016-08-11T19:15:20Z
+        ss: 2016-08-11T19:15:20.142572964414Z
         gs: 2016-08-11T19:15:00Z
-        es: 2016-08-11T22:13:46Z
+        es: 2016-08-11T22:13:45.02687368831Z
         ssDistance: 182.613 km
-        ssElapsed: 2.973889 h
-        gsElapsed: 2.979444 h
+        ssElapsed: 2.973579 h
+        gsElapsed: 2.979174 h
         ssVelocity: 61.41 km / h
-        gsVelocity: 61.29 km / h
+        gsVelocity: 61.30 km / h
       reachDistance: 192.210 km
       landedDistance: 192.210 km
       stoppedAlt: null
@@ -1257,13 +1257,13 @@ scoreDf:
         arrival: 46
         time: 238.7
       velocity:
-        ss: 2016-08-11T19:01:00Z
+        ss: 2016-08-11T19:01:01.259798296074Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:19:26Z
+        es: 2016-08-11T22:19:25.192860426976Z
         ssDistance: 182.613 km
-        ssElapsed: 3.307222 h
-        gsElapsed: 3.323889 h
-        ssVelocity: 55.22 km / h
+        ssElapsed: 3.306648 h
+        gsElapsed: 3.323665 h
+        ssVelocity: 55.23 km / h
         gsVelocity: 54.94 km / h
       reachDistance: 192.210 km
       landedDistance: 192.210 km
@@ -1280,14 +1280,14 @@ scoreDf:
         distance: 422.375
         leading: 56.2
         arrival: 29.3
-        time: 202.8
+        time: 202.7
       velocity:
-        ss: 2016-08-11T19:00:31Z
+        ss: 2016-08-11T19:00:31.2056886077Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:26:31Z
+        es: 2016-08-11T22:26:30.672998655223Z
         ssDistance: 182.613 km
-        ssElapsed: 3.433333 h
-        gsElapsed: 3.441944 h
+        ssElapsed: 3.433185 h
+        gsElapsed: 3.441854 h
         ssVelocity: 53.19 km / h
         gsVelocity: 53.06 km / h
       reachDistance: 192.210 km
@@ -1305,15 +1305,15 @@ scoreDf:
         distance: 422.375
         leading: 70.3
         arrival: 19.9
-        time: 145.7
+        time: 145.6
       velocity:
-        ss: 2016-08-11T19:00:28Z
+        ss: 2016-08-11T19:00:28.352536169674Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:39:06Z
+        es: 2016-08-11T22:39:05.593604270171Z
         ssDistance: 182.613 km
-        ssElapsed: 3.643889 h
-        gsElapsed: 3.651667 h
-        ssVelocity: 50.11 km / h
+        ssElapsed: 3.643678 h
+        gsElapsed: 3.651554 h
+        ssVelocity: 50.12 km / h
         gsVelocity: 50.01 km / h
       reachDistance: 192.210 km
       landedDistance: 192.210 km
@@ -1332,13 +1332,13 @@ scoreDf:
         arrival: 15.7
         time: 0
       velocity:
-        ss: 2016-08-11T19:21:42Z
+        ss: 2016-08-11T19:21:44.464951226652Z
         gs: 2016-08-11T19:15:00Z
-        es: 2016-08-11T23:36:54Z
+        es: 2016-08-11T23:36:53.250388211172Z
         ssDistance: 182.613 km
-        ssElapsed: 4.253333 h
-        gsElapsed: 4.365000 h
-        ssVelocity: 42.93 km / h
+        ssElapsed: 4.252440 h
+        gsElapsed: 4.364792 h
+        ssVelocity: 42.94 km / h
         gsVelocity: 41.84 km / h
       reachDistance: 192.210 km
       landedDistance: 192.210 km
@@ -1357,7 +1357,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-11T19:15:51Z
+        ss: 2016-08-11T19:15:53.401759749087Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -1382,7 +1382,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-11T19:16:19Z
+        ss: 2016-08-11T19:16:20.408390504798Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -1407,7 +1407,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-11T19:15:31Z
+        ss: 2016-08-11T19:15:39.95329136093Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -1432,7 +1432,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-11T18:56:58Z
+        ss: 2016-08-11T18:56:58.404424245142Z
         gs: 2016-08-11T19:00:00Z
         es: null
         ssDistance: null
@@ -1457,7 +1457,7 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2016-08-11T19:00:34Z
+        ss: 2016-08-11T19:00:36.083959713935Z
         gs: 2016-08-11T19:00:00Z
         es: null
         ssDistance: null

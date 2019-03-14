@@ -5,42 +5,42 @@ pilotsAtEss:
 raceTime:
 - openTask: 2016-08-07T19:30:00Z
   closeTask: 2016-08-08T01:00:00Z
-  firstStart: 2016-08-07T19:30:14Z
-  firstLead: 2016-08-07T19:30:14Z
-  lastArrival: 2016-08-07T23:08:40Z
-  leadAllDown: 13530
-  leadArrival: 13106
-  leadClose: 19786
+  firstStart: 2016-08-07T19:30:15.71831771545Z
+  firstLead: 2016-08-07T19:30:15.71831771545Z
+  lastArrival: 2016-08-07T23:08:40.95480301518Z
+  leadAllDown: 13528.282
+  leadArrival: 13105.236
+  leadClose: 19784.282
   openClose: 19800
-  tickClose: 19786
+  tickClose: 19784.282
 - openTask: 2016-08-08T19:00:00Z
   closeTask: 2016-08-09T01:00:00Z
-  firstStart: 2016-08-08T19:00:02Z
-  firstLead: 2016-08-08T19:00:02Z
-  lastArrival: 2016-08-08T21:58:39Z
-  leadAllDown: 10887
-  leadArrival: 10717
-  leadClose: 21598
+  firstStart: 2016-08-08T19:00:03.578086816853Z
+  firstLead: 2016-08-08T19:00:03.578086816853Z
+  lastArrival: 2016-08-08T21:58:39.291516157512Z
+  leadAllDown: 10885.422
+  leadArrival: 10715.713
+  leadClose: 21596.422
   openClose: 21600
-  tickClose: 21598
+  tickClose: 21596.422
 - openTask: 2016-08-11T19:00:00Z
   closeTask: 2016-08-12T01:00:00Z
-  firstStart: 2016-08-11T18:56:58Z
-  firstLead: 2016-08-11T18:56:58Z
-  lastArrival: 2016-08-11T23:37:58Z
-  leadAllDown: 17031
-  leadArrival: 16860
-  leadClose: 21782
+  firstStart: 2016-08-11T18:56:58.404424245142Z
+  firstLead: 2016-08-11T18:56:58.404424245142Z
+  lastArrival: 2016-08-11T23:37:58.527412637863Z
+  leadAllDown: 17030.596
+  leadArrival: 16860.123
+  leadClose: 21781.596
   openClose: 21600
-  tickClose: 21782
+  tickClose: 21781.596
 ssBestTime:
-- 2.526944 h
-- 2.088889 h
-- 2.973889 h
+- 2.526227 h
+- 2.088729 h
+- 2.973579 h
 gsBestTime:
-- 2.537500 h
-- 2.090556 h
-- 2.979444 h
+- 2.537251 h
+- 2.090482 h
+- 2.979174 h
 taskDistance:
 - 126.748939 km
 - 116.160007 km
@@ -62,113 +62,113 @@ leadScaling:
 - 4.892319e-8
 - 1.665951e-8
 leadCoefMin:
-- 1.37944023
-- 1.201274
-- 2.28866589
+- 1.37858852
+- 1.20053584
+- 2.28834806
 leadRank:
 - - - - '110'
       - Bruce Barmakian
-    - coef: 1.37944023
+    - coef: 1.37858852
       frac: 1
   - - - '105'
       - Cory Barnwell
-    - coef: 1.47026754
-      frac: 0.80848896
+    - coef: 1.46943218
+      frac: 0.80844626
   - - - '104'
       - Derreck Turner
-    - coef: 1.47283212
-      frac: 0.80490074
+    - coef: 1.47200372
+      frac: 0.80484818
   - - - '101'
       - Davis Straub
-    - coef: 1.51742599
-      frac: 0.74691152
+    - coef: 1.51657194
+      frac: 0.74688833
   - - - '106'
       - Larry Bunner
-    - coef: 1.95705468
-      frac: 0.34263252
+    - coef: 1.95628281
+      frac: 0.34250426
   - - - '102'
       - Tom McGowan
-    - coef: 2.07110898
-      frac: 0.25872113
+    - coef: 2.0702589
+      frac: 0.25864366
   - - - '108'
       - David Whittle
-    - coef: 2.17475078
-      frac: 0.18640673
+    - coef: 2.1739143
+      frac: 0.18631259
   - - - '103'
       - Kevin Carter
-    - coef: 2.22194119
-      frac: 0.1545334
+    - coef: 2.22115425
+      frac: 0.15440303
   - - - '109'
       - Jay Devorak
-    - coef: 3.19635807
+    - coef: 3.19148957
       frac: 0
 - - - - '104'
       - Derreck Turner
-    - coef: 1.201274
+    - coef: 1.20053584
       frac: 1
   - - - '103'
       - Kevin Carter
-    - coef: 1.56828759
-      frac: 0.50281912
+    - coef: 1.56746267
+      frac: 0.50284655
   - - - '102'
       - Tom McGowan
-    - coef: 1.97230439
-      frac: 0.18446867
+    - coef: 1.97159562
+      frac: 0.18436439
   - - - '106'
       - Larry Bunner
-    - coef: 1.99275619
-      frac: 0.17011022
+    - coef: 1.9920338
+      frac: 0.17001417
   - - - '110'
       - Bruce Barmakian
-    - coef: 1.99791265
-      frac: 0.16650967
+    - coef: 1.99718934
+      frac: 0.16641391
   - - - '108'
       - David Whittle
-    - coef: 2.02389343
-      frac: 0.14848501
+    - coef: 2.02315829
+      frac: 0.1483957
   - - - '105'
       - Cory Barnwell
-    - coef: 2.93415388
+    - coef: 2.93349061
       frac: 0
 - - - - '110'
       - Bruce Barmakian
-    - coef: 2.28866589
+    - coef: 2.28834806
       frac: 1
   - - - '104'
       - Derreck Turner
-    - coef: 2.49539827
-      frac: 0.69543831
+    - coef: 2.49516802
+      frac: 0.69534525
   - - - '103'
       - Kevin Carter
-    - coef: 2.53248616
-      frac: 0.66002305
+    - coef: 2.53228405
+      frac: 0.65990762
   - - - '106'
       - Larry Bunner
-    - coef: 2.65306162
-      frac: 0.55558867
+    - coef: 2.65286223
+      frac: 0.55548209
   - - - '107'
       - Anna Eppink
-    - coef: 3.26422538
-      frac: 0.14314874
+    - coef: 3.26403618
+      frac: 0.14305359
   - - - '105'
       - Cory Barnwell
-    - coef: 3.32200044
-      frac: 0.10964425
+    - coef: 3.32179595
+      frac: 0.10955853
   - - - '108'
       - David Whittle
-    - coef: 4.13870593
+    - coef: 4.13858461
       frac: 0
   - - - '102'
       - Tom McGowan
-    - coef: 4.16763997
+    - coef: 4.16754347
       frac: 0
   - - - '109'
       - Jay Devorak
-    - coef: 5.06285124
+    - coef: 5.06278184
       frac: 0
   - - - '101'
       - Davis Straub
-    - coef: 7.0499211
+    - coef: 7.04994061
       frac: 0
 arrivalRank:
 - - - - '110'
@@ -347,140 +347,140 @@ reachRank:
 ssSpeed:
 - - - - '110'
       - Bruce Barmakian
-    - time: 2.526944 h
+    - time: 2.526227 h
       frac: 1
   - - - '104'
       - Derreck Turner
-    - time: 2.539444 h
-      frac: 0.95384975
+    - time: 2.539168 h
+      frac: 0.95276754
   - - - '105'
       - Cory Barnwell
-    - time: 2.615000 h
-      frac: 0.83040805
+    - time: 2.614151 h
+      frac: 0.83056815
   - - - '103'
       - Kevin Carter
-    - time: 2.656111 h
-      frac: 0.78105534
+    - time: 2.655484 h
+      frac: 0.78094222
   - - - '101'
       - Davis Straub
-    - time: 2.815556 h
-      frac: 0.62579515
+    - time: 2.814291 h
+      frac: 0.62625029
   - - - '102'
       - Tom McGowan
-    - time: 3.125833 h
-      frac: 0.39121368
+    - time: 3.125455 h
+      frac: 0.39095459
   - - - '108'
       - David Whittle
-    - time: 3.628333 h
-      frac: 8.617891e-2
+    - time: 3.627688 h
+      frac: 8.609566e-2
 - - - - '104'
       - Derreck Turner
-    - time: 2.088889 h
+    - time: 2.088729 h
       frac: 1
   - - - '110'
       - Bruce Barmakian
-    - time: 2.222778 h
-      frac: 0.7685216
+    - time: 2.222052 h
+      frac: 0.76917229
   - - - '103'
       - Kevin Carter
-    - time: 2.369167 h
-      frac: 0.62120298
+    - time: 2.368675 h
+      frac: 0.62149747
   - - - '106'
       - Larry Bunner
-    - time: 2.505000 h
-      frac: 0.5070302
+    - time: 2.504728 h
+      frac: 0.50711271
   - - - '108'
       - David Whittle
-    - time: 2.890556 h
-      frac: 0.23673269
+    - time: 2.890059 h
+      frac: 0.23693697
 - - - - '103'
       - Kevin Carter
-    - time: 2.973889 h
+    - time: 2.973579 h
       frac: 1
   - - - '110'
       - Bruce Barmakian
-    - time: 3.307222 h
-      frac: 0.59910401
+    - time: 3.306648 h
+      frac: 0.59930894
   - - - '106'
       - Larry Bunner
-    - time: 3.433333 h
-      frac: 0.50348252
+    - time: 3.433185 h
+      frac: 0.50335722
   - - - '104'
       - Derreck Turner
-    - time: 3.643889 h
-      frac: 0.36149778
+    - time: 3.643678 h
+      frac: 0.36142373
   - - - '105'
       - Cory Barnwell
-    - time: 4.253333 h
-      frac: 1.721127e-2
+    - time: 4.252440 h
+      frac: 1.749279e-2
 gsSpeed:
 - - - - '110'
       - Bruce Barmakian
-    - time: 2.537500 h
+    - time: 2.537251 h
       frac: 1
   - - - '104'
       - Derreck Turner
-    - time: 2.549722 h
-      frac: 0.95456759
+    - time: 2.549574 h
+      frac: 0.95431782
   - - - '105'
       - Cory Barnwell
-    - time: 2.626389 h
-      frac: 0.82945828
+    - time: 2.626159 h
+      frac: 0.82943092
   - - - '103'
       - Kevin Carter
-    - time: 2.732778 h
-      frac: 0.71179542
+    - time: 2.732510 h
+      frac: 0.71180896
   - - - '101'
       - Davis Straub
-    - time: 2.824444 h
-      frac: 0.62749606
+    - time: 2.824138 h
+      frac: 0.6275395
   - - - '102'
       - Tom McGowan
-    - time: 3.399444 h
-      frac: 0.22449398
+    - time: 3.399423 h
+      frac: 0.22434488
   - - - '108'
       - David Whittle
-    - time: 3.632222 h
-      frac: 9.050228e-2
+    - time: 3.632054 h
+      frac: 9.044269e-2
 - - - - '104'
       - Derreck Turner
-    - time: 2.090556 h
+    - time: 2.090482 h
       frac: 1
   - - - '110'
       - Bruce Barmakian
-    - time: 2.223889 h
-      frac: 0.76919306
+    - time: 2.223654 h
+      frac: 0.76937736
   - - - '103'
       - Kevin Carter
-    - time: 2.452778 h
-      frac: 0.55062755
+    - time: 2.452748 h
+      frac: 0.55058894
   - - - '106'
       - Larry Bunner
-    - time: 2.511667 h
-      frac: 0.50315509
+    - time: 2.511493 h
+      frac: 0.50323114
   - - - '108'
       - David Whittle
-    - time: 2.945556 h
-      frac: 0.2033508
+    - time: 2.945409 h
+      frac: 0.20339154
 - - - - '103'
       - Kevin Carter
-    - time: 2.979444 h
+    - time: 2.979174 h
       frac: 1
   - - - '110'
       - Bruce Barmakian
-    - time: 3.323889 h
-      frac: 0.59037143
+    - time: 3.323665 h
+      frac: 0.59032868
   - - - '106'
       - Larry Bunner
-    - time: 3.441944 h
-      frac: 0.50143865
+    - time: 3.441854 h
+      frac: 0.50130213
   - - - '104'
       - Derreck Turner
-    - time: 3.651667 h
-      frac: 0.36028575
+    - time: 3.651554 h
+      frac: 0.3601762
   - - - '105'
       - Cory Barnwell
-    - time: 4.365000 h
+    - time: 4.364792 h
       frac: 0
 nigh:
 - - - - '109'
