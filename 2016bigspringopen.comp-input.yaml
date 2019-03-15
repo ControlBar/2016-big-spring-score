@@ -38,25 +38,25 @@ tasks:
       lat: 32.2176
       lng: -101.5249
       radius: 10000.0 m
-      give: 9950.0 m
+      give: null
       alt: 771.000 m
     - zoneName: WINSTN
       lat: 32.6977
       lng: -100.9506
       radius: 1000.0 m
-      give: 1005.0 m
+      give: null
       alt: 701.000 m
     - zoneName: FISH
       lat: 32.8238
       lng: -100.4131
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 591.000 m
     - zoneName: FISH
       lat: 32.8238
       lng: -100.4131
       radius: 400.0 m
-      give: 398.0 m
+      give: null
       alt: 591.000 m
     raceKind:
       prolog:
@@ -125,37 +125,37 @@ tasks:
       lat: 32.2176
       lng: -101.5249
       radius: 10000.0 m
-      give: 9950.0 m
+      give: null
       alt: 771.000 m
     - zoneName: 12T
       lat: 32.40552
       lng: -101.33923
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 762.000 m
     - zoneName: ACKERL
       lat: 32.52643
       lng: -101.71603
       radius: 1000.0 m
-      give: 1005.0 m
+      give: null
       alt: 846.000 m
     - zoneName: GAIL
       lat: 32.7887
       lng: -101.5261
       radius: 10000.0 m
-      give: 10050.0 m
+      give: null
       alt: 808.000 m
     - zoneName: LAMESA
       lat: 32.7592
       lng: -101.9192
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 914.000 m
     - zoneName: LAMESA
       lat: 32.7592
       lng: -101.9192
       radius: 400.0 m
-      give: 398.0 m
+      give: null
       alt: 914.000 m
     raceKind:
       prolog:
@@ -227,25 +227,25 @@ tasks:
       lat: 32.2176
       lng: -101.5249
       radius: 10000.0 m
-      give: 9950.0 m
+      give: null
       alt: 771.000 m
     - zoneName: WINSTN
       lat: 32.6977
       lng: -100.9506
       radius: 5000.0 m
-      give: 5025.0 m
+      give: null
       alt: 701.000 m
     - zoneName: GUTHRI
       lat: 33.6361
       lng: -100.3494
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 540.000 m
     - zoneName: GUTHRI
       lat: 33.6361
       lng: -100.3494
       radius: 400.0 m
-      give: 398.0 m
+      give: null
       alt: 540.000 m
     raceKind:
       prolog:

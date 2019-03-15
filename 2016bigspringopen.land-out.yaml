@@ -22,7 +22,7 @@ difficulty:
     endAhead: 151.6 km
     down: 1
     downs:
-    - 24.829 km
+    - 24.817 km
     downers:
     - - '106'
       - Larry Bunner
@@ -35,7 +35,7 @@ difficulty:
     endAhead: 227.0 km
     down: 1
     downs:
-    - 100.220 km
+    - 100.218 km
     downers:
     - - '109'
       - Jay Devorak
@@ -71,26 +71,26 @@ difficulty:
     downward: 3
     rel: 0.25
     frac: 0.25
-  - chunk: 318
-    startChunk: 36.7 km
-    endChunk: 36.8 km
-    endAhead: 123.9 km
+  - chunk: 317
+    startChunk: 36.6 km
+    endChunk: 36.7 km
+    endAhead: 123.8 km
     down: 1
     downs:
-    - 36.706 km
+    - 36.617 km
     downers:
     - - '105'
       - Cory Barnwell
     downward: 2
     rel: 0.16666667
     frac: 0.41666667
-  - chunk: 649
-    startChunk: 69.8 km
-    endChunk: 69.9 km
-    endAhead: 157.0 km
+  - chunk: 648
+    startChunk: 69.7 km
+    endChunk: 69.8 km
+    endAhead: 156.9 km
     down: 1
     downs:
-    - 69.843 km
+    - 69.756 km
     downers:
     - - '102'
       - Tom McGowan
@@ -103,7 +103,7 @@ difficulty:
     endAhead: 120.3 km
     down: 1
     downs:
-    - -34.072 km
+    - -34.124 km
     downers:
     - - '102'
       - Tom McGowan
@@ -116,7 +116,7 @@ difficulty:
     endAhead: 141.1 km
     down: 1
     downs:
-    - 25.796 km
+    - 25.788 km
     downers:
     - - '101'
       - Davis Straub
@@ -129,7 +129,7 @@ difficulty:
     endAhead: 177.6 km
     down: 1
     downs:
-    - 62.257 km
+    - 62.255 km
     downers:
     - - '109'
       - Jay Devorak
@@ -142,7 +142,7 @@ difficulty:
     endAhead: 206.7 km
     down: 1
     downs:
-    - 91.391 km
+    - 91.389 km
     downers:
     - - '108'
       - David Whittle
@@ -155,7 +155,7 @@ difficulty:
     endAhead: 264.5 km
     down: 1
     downs:
-    - 149.155 km
+    - 149.153 km
     downers:
     - - '107'
       - Anna Eppink
