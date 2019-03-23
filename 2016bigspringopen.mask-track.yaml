@@ -57,118 +57,144 @@ sumDistance:
 - 1018.143451 km
 - 652.611049 km
 - 1318.706270 km
-leadScaling:
-- 4.047854e-8
-- 4.892319e-8
-- 1.665951e-8
+leadAreaToCoef:
+- 0.00000004047854 km^-2 s^-1
+- 0.00000004892319 km^-2 s^-1
+- 0.00000001665951 km^-2 s^-1
 leadCoefMin:
-- 1.3703534
-- 1.20213087
-- 2.28724386
+- 1.60405274
+- 1.42840809
+- 2.53396258
 leadRank:
 - - - - '110'
       - Bruce Barmakian
-    - coef: 1.3703534
+    - area: 39627233.2322 km^2 s
+      coef: 1.60405274
       frac: 1
   - - - '105'
       - Cory Barnwell
-    - coef: 1.46142514
-      frac: 0.80793407
+    - area: 42260802.9837 km^2 s
+      coef: 1.71065581
+      frac: 0.80793852
   - - - '104'
       - Derreck Turner
-    - coef: 1.46397883
-      frac: 0.80436024
+    - area: 42334649.2456 km^2 s
+      coef: 1.713645
+      frac: 0.80436478
   - - - '101'
       - Davis Straub
-    - coef: 1.50839585
-      frac: 0.74656319
+    - area: 43619079.8598 km^2 s
+      coef: 1.76563688
+      frac: 0.74656907
   - - - '106'
       - Larry Bunner
-    - coef: 1.94837259
-      frac: 0.34160063
+    - area: 56342119.6163 km^2 s
+      coef: 2.28064702
+      frac: 0.3416159
   - - - '102'
       - Tom McGowan
-    - coef: 2.06188266
-      frac: 0.25800392
+    - area: 59624550.1922 km^2 s
+      coef: 2.41351503
+      frac: 0.25802114
   - - - '108'
       - David Whittle
-    - coef: 2.16582229
-      frac: 0.18540194
+    - area: 62630227.4918 km^2 s
+      coef: 2.53518048
+      frac: 0.18542084
   - - - '103'
       - Kevin Carter
-    - coef: 2.21351461
-      frac: 0.15315944
+    - area: 64009371.5723 km^2 s
+      coef: 2.59100622
+      frac: 0.15317909
   - - - '109'
       - Jay Devorak
-    - coef: 3.18364558
+    - area: 92063161.2322 km^2 s
+      coef: 3.72658281
       frac: 0
 - - - - '104'
       - Derreck Turner
-    - coef: 1.20213087
+    - area: 29196951.7740 km^2 s
+      coef: 1.42840809
       frac: 1
   - - - '103'
       - Kevin Carter
-    - coef: 1.56966127
-      frac: 0.50241162
+    - area: 38123407.1916 km^2 s
+      coef: 1.86511879
+      frac: 0.48889305
   - - - '102'
       - Tom McGowan
-    - coef: 1.97552211
-      frac: 0.18290188
+    - area: 47980819.3170 km^2 s
+      coef: 2.34737486
+      frac: 0.16070281
   - - - '106'
       - Larry Bunner
-    - coef: 1.99513032
-      frac: 0.1691487
+    - area: 48457056.9364 km^2 s
+      coef: 2.37067392
+      frac: 0.14657598
   - - - '110'
       - Bruce Barmakian
-    - coef: 2.00027695
-      frac: 0.16555772
+    - area: 48582056.5448 km^2 s
+      coef: 2.3767893
+      frac: 0.14288744
   - - - '108'
       - David Whittle
-    - coef: 2.02657954
-      frac: 0.14732448
+    - area: 49220885.0693 km^2 s
+      coef: 2.40804283
+      frac: 0.12415884
   - - - '105'
       - Cory Barnwell
-    - coef: 2.93884332
+    - area: 71377642.1167 km^2 s
+      coef: 3.49202212
       frac: 0
 - - - - '110'
       - Bruce Barmakian
-    - coef: 2.28724386
+    - area: 152103062.5682 km^2 s
+      coef: 2.53396258
       frac: 1
   - - - '104'
       - Derreck Turner
-    - coef: 2.49407898
-      frac: 0.69530585
+    - area: 165857719.7166 km^2 s
+      coef: 2.76310844
+      frac: 0.72533208
   - - - '103'
       - Kevin Carter
-    - coef: 2.53135963
-      frac: 0.65971317
+    - area: 168336904.9639 km^2 s
+      coef: 2.80441045
+      frac: 0.69324689
   - - - '106'
       - Larry Bunner
-    - coef: 2.65198362
-      frac: 0.55526293
+    - area: 176358471.5562 km^2 s
+      coef: 2.93804582
+      frac: 0.59908975
   - - - '107'
       - Anna Eppink
-    - coef: 3.26311068
-      frac: 0.14288001
+    - area: 216998780.3872 km^2 s
+      coef: 3.61509348
+      frac: 0.22734529
   - - - '105'
       - Cory Barnwell
-    - coef: 3.32092597
-      frac: 0.10935236
+    - area: 220843531.3993 km^2 s
+      coef: 3.67914515
+      frac: 0.19712164
   - - - '108'
       - David Whittle
-    - coef: 4.13771639
+    - area: 275160574.5418 km^2 s
+      coef: 4.5840405
       frac: 0
   - - - '102'
       - Tom McGowan
-    - coef: 4.16829254
+    - area: 277193906.8372 km^2 s
+      coef: 4.61791482
       frac: 0
   - - - '109'
       - Jay Devorak
-    - coef: 5.0614567
+    - area: 336589849.0370 km^2 s
+      coef: 5.60742215
       frac: 0
   - - - '101'
       - Davis Straub
-    - coef: 7.04959771
+    - area: 468802396.0350 km^2 s
+      coef: 7.81001847
       frac: 0
 arrivalRank:
 - - - - '110'
@@ -352,27 +378,27 @@ ssSpeed:
   - - - '104'
       - Derreck Turner
     - time: 2.538478 h
-      frac: 0.95282804
+      frac: 0.9595774
   - - - '105'
       - Cory Barnwell
     - time: 2.613438 h
-      frac: 0.83062445
+      frac: 0.85485869
   - - - '103'
       - Kevin Carter
     - time: 2.650560 h
-      frac: 0.78577269
+      frac: 0.81642432
   - - - '101'
       - Davis Straub
     - time: 2.813308 h
-      frac: 0.62651005
+      frac: 0.67994897
   - - - '102'
       - Tom McGowan
     - time: 3.124486 h
-      frac: 0.39113467
+      frac: 0.47825108
   - - - '108'
       - David Whittle
     - time: 3.620255 h
-      frac: 8.980379e-2
+      frac: 0.22003461
 - - - - '104'
       - Derreck Turner
     - time: 2.088085 h
@@ -380,19 +406,19 @@ ssSpeed:
   - - - '110'
       - Bruce Barmakian
     - time: 2.221366 h
-      frac: 0.76920876
+      frac: 0.79586008
   - - - '103'
       - Kevin Carter
     - time: 2.367872 h
-      frac: 0.62162137
+      frac: 0.66531579
   - - - '106'
       - Larry Bunner
     - time: 2.504086 h
-      frac: 0.50708547
+      frac: 0.56400627
   - - - '108'
       - David Whittle
     - time: 2.887681 h
-      frac: 0.23799897
+      frac: 0.32599335
 - - - - '103'
       - Kevin Carter
     - time: 2.972819 h
@@ -400,19 +426,19 @@ ssSpeed:
   - - - '110'
       - Bruce Barmakian
     - time: 3.306221 h
-      frac: 0.59902511
+      frac: 0.66560809
   - - - '106'
       - Larry Bunner
     - time: 3.431841 h
-      frac: 0.50375734
+      frac: 0.58615978
   - - - '104'
       - Derreck Turner
     - time: 3.643064 h
-      frac: 0.36130374
+      frac: 0.46736099
   - - - '105'
       - Cory Barnwell
     - time: 4.243785 h
-      frac: 2.149897e-2
+      frac: 0.18398173
 gsSpeed:
 - - - - '110'
       - Bruce Barmakian
@@ -421,27 +447,27 @@ gsSpeed:
   - - - '104'
       - Derreck Turner
     - time: 2.549600 h
-      frac: 0.95431212
+      frac: 0.96087932
   - - - '105'
       - Cory Barnwell
     - time: 2.626184 h
-      frac: 0.82942912
+      frac: 0.85394705
   - - - '103'
       - Kevin Carter
     - time: 2.732534 h
-      frac: 0.71180871
+      frac: 0.75323346
   - - - '101'
       - Davis Straub
     - time: 2.824169 h
-      frac: 0.62753347
+      frac: 0.68107198
   - - - '102'
       - Tom McGowan
     - time: 3.399453 h
-      frac: 0.22434203
+      frac: 0.33583546
   - - - '108'
       - David Whittle
     - time: 3.632097 h
-      frac: 9.043334e-2
+      frac: 0.22117486
 - - - - '104'
       - Derreck Turner
     - time: 2.090506 h
@@ -449,19 +475,19 @@ gsSpeed:
   - - - '110'
       - Bruce Barmakian
     - time: 2.223678 h
-      frac: 0.76937862
+      frac: 0.7960497
   - - - '103'
       - Kevin Carter
     - time: 2.452771 h
-      frac: 0.55059062
+      frac: 0.60256428
   - - - '106'
       - Larry Bunner
     - time: 2.511523 h
-      frac: 0.503227
+      frac: 0.5606782
   - - - '108'
       - David Whittle
     - time: 2.945444 h
-      frac: 0.20338638
+      frac: 0.29551379
 - - - - '103'
       - Kevin Carter
     - time: 2.979194 h
@@ -469,19 +495,19 @@ gsSpeed:
   - - - '110'
       - Bruce Barmakian
     - time: 3.323683 h
-      frac: 0.59033089
+      frac: 0.65847952
   - - - '106'
       - Larry Bunner
     - time: 3.441881 h
-      frac: 0.50129779
+      frac: 0.58425712
   - - - '104'
       - Derreck Turner
     - time: 3.651575 h
-      frac: 0.36017606
+      frac: 0.46661105
   - - - '105'
       - Cory Barnwell
     - time: 4.364816 h
-      frac: 0
+      frac: 0.13623252
 nigh:
 - - - - '109'
       - Jay Devorak

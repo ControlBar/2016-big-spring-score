@@ -144,7 +144,7 @@ score:
   - - - '104'
       - Derreck Turner
     - place: '2'
-      total: 937
+      total: 940
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -153,7 +153,7 @@ score:
         distance: 372.529
         leading: 88.3
         arrival: 56.9
-        time: 419.2
+        time: 422
       velocity:
         ss: 2016-08-07T19:30:40.037576509732Z
         gs: 2016-08-07T19:30:00Z
@@ -169,7 +169,7 @@ score:
   - - - '105'
       - Cory Barnwell
     - place: '3'
-      total: 867
+      total: 877
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -178,7 +178,7 @@ score:
         distance: 372.529
         leading: 88.7
         arrival: 41.1
-        time: 364.3
+        time: 375.1
       velocity:
         ss: 2016-08-07T19:30:45.88792735799Z
         gs: 2016-08-07T19:30:00Z
@@ -194,7 +194,7 @@ score:
   - - - '101'
       - Davis Straub
     - place: '4'
-      total: 760
+      total: 784
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -203,7 +203,7 @@ score:
         distance: 372.529
         leading: 82
         arrival: 29.9
-        time: 275.6
+        time: 299.1
       velocity:
         ss: 2016-08-07T19:30:39.10228851036Z
         gs: 2016-08-07T19:30:00Z
@@ -219,7 +219,7 @@ score:
   - - - '103'
       - Kevin Carter
     - place: '5'
-      total: 725
+      total: 743
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -228,7 +228,7 @@ score:
         distance: 372.529
         leading: 16.8
         arrival: 22.7
-        time: 312.6
+        time: 330.8
       velocity:
         ss: 2016-08-07T19:54:55.107455912048Z
         gs: 2016-08-07T19:50:00Z
@@ -244,7 +244,7 @@ score:
   - - - '102'
       - Tom McGowan
     - place: '6'
-      total: 518
+      total: 567
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -253,7 +253,7 @@ score:
         distance: 372.529
         leading: 28.3
         arrival: 18.5
-        time: 98.5
+        time: 147.5
       velocity:
         ss: 2016-08-07T19:46:29.881407909048Z
         gs: 2016-08-07T19:30:00Z
@@ -269,7 +269,7 @@ score:
   - - - '108'
       - David Whittle
     - place: '7'
-      total: 449
+      total: 506
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -278,7 +278,7 @@ score:
         distance: 372.529
         leading: 20.4
         arrival: 16.5
-        time: 39.7
+        time: 97.1
       velocity:
         ss: 2016-08-07T19:30:42.63145757694Z
         gs: 2016-08-07T19:30:00Z
@@ -386,16 +386,16 @@ score:
   - - - '110'
       - Bruce Barmakian
     - place: '2'
-      total: 708
+      total: 715
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 191.754
         effort: 191.754
         distance: 383.508
-        leading: 15.2
+        leading: 13.1
         arrival: 26.6
-        time: 282.5
+        time: 292.3
       velocity:
         ss: 2016-08-08T19:20:08.323338452664Z
         gs: 2016-08-08T19:20:00Z
@@ -411,16 +411,16 @@ score:
   - - - '103'
       - Kevin Carter
     - place: '3'
-      total: 674
+      total: 691
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 191.754
         effort: 191.754
         distance: 383.508
-        leading: 46.1
+        leading: 44.9
         arrival: 41.8
-        time: 202.1
+        time: 221.2
       velocity:
         ss: 2016-08-08T19:05:05.635250750624Z
         gs: 2016-08-08T19:00:00Z
@@ -436,16 +436,16 @@ score:
   - - - '106'
       - Larry Bunner
     - place: '4'
-      total: 602
+      total: 621
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 191.754
         effort: 191.754
         distance: 383.508
-        leading: 15.5
+        leading: 13.5
         arrival: 18.1
-        time: 184.8
+        time: 205.8
       velocity:
         ss: 2016-08-08T19:20:26.77196087049Z
         gs: 2016-08-08T19:20:00Z
@@ -461,16 +461,16 @@ score:
   - - - '108'
       - David Whittle
     - place: '5'
-      total: 486
+      total: 518
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 191.754
         effort: 191.754
         distance: 383.508
-        leading: 13.5
+        leading: 11.4
         arrival: 14.3
-        time: 74.7
+        time: 108.5
       velocity:
         ss: 2016-08-08T19:03:27.945466391956Z
         gs: 2016-08-08T19:00:00Z
@@ -486,14 +486,14 @@ score:
   - - - '102'
       - Tom McGowan
     - place: '6'
-      total: 324
+      total: 322
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 115.62
         effort: 191.754
         distance: 307.375
-        leading: 16.8
+        leading: 14.7
         arrival: 0
         time: 0
       velocity:
@@ -570,14 +570,14 @@ score:
 - - - - '103'
       - Kevin Carter
     - place: '1'
-      total: 966
+      total: 969
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 211.187
         effort: 211.188
         distance: 422.375
-        leading: 66.7
+        leading: 70.1
         arrival: 72.2
         time: 404.3
       velocity:
@@ -595,7 +595,7 @@ score:
   - - - '110'
       - Bruce Barmakian
     - place: '2'
-      total: 808
+      total: 836
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -604,7 +604,7 @@ score:
         distance: 422.375
         leading: 101.1
         arrival: 46
-        time: 238.7
+        time: 266.2
       velocity:
         ss: 2016-08-11T19:01:02.863616548436Z
         gs: 2016-08-11T19:00:00Z
@@ -620,16 +620,16 @@ score:
   - - - '106'
       - Larry Bunner
     - place: '3'
-      total: 710
+      total: 748
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 211.187
         effort: 211.188
         distance: 422.375
-        leading: 56.1
+        leading: 60.6
         arrival: 29.3
-        time: 202.7
+        time: 236.2
       velocity:
         ss: 2016-08-11T19:00:36.14428572643Z
         gs: 2016-08-11T19:00:00Z
@@ -645,16 +645,16 @@ score:
   - - - '104'
       - Derreck Turner
     - place: '4'
-      total: 658
+      total: 704
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 211.187
         effort: 211.188
         distance: 422.375
-        leading: 70.3
+        leading: 73.3
         arrival: 19.9
-        time: 145.6
+        time: 188.7
       velocity:
         ss: 2016-08-11T19:00:30.640961126908Z
         gs: 2016-08-11T19:00:00Z
@@ -670,16 +670,16 @@ score:
   - - - '105'
       - Cory Barnwell
     - place: '5'
-      total: 449
+      total: 513
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 211.187
         effort: 211.188
         distance: 422.375
-        leading: 11.1
+        leading: 19.9
         arrival: 15.7
-        time: 0
+        time: 55.1
       velocity:
         ss: 2016-08-11T19:22:15.711420039075Z
         gs: 2016-08-11T19:15:00Z
@@ -695,14 +695,14 @@ score:
   - - - '107'
       - Anna Eppink
     - place: '6'
-      total: 391
+      total: 400
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 165.488
         effort: 211.188
         distance: 376.675
-        leading: 14.4
+        leading: 23
         arrival: 0
         time: 0
       velocity:
@@ -846,7 +846,7 @@ scoreDf:
   - - - '104'
       - Derreck Turner
     - place: '2'
-      total: 937
+      total: 940
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -855,7 +855,7 @@ scoreDf:
         distance: 372.529
         leading: 88.3
         arrival: 56.9
-        time: 419.2
+        time: 422
       velocity:
         ss: 2016-08-07T19:30:40.037576509732Z
         gs: 2016-08-07T19:30:00Z
@@ -871,7 +871,7 @@ scoreDf:
   - - - '105'
       - Cory Barnwell
     - place: '3'
-      total: 867
+      total: 877
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -880,7 +880,7 @@ scoreDf:
         distance: 372.529
         leading: 88.7
         arrival: 41.1
-        time: 364.3
+        time: 375.1
       velocity:
         ss: 2016-08-07T19:30:45.88792735799Z
         gs: 2016-08-07T19:30:00Z
@@ -896,7 +896,7 @@ scoreDf:
   - - - '101'
       - Davis Straub
     - place: '4'
-      total: 760
+      total: 784
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -905,7 +905,7 @@ scoreDf:
         distance: 372.529
         leading: 82
         arrival: 29.9
-        time: 275.6
+        time: 299.1
       velocity:
         ss: 2016-08-07T19:30:39.10228851036Z
         gs: 2016-08-07T19:30:00Z
@@ -921,7 +921,7 @@ scoreDf:
   - - - '103'
       - Kevin Carter
     - place: '5'
-      total: 725
+      total: 743
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -930,7 +930,7 @@ scoreDf:
         distance: 372.529
         leading: 16.8
         arrival: 22.7
-        time: 312.6
+        time: 330.8
       velocity:
         ss: 2016-08-07T19:54:55.107455912048Z
         gs: 2016-08-07T19:50:00Z
@@ -946,7 +946,7 @@ scoreDf:
   - - - '102'
       - Tom McGowan
     - place: '6'
-      total: 518
+      total: 567
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -955,7 +955,7 @@ scoreDf:
         distance: 372.529
         leading: 28.3
         arrival: 18.5
-        time: 98.5
+        time: 147.5
       velocity:
         ss: 2016-08-07T19:46:29.881407909048Z
         gs: 2016-08-07T19:30:00Z
@@ -971,7 +971,7 @@ scoreDf:
   - - - '108'
       - David Whittle
     - place: '7'
-      total: 449
+      total: 506
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -980,7 +980,7 @@ scoreDf:
         distance: 372.529
         leading: 20.4
         arrival: 16.5
-        time: 39.7
+        time: 97.1
       velocity:
         ss: 2016-08-07T19:30:42.63145757694Z
         gs: 2016-08-07T19:30:00Z
@@ -1071,16 +1071,16 @@ scoreDf:
   - - - '110'
       - Bruce Barmakian
     - place: '2'
-      total: 708
+      total: 715
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 191.754
         effort: 191.754
         distance: 383.508
-        leading: 15.2
+        leading: 13.1
         arrival: 26.6
-        time: 282.5
+        time: 292.3
       velocity:
         ss: 2016-08-08T19:20:08.323338452664Z
         gs: 2016-08-08T19:20:00Z
@@ -1096,16 +1096,16 @@ scoreDf:
   - - - '103'
       - Kevin Carter
     - place: '3'
-      total: 674
+      total: 691
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 191.754
         effort: 191.754
         distance: 383.508
-        leading: 46.1
+        leading: 44.9
         arrival: 41.8
-        time: 202.1
+        time: 221.2
       velocity:
         ss: 2016-08-08T19:05:05.635250750624Z
         gs: 2016-08-08T19:00:00Z
@@ -1121,16 +1121,16 @@ scoreDf:
   - - - '106'
       - Larry Bunner
     - place: '4'
-      total: 602
+      total: 621
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 191.754
         effort: 191.754
         distance: 383.508
-        leading: 15.5
+        leading: 13.5
         arrival: 18.1
-        time: 184.8
+        time: 205.8
       velocity:
         ss: 2016-08-08T19:20:26.77196087049Z
         gs: 2016-08-08T19:20:00Z
@@ -1146,16 +1146,16 @@ scoreDf:
   - - - '108'
       - David Whittle
     - place: '5'
-      total: 486
+      total: 518
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 191.754
         effort: 191.754
         distance: 383.508
-        leading: 13.5
+        leading: 11.4
         arrival: 14.3
-        time: 74.7
+        time: 108.5
       velocity:
         ss: 2016-08-08T19:03:27.945466391956Z
         gs: 2016-08-08T19:00:00Z
@@ -1171,14 +1171,14 @@ scoreDf:
   - - - '102'
       - Tom McGowan
     - place: '6'
-      total: 324
+      total: 322
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 115.62
         effort: 191.754
         distance: 307.375
-        leading: 16.8
+        leading: 14.7
         arrival: 0
         time: 0
       velocity:
@@ -1221,14 +1221,14 @@ scoreDf:
 - - - - '103'
       - Kevin Carter
     - place: '1'
-      total: 966
+      total: 969
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 211.187
         effort: 211.188
         distance: 422.375
-        leading: 66.7
+        leading: 70.1
         arrival: 72.2
         time: 404.3
       velocity:
@@ -1246,7 +1246,7 @@ scoreDf:
   - - - '110'
       - Bruce Barmakian
     - place: '2'
-      total: 808
+      total: 836
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -1255,7 +1255,7 @@ scoreDf:
         distance: 422.375
         leading: 101.1
         arrival: 46
-        time: 238.7
+        time: 266.2
       velocity:
         ss: 2016-08-11T19:01:02.863616548436Z
         gs: 2016-08-11T19:00:00Z
@@ -1271,16 +1271,16 @@ scoreDf:
   - - - '106'
       - Larry Bunner
     - place: '3'
-      total: 710
+      total: 748
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 211.187
         effort: 211.188
         distance: 422.375
-        leading: 56.1
+        leading: 60.6
         arrival: 29.3
-        time: 202.7
+        time: 236.2
       velocity:
         ss: 2016-08-11T19:00:36.14428572643Z
         gs: 2016-08-11T19:00:00Z
@@ -1296,16 +1296,16 @@ scoreDf:
   - - - '104'
       - Derreck Turner
     - place: '4'
-      total: 658
+      total: 704
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 211.187
         effort: 211.188
         distance: 422.375
-        leading: 70.3
+        leading: 73.3
         arrival: 19.9
-        time: 145.6
+        time: 188.7
       velocity:
         ss: 2016-08-11T19:00:30.640961126908Z
         gs: 2016-08-11T19:00:00Z
@@ -1321,16 +1321,16 @@ scoreDf:
   - - - '105'
       - Cory Barnwell
     - place: '5'
-      total: 449
+      total: 513
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 211.187
         effort: 211.188
         distance: 422.375
-        leading: 11.1
+        leading: 19.9
         arrival: 15.7
-        time: 0
+        time: 55.1
       velocity:
         ss: 2016-08-11T19:22:15.711420039075Z
         gs: 2016-08-11T19:15:00Z
@@ -1346,14 +1346,14 @@ scoreDf:
   - - - '107'
       - Anna Eppink
     - place: '6'
-      total: 391
+      total: 400
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 165.488
         effort: 211.188
         distance: 376.675
-        leading: 14.4
+        leading: 23
         arrival: 0
         time: 0
       velocity:
