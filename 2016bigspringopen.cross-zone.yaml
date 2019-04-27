@@ -1789,14 +1789,14 @@ crossing:
       - Kevin Carter
     - zonesCrossSelected:
       - crossingPair:
+        - fix: 88
+          time: 2016-08-07T19:07:08Z
+          lat: 32.21388333
+          lng: -101.52646667
         - fix: 89
           time: 2016-08-07T19:07:10Z
           lat: 32.21423333
           lng: -101.52636667
-        - fix: 90
-          time: 2016-08-07T19:07:12Z
-          lat: 32.21441667
-          lng: -101.52606667
         inZone:
         - false
         - true
@@ -1850,14 +1850,14 @@ crossing:
         - false
       zonesCrossNominees:
       - - crossingPair:
+          - fix: 88
+            time: 2016-08-07T19:07:08Z
+            lat: 32.21388333
+            lng: -101.52646667
           - fix: 89
             time: 2016-08-07T19:07:10Z
             lat: 32.21423333
             lng: -101.52636667
-          - fix: 90
-            time: 2016-08-07T19:07:12Z
-            lat: 32.21441667
-            lng: -101.52606667
           inZone:
           - false
           - true
@@ -1874,14 +1874,14 @@ crossing:
           - true
           - false
         - crossingPair:
+          - fix: 102
+            time: 2016-08-07T19:07:36Z
+            lat: 32.21391667
+            lng: -101.52558333
           - fix: 103
             time: 2016-08-07T19:07:39Z
             lat: 32.2141
             lng: -101.52586667
-          - fix: 104
-            time: 2016-08-07T19:07:41Z
-            lat: 32.21445
-            lng: -101.52603333
           inZone:
           - false
           - true
@@ -4614,14 +4614,14 @@ crossing:
           - false
           - true
         - crossingPair:
-          - fix: 1238
-            time: 2016-08-11T19:01:07Z
-            lat: 32.2204
-            lng: -101.5225
           - fix: 1239
             time: 2016-08-11T19:01:08Z
             lat: 32.22058333
             lng: -101.52253333
+          - fix: 1240
+            time: 2016-08-11T19:01:09Z
+            lat: 32.22076667
+            lng: -101.52255
           inZone:
           - true
           - false
