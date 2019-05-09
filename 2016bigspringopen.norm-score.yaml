@@ -20,6 +20,7 @@ score:
       leadingArea: 39597719.0000 km^2 s
       leadingCoef: 1.60298756
       leadingFrac: 1
+      arrivalFrac: 1
   - - - '104'
       - Derreck Turner
     - place: '2'
@@ -37,6 +38,7 @@ score:
       leadingArea: 42328238.0000 km^2 s
       leadingCoef: 1.71352393
       leadingFrac: 0.80327869
+      arrivalFrac: 0.72576531
   - - - '105'
       - Cory Barnwell
     - place: '3'
@@ -54,6 +56,7 @@ score:
       leadingArea: 42254813.0000 km^2 s
       leadingCoef: 1.71055155
       leadingFrac: 0.80692168
+      arrivalFrac: 0.52423469
   - - - '101'
       - Davis Straub
     - place: '4'
@@ -71,6 +74,7 @@ score:
       leadingArea: 43595250.0000 km^2 s
       leadingCoef: 1.7648149
       leadingFrac: 0.74590164
+      arrivalFrac: 0.38137755
   - - - '103'
       - Kevin Carter
     - place: '5'
@@ -88,6 +92,7 @@ score:
       leadingArea: 64857827.0000 km^2 s
       leadingCoef: 2.62556261
       leadingFrac: 0.13296903
+      arrivalFrac: 0.28954082
   - - - '102'
       - Tom McGowan
     - place: '6'
@@ -105,6 +110,7 @@ score:
       leadingArea: 59575959.0000 km^2 s
       leadingCoef: 2.41174302
       leadingFrac: 0.25774135
+      arrivalFrac: 0.23596939
   - - - '108'
       - David Whittle
     - place: '7'
@@ -122,6 +128,7 @@ score:
       leadingArea: 62504288.0000 km^2 s
       leadingCoef: 2.53028707
       leadingFrac: 0.18761384
+      arrivalFrac: 0.21045918
   - - - '107'
       - Anna Eppink
     - place: '8'
@@ -139,6 +146,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '109'
       - Jay Devorak
     - place: '9'
@@ -156,6 +164,7 @@ score:
       leadingArea: 91795940.0000 km^2 s
       leadingCoef: 3.71606636
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '106'
       - Larry Bunner
     - place: '10'
@@ -173,6 +182,7 @@ score:
       leadingArea: 56194885.0000 km^2 s
       leadingCoef: 2.27487098
       leadingFrac: 0.3442623
+      arrivalFrac: 0
 - - - - '104'
       - Derreck Turner
     - place: '1'
@@ -190,6 +200,7 @@ score:
       leadingArea: 29186512.0000 km^2 s
       leadingCoef: 1.42772259
       leadingFrac: 1
+      arrivalFrac: 1
   - - - '101'
       - Davis Straub
     - place: '2'
@@ -207,6 +218,7 @@ score:
       leadingArea: 29257165.0000 km^2 s
       leadingCoef: 1.43117874
       leadingFrac: 0.9793621
+      arrivalFrac: 0.68725361
   - - - '110'
       - Bruce Barmakian
     - place: '3'
@@ -224,6 +236,7 @@ score:
       leadingArea: 48855482.0000 km^2 s
       leadingCoef: 2.38987366
       leadingFrac: 0.13414634
+      arrivalFrac: 0.32982917
   - - - '103'
       - Kevin Carter
     - place: '4'
@@ -241,6 +254,7 @@ score:
       leadingArea: 38099308.0000 km^2 s
       leadingCoef: 1.86371165
       leadingFrac: 0.48874296
+      arrivalFrac: 0.47043364
   - - - '106'
       - Larry Bunner
     - place: '5'
@@ -258,6 +272,7 @@ score:
       leadingArea: 48765118.0000 km^2 s
       leadingCoef: 2.38545328
       leadingFrac: 0.1369606
+      arrivalFrac: 0.25098555
   - - - '108'
       - David Whittle
     - place: '6'
@@ -275,6 +290,7 @@ score:
       leadingArea: 49219907.0000 km^2 s
       leadingCoef: 2.40770032
       leadingFrac: 0.12382739
+      arrivalFrac: 0.21287779
   - - - '102'
       - Tom McGowan
     - place: '7'
@@ -292,6 +308,7 @@ score:
       leadingArea: 47735812.0000 km^2 s
       leadingCoef: 2.33510253
       leadingFrac: 0.16791745
+      arrivalFrac: 0
   - - - '105'
       - Cory Barnwell
     - place: '8'
@@ -309,6 +326,7 @@ score:
       leadingArea: 70648688.0000 km^2 s
       leadingCoef: 3.45593637
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '109'
       - Jay Devorak
     - place: '9'
@@ -326,6 +344,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '107'
       - Anna Eppink
     - place: '9'
@@ -343,6 +362,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
 - - - - '103'
       - Kevin Carter
     - place: '1'
@@ -360,6 +380,7 @@ score:
       leadingArea: 168473701.0000 km^2 s
       leadingCoef: 2.80694687
       leadingFrac: 0.69139466
+      arrivalFrac: 1
   - - - '110'
       - Bruce Barmakian
     - place: '2'
@@ -377,6 +398,7 @@ score:
       leadingArea: 152105056.0000 km^2 s
       leadingCoef: 2.53422824
       leadingFrac: 1
+      arrivalFrac: 0.63711911
   - - - '106'
       - Larry Bunner
     - place: '3'
@@ -394,6 +416,7 @@ score:
       leadingArea: 176500350.0000 km^2 s
       leadingCoef: 2.94067918
       leadingFrac: 0.59742829
+      arrivalFrac: 0.40581717
   - - - '104'
       - Derreck Turner
     - place: '4'
@@ -411,6 +434,7 @@ score:
       leadingArea: 165806812.0000 km^2 s
       leadingCoef: 2.76251373
       leadingFrac: 0.72601385
+      arrivalFrac: 0.27562327
   - - - '105'
       - Cory Barnwell
     - place: '5'
@@ -428,6 +452,7 @@ score:
       leadingArea: 220373998.0000 km^2 s
       leadingCoef: 3.67165974
       leadingFrac: 0.2007913
+      arrivalFrac: 0.21745152
   - - - '107'
       - Anna Eppink
     - place: '6'
@@ -445,6 +470,7 @@ score:
       leadingArea: 216862502.0000 km^2 s
       leadingCoef: 3.61315456
       leadingFrac: 0.22848665
+      arrivalFrac: 0
   - - - '108'
       - David Whittle
     - place: '7'
@@ -462,6 +488,7 @@ score:
       leadingArea: 274977491.0000 km^2 s
       leadingCoef: 4.58141066
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '109'
       - Jay Devorak
     - place: '8'
@@ -479,6 +506,7 @@ score:
       leadingArea: 335411842.0000 km^2 s
       leadingCoef: 5.58830972
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '102'
       - Tom McGowan
     - place: '9'
@@ -496,6 +524,7 @@ score:
       leadingArea: 276272261.0000 km^2 s
       leadingCoef: 4.60298286
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '101'
       - Davis Straub
     - place: '10'
@@ -513,3 +542,4 @@ score:
       leadingArea: 467132951.0000 km^2 s
       leadingCoef: 7.78292022
       leadingFrac: 0
+      arrivalFrac: 0
