@@ -265,6 +265,22 @@ arrivalRank:
       - Cory Barnwell
     - rank: '5'
       frac: 0.217664
+flownMean:
+- 118.126985 km
+- 98.229762 km
+- 136.870366 km
+flownStdDev:
+- 18.175850 km
+- 32.091820 km
+- 65.822683 km
+reachMean:
+- 118.126985 km
+- 98.229762 km
+- 136.870366 km
+reachStdDev:
+- 18.175850 km
+- 32.091820 km
+- 65.822683 km
 reachRank:
 - - - - '110'
       - Bruce Barmakian
