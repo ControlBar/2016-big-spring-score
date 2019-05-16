@@ -1,3 +1,8 @@
+suspectDnf:
+- []
+- - - '101'
+    - Davis Straub
+- []
 flying:
 - - - - '107'
       - Anna Eppink
@@ -6543,11 +6548,6 @@ crossing:
           inZone:
           - false
           - true
-suspectDnf:
-- []
-- - - '101'
-    - Davis Straub
-- []
 trackLogError:
 - fileUnset:
   - - '107'
