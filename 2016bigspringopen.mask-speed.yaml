@@ -1,0 +1,182 @@
+ssBestTime:
+- 2.525562 h
+- 2.088085 h
+- 2.972819 h
+gsBestTime:
+- 2.537274 h
+- 2.090506 h
+- 2.979194 h
+taskDistance:
+- 126.747570 km
+- 116.154314 km
+- 192.209017 km
+taskSpeedDistance:
+- 117.147570 km
+- 106.554314 km
+- 182.609017 km
+ssSpeed:
+- - - - '110'
+      - Bruce Barmakian
+    - time: 2.525562 h
+      frac: 1
+  - - - '104'
+      - Derreck Turner
+    - time: 2.538478 h
+      frac: 0.95957737
+  - - - '105'
+      - Cory Barnwell
+    - time: 2.613438 h
+      frac: 0.8548587
+  - - - '103'
+      - Kevin Carter
+    - time: 2.650560 h
+      frac: 0.81642432
+  - - - '101'
+      - Davis Straub
+    - time: 2.813308 h
+      frac: 0.67994893
+  - - - '102'
+      - Tom McGowan
+    - time: 3.124486 h
+      frac: 0.47825105
+  - - - '108'
+      - David Whittle
+    - time: 3.620255 h
+      frac: 0.22003448
+- - - - '104'
+      - Derreck Turner
+    - time: 2.088085 h
+      frac: 1
+  - - - '110'
+      - Bruce Barmakian
+    - time: 2.221366 h
+      frac: 0.79586006
+  - - - '103'
+      - Kevin Carter
+    - time: 2.367872 h
+      frac: 0.66531573
+  - - - '106'
+      - Larry Bunner
+    - time: 2.504086 h
+      frac: 0.56400624
+  - - - '108'
+      - David Whittle
+    - time: 2.887681 h
+      frac: 0.32599335
+- - - - '103'
+      - Kevin Carter
+    - time: 2.972819 h
+      frac: 1
+  - - - '110'
+      - Bruce Barmakian
+    - time: 3.306221 h
+      frac: 0.66560806
+  - - - '106'
+      - Larry Bunner
+    - time: 3.431841 h
+      frac: 0.58615976
+  - - - '104'
+      - Derreck Turner
+    - time: 3.643064 h
+      frac: 0.46736093
+  - - - '105'
+      - Cory Barnwell
+    - time: 4.243785 h
+      frac: 0.18398175
+gsSpeed:
+- - - - '110'
+      - Bruce Barmakian
+    - time: 2.537274 h
+      frac: 1
+  - - - '104'
+      - Derreck Turner
+    - time: 2.549600 h
+      frac: 0.96087932
+  - - - '105'
+      - Cory Barnwell
+    - time: 2.626184 h
+      frac: 0.85394705
+  - - - '103'
+      - Kevin Carter
+    - time: 2.732534 h
+      frac: 0.75323346
+  - - - '101'
+      - Davis Straub
+    - time: 2.824169 h
+      frac: 0.68107198
+  - - - '102'
+      - Tom McGowan
+    - time: 3.399453 h
+      frac: 0.33583546
+  - - - '108'
+      - David Whittle
+    - time: 3.632097 h
+      frac: 0.22117486
+- - - - '104'
+      - Derreck Turner
+    - time: 2.090506 h
+      frac: 1
+  - - - '110'
+      - Bruce Barmakian
+    - time: 2.223678 h
+      frac: 0.79604971
+  - - - '103'
+      - Kevin Carter
+    - time: 2.452771 h
+      frac: 0.60256428
+  - - - '106'
+      - Larry Bunner
+    - time: 2.511523 h
+      frac: 0.5606782
+  - - - '108'
+      - David Whittle
+    - time: 2.945444 h
+      frac: 0.29551379
+- - - - '103'
+      - Kevin Carter
+    - time: 2.979194 h
+      frac: 1
+  - - - '110'
+      - Bruce Barmakian
+    - time: 3.323683 h
+      frac: 0.65847952
+  - - - '106'
+      - Larry Bunner
+    - time: 3.441881 h
+      frac: 0.58425712
+  - - - '104'
+      - Derreck Turner
+    - time: 3.651575 h
+      frac: 0.46661105
+  - - - '105'
+      - Cory Barnwell
+    - time: 4.364816 h
+      frac: 0.13623252
+altStopped:
+- - - - '109'
+      - Jay Devorak
+    - 692.000 m
+  - - - '106'
+      - Larry Bunner
+    - 618.000 m
+- - - - '105'
+      - Cory Barnwell
+    - 808.000 m
+  - - - '102'
+      - Tom McGowan
+    - 872.000 m
+- - - - '107'
+      - Anna Eppink
+    - 725.000 m
+  - - - '108'
+      - David Whittle
+    - 761.000 m
+  - - - '101'
+      - Davis Straub
+    - 752.000 m
+  - - - '109'
+      - Jay Devorak
+    - 687.000 m
+  - - - '102'
+      - Tom McGowan
+    - 564.000 m

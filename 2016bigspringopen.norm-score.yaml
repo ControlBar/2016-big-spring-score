@@ -2,544 +2,933 @@ bestTime:
 - 2.537222 h
 - 2.090278 h
 - 2.979167 h
+validity:
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
+validityWorkingDistance:
+- area: 72.718375
+  flying: 10
+  minimumDistance: 5.000 km
+  nominalDistance: 120.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 126.747000 km
+    flown: 126.747000 km
+  sum: 1115.1 km
+- area: 71.875
+  flying: 10
+  minimumDistance: 5.000 km
+  nominalDistance: 120.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 116.174000 km
+    flown: 116.174000 km
+  sum: 763.9 km
+- area: 80.901
+  flying: 10
+  minimumDistance: 5.000 km
+  nominalDistance: 120.0 km
+  nominalGoal: 0.25
+  reachMax:
+    extra: 192.208000 km
+    flown: 192.208000 km
+  sum: 1318.7 km
+validityWorkingLaunch:
+- flying: 10
+  nominalLaunch: 1
+  present: 10
+- flying: 10
+  nominalLaunch: 1
+  present: 10
+- flying: 10
+  nominalLaunch: 1
+  present: 10
+validityWorkingStop:
+- flying: 10
+  landed: 0
+  launchToEssDistance: 126.747 km
+  pilotsAtEss: 7
+  reachStats:
+    extra:
+      max: 126.748000 km
+      mean: 117.542500 km
+      stdDev: 14.681761 km
+    flown:
+      max: 126.748000 km
+      mean: 116.511800 km
+      stdDev: 16.964765 km
+  stillFlying: 10
+- flying: 10
+  landed: 0
+  launchToEssDistance: 116.174 km
+  pilotsAtEss: 6
+  reachStats:
+    extra:
+      max: 116.175000 km
+      mean: 81.374500 km
+      stdDev: 45.906991 km
+    flown:
+      max: 116.175000 km
+      mean: 81.385300 km
+      stdDev: 45.881115 km
+  stillFlying: 10
+- flying: 10
+  landed: 0
+  launchToEssDistance: 192.208 km
+  pilotsAtEss: 5
+  reachStats:
+    extra:
+      max: 192.209000 km
+      mean: 138.809100 km
+      stdDev: 61.307733 km
+    flown:
+      max: 192.209000 km
+      mean: 136.865300 km
+      stdDev: 62.450235 km
+  stillFlying: 10
+validityWorkingTime:
+- gsBestTime: 2.537222 h
+  nominalDistance: 120.0 km
+  nominalTime: 2.000000 h
+  reachMax:
+    extra: 126.747000 km
+    flown: 126.747000 km
+  ssBestTime: null
+- gsBestTime: 2.090278 h
+  nominalDistance: 120.0 km
+  nominalTime: 2.000000 h
+  reachMax:
+    extra: 116.174000 km
+    flown: 116.174000 km
+  ssBestTime: null
+- gsBestTime: 2.979167 h
+  nominalDistance: 120.0 km
+  nominalTime: 2.000000 h
+  reachMax:
+    extra: 192.208000 km
+    flown: 192.208000 km
+  ssBestTime: null
 score:
 - - - - '110'
       - Bruce Barmakian
-    - place: '1'
+    - breakdown:
+        distance: 372.5
+        leading: 109.8
+        arrival: 78.4
+        time: 439.2
+        effort: 0
+        reach: 0
+      place: '1'
       total: 1000
-      distance: 372.5
-      leading: 109.8
-      arrival: 78.4
-      time: 439.2
-      distanceMade: 126.747000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 1
+        arrival: 1
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 126.748000 km
+        flown: 126.748000 km
+      landedMade: 126.747000 km
       ss: 2016-08-07T19:30:00Z
       es: 2016-08-07T22:02:14Z
       timeElapsed: 2.537222 h
-      timeFrac: 1
       leadingArea: 39597719.0000 km^2 s
       leadingCoef: 1.60298756
-      leadingFrac: 1
-      arrivalFrac: 1
   - - - '104'
       - Derreck Turner
-    - place: '2'
+    - breakdown:
+        distance: 372.5
+        leading: 88.2
+        arrival: 56.9
+        time: 422.1
+        effort: 0
+        reach: 0
+      place: '2'
       total: 940
-      distance: 372.5
-      leading: 88.2
-      arrival: 56.9
-      time: 422.1
-      distanceMade: 126.747000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.80327869
+        arrival: 0.72576531
+        time: 0.96109722
+        effort: 0
+        reach: 0
+      reach:
+        extra: 126.748000 km
+        flown: 126.748000 km
+      landedMade: 126.747000 km
       ss: 2016-08-07T19:30:00Z
       es: 2016-08-07T22:02:58Z
       timeElapsed: 2.549444 h
-      timeFrac: 0.96109722
       leadingArea: 42328238.0000 km^2 s
       leadingCoef: 1.71352393
-      leadingFrac: 0.80327869
-      arrivalFrac: 0.72576531
   - - - '105'
       - Cory Barnwell
-    - place: '3'
+    - breakdown:
+        distance: 372.5
+        leading: 88.6
+        arrival: 41.1
+        time: 375.1
+        effort: 0
+        reach: 0
+      place: '3'
       total: 877
-      distance: 372.5
-      leading: 88.6
-      arrival: 41.1
-      time: 375.1
-      distanceMade: 126.747000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.80692168
+        arrival: 0.52423469
+        time: 0.85396886
+        effort: 0
+        reach: 0
+      reach:
+        extra: 126.748000 km
+        flown: 126.748000 km
+      landedMade: 126.747000 km
       ss: 2016-08-07T19:30:00Z
       es: 2016-08-07T22:07:34Z
       timeElapsed: 2.626111 h
-      timeFrac: 0.85396886
       leadingArea: 42254813.0000 km^2 s
       leadingCoef: 1.71055155
-      leadingFrac: 0.80692168
-      arrivalFrac: 0.52423469
   - - - '101'
       - Davis Straub
-    - place: '4'
+    - breakdown:
+        distance: 372.5
+        leading: 81.9
+        arrival: 29.9
+        time: 299.1
+        effort: 0
+        reach: 0
+      place: '4'
       total: 783
-      distance: 372.5
-      leading: 81.9
-      arrival: 29.9
-      time: 299.1
-      distanceMade: 126.747000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.74590164
+        arrival: 0.38137755
+        time: 0.68103303
+        effort: 0
+        reach: 0
+      reach:
+        extra: 126.748000 km
+        flown: 126.748000 km
+      landedMade: 126.747000 km
       ss: 2016-08-07T19:30:00Z
       es: 2016-08-07T22:19:27Z
       timeElapsed: 2.824167 h
-      timeFrac: 0.68103303
       leadingArea: 43595250.0000 km^2 s
       leadingCoef: 1.7648149
-      leadingFrac: 0.74590164
-      arrivalFrac: 0.38137755
   - - - '103'
       - Kevin Carter
-    - place: '5'
+    - breakdown:
+        distance: 372.5
+        leading: 14.6
+        arrival: 22.7
+        time: 330.8
+        effort: 0
+        reach: 0
+      place: '5'
       total: 741
-      distance: 372.5
-      leading: 14.6
-      arrival: 22.7
-      time: 330.8
-      distanceMade: 126.747000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.13296903
+        arrival: 0.28954082
+        time: 0.75321673
+        effort: 0
+        reach: 0
+      reach:
+        extra: 126.748000 km
+        flown: 126.748000 km
+      landedMade: 126.747000 km
       ss: 2016-08-07T19:50:00Z
       es: 2016-08-07T22:33:57Z
       timeElapsed: 2.732500 h
-      timeFrac: 0.75321673
       leadingArea: 64857827.0000 km^2 s
       leadingCoef: 2.62556261
-      leadingFrac: 0.13296903
-      arrivalFrac: 0.28954082
   - - - '102'
       - Tom McGowan
-    - place: '6'
+    - breakdown:
+        distance: 372.5
+        leading: 28.3
+        arrival: 18.5
+        time: 147.5
+        effort: 0
+        reach: 0
+      place: '6'
       total: 567
-      distance: 372.5
-      leading: 28.3
-      arrival: 18.5
-      time: 147.5
-      distanceMade: 126.747000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.25774135
+        arrival: 0.23596939
+        time: 0.33580851
+        effort: 0
+        reach: 0
+      reach:
+        extra: 126.748000 km
+        flown: 126.748000 km
+      landedMade: 126.747000 km
       ss: 2016-08-07T19:30:00Z
       es: 2016-08-07T22:53:58Z
       timeElapsed: 3.399444 h
-      timeFrac: 0.33580851
       leadingArea: 59575959.0000 km^2 s
       leadingCoef: 2.41174302
-      leadingFrac: 0.25774135
-      arrivalFrac: 0.23596939
   - - - '108'
       - David Whittle
-    - place: '7'
+    - breakdown:
+        distance: 372.5
+        leading: 20.6
+        arrival: 16.5
+        time: 97.2
+        effort: 0
+        reach: 0
+      place: '7'
       total: 507
-      distance: 372.5
-      leading: 20.6
-      arrival: 16.5
-      time: 97.2
-      distanceMade: 126.747000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.18761384
+        arrival: 0.21045918
+        time: 0.22121702
+        effort: 0
+        reach: 0
+      reach:
+        extra: 126.748000 km
+        flown: 126.748000 km
+      landedMade: 126.747000 km
       ss: 2016-08-07T19:30:00Z
       es: 2016-08-07T23:07:55Z
       timeElapsed: 3.631944 h
-      timeFrac: 0.22121702
       leadingArea: 62504288.0000 km^2 s
       leadingCoef: 2.53028707
-      leadingFrac: 0.18761384
-      arrivalFrac: 0.21045918
   - - - '107'
       - Anna Eppink
-    - place: '8'
+    - breakdown:
+        distance: 336.2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '8'
       total: 336
-      distance: 336.2
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 102.000000 km
-      distanceFrac: 0.8047527752136145
+      fractions:
+        distance: 0.90255034
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 102.000000 km
+        flown: 102.000000 km
+      landedMade: 0.000000 km
       ss: 2016-08-07T19:50:00Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '109'
       - Jay Devorak
-    - place: '9'
+    - breakdown:
+        distance: 332.3
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '9'
       total: 332
-      distance: 332.3
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 100.217000 km
-      distanceFrac: 0.7906853811135569
+      fractions:
+        distance: 0.89208054
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 101.012000 km
+        flown: 100.217000 km
+      landedMade: 100.217000 km
       ss: 2016-08-07T19:50:00Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 91795940.0000 km^2 s
       leadingCoef: 3.71606636
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '106'
       - Larry Bunner
-    - place: '10'
+    - breakdown:
+        distance: 263.4
+        leading: 37.8
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '10'
       total: 301
-      distance: 263.4
-      leading: 37.8
-      arrival: 0
-      time: 0
-      distanceMade: 75.665000 km
-      distanceFrac: 0.5969766542797857
+      fractions:
+        distance: 0.70711409
+        leading: 0.3442623
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 85.177000 km
+        flown: 75.665000 km
+      landedMade: 24.824000 km
       ss: 2016-08-07T19:30:00Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 56194885.0000 km^2 s
       leadingCoef: 2.27487098
-      leadingFrac: 0.3442623
-      arrivalFrac: 0
 - - - - '104'
       - Derreck Turner
-    - place: '1'
+    - breakdown:
+        distance: 390.9
+        leading: 106.6
+        arrival: 76.1
+        time: 426.4
+        effort: 0
+        reach: 0
+      place: '1'
       total: 1000
-      distance: 390.9
-      leading: 106.6
-      arrival: 76.1
-      time: 426.4
-      distanceMade: 116.174000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 1
+        arrival: 1
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 116.175000 km
+        flown: 116.175000 km
+      landedMade: 116.174000 km
       ss: 2016-08-08T19:00:00Z
       es: 2016-08-08T21:05:25Z
       timeElapsed: 2.090278 h
-      timeFrac: 1
       leadingArea: 29186512.0000 km^2 s
       leadingCoef: 1.42772259
-      leadingFrac: 1
-      arrivalFrac: 1
   - - - '101'
       - Davis Straub
-    - place: '2'
+    - breakdown:
+        distance: 390.9
+        leading: 104.4
+        arrival: 52.3
+        time: 413.3
+        effort: 0
+        reach: 0
+      place: '2'
       total: 961
-      distance: 390.9
-      leading: 104.4
-      arrival: 52.3
-      time: 413.3
-      distanceMade: 116.174000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.9793621
+        arrival: 0.68725361
+        time: 0.96929783
+        effort: 0
+        reach: 0
+      reach:
+        extra: 116.175000 km
+        flown: 116.175000 km
+      landedMade: 116.174000 km
       ss: 2016-08-08T19:00:00Z
       es: 2016-08-08T21:05:53Z
       timeElapsed: 2.098056 h
-      timeFrac: 0.96929783
       leadingArea: 29257165.0000 km^2 s
       leadingCoef: 1.43117874
-      leadingFrac: 0.9793621
-      arrivalFrac: 0.68725361
   - - - '110'
       - Bruce Barmakian
-    - place: '3'
+    - breakdown:
+        distance: 390.9
+        leading: 14.3
+        arrival: 25.1
+        time: 339.3
+        effort: 0
+        reach: 0
+      place: '3'
       total: 770
-      distance: 390.9
-      leading: 14.3
-      arrival: 25.1
-      time: 339.3
-      distanceMade: 116.174000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.13414634
+        arrival: 0.32982917
+        time: 0.79587737
+        effort: 0
+        reach: 0
+      reach:
+        extra: 116.175000 km
+        flown: 116.175000 km
+      landedMade: 116.174000 km
       ss: 2016-08-08T19:20:00Z
       es: 2016-08-08T21:33:25Z
       timeElapsed: 2.223611 h
-      timeFrac: 0.79587737
       leadingArea: 48855482.0000 km^2 s
       leadingCoef: 2.38987366
-      leadingFrac: 0.13414634
-      arrivalFrac: 0.32982917
   - - - '103'
       - Kevin Carter
-    - place: '4'
+    - breakdown:
+        distance: 390.9
+        leading: 52.1
+        arrival: 35.8
+        time: 256.9
+        effort: 0
+        reach: 0
+      place: '4'
       total: 736
-      distance: 390.9
-      leading: 52.1
-      arrival: 35.8
-      time: 256.9
-      distanceMade: 116.174000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.48874296
+        arrival: 0.47043364
+        time: 0.60258091
+        effort: 0
+        reach: 0
+      reach:
+        extra: 116.175000 km
+        flown: 116.175000 km
+      landedMade: 116.174000 km
       ss: 2016-08-08T19:00:00Z
       es: 2016-08-08T21:27:09Z
       timeElapsed: 2.452500 h
-      timeFrac: 0.60258091
       leadingArea: 38099308.0000 km^2 s
       leadingCoef: 1.86371165
-      leadingFrac: 0.48874296
-      arrivalFrac: 0.47043364
   - - - '106'
       - Larry Bunner
-    - place: '5'
+    - breakdown:
+        distance: 390.9
+        leading: 14.6
+        arrival: 19.1
+        time: 239
+        effort: 0
+        reach: 0
+      place: '5'
       total: 664
-      distance: 390.9
-      leading: 14.6
-      arrival: 19.1
-      time: 239
-      distanceMade: 116.174000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.1369606
+        arrival: 0.25098555
+        time: 0.56059688
+        effort: 0
+        reach: 0
+      reach:
+        extra: 116.175000 km
+        flown: 116.175000 km
+      landedMade: 116.174000 km
       ss: 2016-08-08T19:20:00Z
       es: 2016-08-08T21:50:41Z
       timeElapsed: 2.511389 h
-      timeFrac: 0.56059688
       leadingArea: 48765118.0000 km^2 s
       leadingCoef: 2.38545328
-      leadingFrac: 0.1369606
-      arrivalFrac: 0.25098555
   - - - '108'
       - David Whittle
-    - place: '6'
+    - breakdown:
+        distance: 390.9
+        leading: 13.2
+        arrival: 16.2
+        time: 126
+        effort: 0
+        reach: 0
+      place: '6'
       total: 546
-      distance: 390.9
-      leading: 13.2
-      arrival: 16.2
-      time: 126
-      distanceMade: 116.174000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.12382739
+        arrival: 0.21287779
+        time: 0.29545391
+        effort: 0
+        reach: 0
+      reach:
+        extra: 116.175000 km
+        flown: 116.175000 km
+      landedMade: 116.174000 km
       ss: 2016-08-08T19:00:00Z
       es: 2016-08-08T21:56:43Z
       timeElapsed: 2.945278 h
-      timeFrac: 0.29545391
       leadingArea: 49219907.0000 km^2 s
       leadingCoef: 2.40770032
-      leadingFrac: 0.12382739
-      arrivalFrac: 0.21287779
   - - - '102'
       - Tom McGowan
-    - place: '7'
+    - breakdown:
+        distance: 313.3
+        leading: 17.9
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
       total: 331
-      distance: 313.3
-      leading: 17.9
-      arrival: 0
-      time: 0
-      distanceMade: 70.033000 km
-      distanceFrac: 0.6028285158469193
+      fractions:
+        distance: 0.80148376
+        leading: 0.16791745
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 70.243000 km
+        flown: 70.033000 km
+      landedMade: 69.762000 km
       ss: 2016-08-08T19:00:00Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 47735812.0000 km^2 s
       leadingCoef: 2.33510253
-      leadingFrac: 0.16791745
-      arrivalFrac: 0
   - - - '105'
       - Cory Barnwell
-    - place: '8'
+    - breakdown:
+        distance: 201.8
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '8'
       total: 202
-      distance: 201.8
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 36.770000 km
-      distanceFrac: 0.316507996625751
+      fractions:
+        distance: 0.51624456
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 36.452000 km
+        flown: 36.770000 km
+      landedMade: 36.614000 km
       ss: 2016-08-08T19:00:00Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 70648688.0000 km^2 s
       leadingCoef: 3.45593637
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '109'
       - Jay Devorak
-    - place: '9'
+    - breakdown:
+        distance: 42.5
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '9'
       total: 43
-      distance: 42.5
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 5.000000 km
-      distanceFrac: 4.303888994095064e-2
+      fractions:
+        distance: 0.10872346
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 5.000000 km
+        flown: 5.000000 km
+      landedMade: 0.000000 km
       ss: 2016-08-08T19:00:00Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '107'
       - Anna Eppink
-    - place: '9'
+    - breakdown:
+        distance: 42.5
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '9'
       total: 43
-      distance: 42.5
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 5.000000 km
-      distanceFrac: 4.303888994095064e-2
+      fractions:
+        distance: 0.10872346
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 5.000000 km
+        flown: 5.000000 km
+      landedMade: 0.000000 km
       ss: null
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
-      leadingFrac: 0
-      arrivalFrac: 0
 - - - - '103'
       - Kevin Carter
-    - place: '1'
+    - breakdown:
+        distance: 422.4
+        leading: 69.9
+        arrival: 72.2
+        time: 404.3
+        effort: 0
+        reach: 0
+      place: '1'
       total: 969
-      distance: 422.4
-      leading: 69.9
-      arrival: 72.2
-      time: 404.3
-      distanceMade: 192.208000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.69139466
+        arrival: 1
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 192.209000 km
+        flown: 192.209000 km
+      landedMade: 192.208000 km
       ss: 2016-08-11T19:15:00Z
       es: 2016-08-11T22:13:45Z
       timeElapsed: 2.979167 h
-      timeFrac: 1
       leadingArea: 168473701.0000 km^2 s
       leadingCoef: 2.80694687
-      leadingFrac: 0.69139466
-      arrivalFrac: 1
   - - - '110'
       - Bruce Barmakian
-    - place: '2'
+    - breakdown:
+        distance: 422.4
+        leading: 101.1
+        arrival: 46
+        time: 266.3
+        effort: 0
+        reach: 0
+      place: '2'
       total: 836
-      distance: 422.4
-      leading: 101.1
-      arrival: 46
-      time: 266.3
-      distanceMade: 192.208000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 1
+        arrival: 0.63711911
+        time: 0.65850748
+        effort: 0
+        reach: 0
+      reach:
+        extra: 192.209000 km
+        flown: 192.209000 km
+      landedMade: 192.208000 km
       ss: 2016-08-11T19:00:00Z
       es: 2016-08-11T22:19:25Z
       timeElapsed: 3.323611 h
-      timeFrac: 0.65850748
       leadingArea: 152105056.0000 km^2 s
       leadingCoef: 2.53422824
-      leadingFrac: 1
-      arrivalFrac: 0.63711911
   - - - '106'
       - Larry Bunner
-    - place: '3'
+    - breakdown:
+        distance: 422.4
+        leading: 60.4
+        arrival: 29.3
+        time: 236.3
+        effort: 0
+        reach: 0
+      place: '3'
       total: 748
-      distance: 422.4
-      leading: 60.4
-      arrival: 29.3
-      time: 236.3
-      distanceMade: 192.208000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.59742829
+        arrival: 0.40581717
+        time: 0.58436744
+        effort: 0
+        reach: 0
+      reach:
+        extra: 192.209000 km
+        flown: 192.209000 km
+      landedMade: 192.208000 km
       ss: 2016-08-11T19:00:00Z
       es: 2016-08-11T22:26:30Z
       timeElapsed: 3.441667 h
-      timeFrac: 0.58436744
       leadingArea: 176500350.0000 km^2 s
       leadingCoef: 2.94067918
-      leadingFrac: 0.59742829
-      arrivalFrac: 0.40581717
   - - - '104'
       - Derreck Turner
-    - place: '4'
+    - breakdown:
+        distance: 422.4
+        leading: 73.4
+        arrival: 19.9
+        time: 188.7
+        effort: 0
+        reach: 0
+      place: '4'
       total: 704
-      distance: 422.4
-      leading: 73.4
-      arrival: 19.9
-      time: 188.7
-      distanceMade: 192.208000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.72601385
+        arrival: 0.27562327
+        time: 0.46669338
+        effort: 0
+        reach: 0
+      reach:
+        extra: 192.209000 km
+        flown: 192.209000 km
+      landedMade: 192.208000 km
       ss: 2016-08-11T19:00:00Z
       es: 2016-08-11T22:39:05Z
       timeElapsed: 3.651389 h
-      timeFrac: 0.46669338
       leadingArea: 165806812.0000 km^2 s
       leadingCoef: 2.76251373
-      leadingFrac: 0.72601385
-      arrivalFrac: 0.27562327
   - - - '105'
       - Cory Barnwell
-    - place: '5'
+    - breakdown:
+        distance: 422.4
+        leading: 20.3
+        arrival: 15.7
+        time: 55.1
+        effort: 0
+        reach: 0
+      place: '5'
       total: 514
-      distance: 422.4
-      leading: 20.3
-      arrival: 15.7
-      time: 55.1
-      distanceMade: 192.208000 km
-      distanceFrac: 1
+      fractions:
+        distance: 1
+        leading: 0.2007913
+        arrival: 0.21745152
+        time: 0.13625735
+        effort: 0
+        reach: 0
+      reach:
+        extra: 192.209000 km
+        flown: 192.209000 km
+      landedMade: 192.208000 km
       ss: 2016-08-11T19:15:00Z
       es: 2016-08-11T23:36:53Z
       timeElapsed: 4.364722 h
-      timeFrac: 0.13625735
       leadingArea: 220373998.0000 km^2 s
       leadingCoef: 3.67165974
-      leadingFrac: 0.2007913
-      arrivalFrac: 0.21745152
   - - - '107'
       - Anna Eppink
-    - place: '6'
+    - breakdown:
+        distance: 376.7
+        leading: 23.1
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '6'
       total: 400
-      distance: 376.7
-      leading: 23.1
-      arrival: 0
-      time: 0
-      distanceMade: 150.616000 km
-      distanceFrac: 0.783609423124948
+      fractions:
+        distance: 0.89180871
+        leading: 0.22848665
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 157.039000 km
+        flown: 150.616000 km
+      landedMade: 149.152000 km
       ss: 2016-08-11T19:15:00Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 216862502.0000 km^2 s
       leadingCoef: 3.61315456
-      leadingFrac: 0.22848665
-      arrivalFrac: 0
   - - - '108'
       - David Whittle
-    - place: '7'
+    - breakdown:
+        distance: 279.6
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
       total: 280
-      distance: 279.6
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 92.345000 km
-      distanceFrac: 0.4804430616831766
+      fractions:
+        distance: 0.66193182
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 94.417000 km
+        flown: 92.345000 km
+      landedMade: 91.289000 km
       ss: 2016-08-11T19:15:00Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 274977491.0000 km^2 s
       leadingCoef: 4.58141066
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '109'
       - Jay Devorak
-    - place: '8'
+    - breakdown:
+        distance: 204.6
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '8'
       total: 205
-      distance: 204.6
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 62.297000 km
-      distanceFrac: 0.324112419878465
+      fractions:
+        distance: 0.484375
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 63.148000 km
+        flown: 62.297000 km
+      landedMade: 62.279000 km
       ss: 2016-08-11T19:15:00Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 335411842.0000 km^2 s
       leadingCoef: 5.58830972
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '102'
       - Tom McGowan
-    - place: '9'
+    - breakdown:
+        distance: 243.9
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '9'
       total: 184
-      distance: 243.9
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 76.359000 km
-      distanceFrac: 0.3972727461916257
+      fractions:
+        distance: 0.57741477
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 85.026000 km
+        flown: 76.359000 km
+      landedMade: 0.000000 km
       ss: 2016-08-11T18:57:00Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 276272261.0000 km^2 s
       leadingCoef: 4.60298286
-      leadingFrac: 0
-      arrivalFrac: 0
   - - - '101'
       - Davis Straub
-    - place: '10'
+    - breakdown:
+        distance: 87.7
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '10'
       total: 88
-      distance: 87.7
-      leading: 0
-      arrival: 0
-      time: 0
-      distanceMade: 25.991000 km
-      distanceFrac: 0.13522329975859484
+      fractions:
+        distance: 0.20762311
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 27.416000 km
+        flown: 25.991000 km
+      landedMade: 25.787000 km
       ss: 2016-08-11T19:00:00Z
       es: null
       timeElapsed: null
-      timeFrac: 0
       leadingArea: 467132951.0000 km^2 s
       leadingCoef: 7.78292022
-      leadingFrac: 0
-      arrivalFrac: 0

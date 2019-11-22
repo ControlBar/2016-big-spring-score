@@ -4,7 +4,9 @@ validityWorking:
     ssBestTime: 2.525562 h
     gsBestTime: 2.537274 h
     nominalDistance: 120.0 km
-    bestDistance: 126.749 km
+    reachMax:
+      extra: 126.747570 km
+      flown: 126.747570 km
   launch:
     nominalLaunch: 1
     flying: 10
@@ -12,18 +14,22 @@ validityWorking:
   distance:
     sum: 1018.1 km
     flying: 10
-    area: 72.71860925
+    area: 72.71844625
     nominalGoal: 0.25
     nominalDistance: 120.0 km
     minimumDistance: 5.000 km
-    bestDistance: 126.749 km
+    reachMax:
+      extra: 126.747570 km
+      flown: 126.747570 km
   stop: null
 - time:
     nominalTime: 2.000000 h
     ssBestTime: 2.088085 h
     gsBestTime: 2.090506 h
     nominalDistance: 120.0 km
-    bestDistance: 116.160 km
+    reachMax:
+      extra: 116.154314 km
+      flown: 116.154314 km
   launch:
     nominalLaunch: 1
     flying: 10
@@ -35,14 +41,18 @@ validityWorking:
     nominalGoal: 0.25
     nominalDistance: 120.0 km
     minimumDistance: 5.000 km
-    bestDistance: 116.160 km
+    reachMax:
+      extra: 116.154314 km
+      flown: 116.154314 km
   stop: null
 - time:
     nominalTime: 2.000000 h
     ssBestTime: 2.972819 h
     gsBestTime: 2.979194 h
     nominalDistance: 120.0 km
-    bestDistance: 192.210 km
+    reachMax:
+      extra: 192.209017 km
+      flown: 192.209017 km
   launch:
     nominalLaunch: 1
     flying: 10
@@ -50,11 +60,13 @@ validityWorking:
   distance:
     sum: 1318.7 km
     flying: 10
-    area: 80.90124575
+    area: 80.90112712
     nominalGoal: 0.25
     nominalDistance: 120.0 km
     minimumDistance: 5.000 km
-    bestDistance: 192.210 km
+    reachMax:
+      extra: 192.209017 km
+      flown: 192.209017 km
   stop: null
 validity:
 - time: 1
@@ -64,8 +76,8 @@ validity:
   stop: null
 - time: 1
   launch: 1
-  distance: 0.90797681
-  task: 0.90797681
+  distance: 0.90791541
+  task: 0.90791541
   stop: null
 - time: 1
   launch: 1
@@ -75,51 +87,51 @@ validity:
 allocation:
 - goalRatio: 0.7
   weight:
-    reach: 0.1862645
     effort: 0.1862645
     distance: 0.372529
     leading: 0.10980742
     arrival: 7.843388e-2
     time: 0.4392297
+    reach: 0.1862645
   points:
-    reach: 186.264
     effort: 186.264
     distance: 372.529
     leading: 109.8
     arrival: 78.4
     time: 439.2
+    reach: 186.264
   taskPoints: 1000
 - goalRatio: 0.5
   weight:
-    reach: 0.2111875
     effort: 0.2111875
     distance: 0.422375
     leading: 0.10108438
     arrival: 7.220312e-2
     time: 0.4043375
+    reach: 0.2111875
   points:
-    reach: 191.753
-    effort: 191.753
-    distance: 383.507
+    effort: 191.74
+    distance: 383.481
     leading: 91.8
     arrival: 65.6
     time: 367.1
+    reach: 191.74
   taskPoints: 908
 - goalRatio: 0.5
   weight:
-    reach: 0.2111875
     effort: 0.2111875
     distance: 0.422375
     leading: 0.10108438
     arrival: 7.220312e-2
     time: 0.4043375
+    reach: 0.2111875
   points:
-    reach: 211.188
     effort: 211.188
     distance: 422.375
     leading: 101.1
     arrival: 72.2
     time: 404.3
+    reach: 211.188
   taskPoints: 1000
 score:
 - - - - '110'
@@ -129,23 +141,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 109.8
         arrival: 78.4
         time: 439.2
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
         ss: 2016-08-07T19:30:42.16315376984Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:02:14.188112389904Z
-        ssDistance: 117.149 km
+        es: 2016-08-07T22:02:14.18811123435Z
+        ssDistance: 117.148 km
         ssElapsed: 2.525562 h
         gsElapsed: 2.537274 h
-        ssVelocity: 46.39 km / h
+        ssVelocity: 46.38 km / h
         gsVelocity: 46.17 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '104'
       - Derreck Turner
@@ -154,23 +168,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 88.3
         arrival: 56.9
         time: 422
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:40.037590728091Z
+        ss: 2016-08-07T19:30:40.037509007076Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:02:58.558771753732Z
-        ssDistance: 117.149 km
+        es: 2016-08-07T22:02:58.558772540517Z
+        ssDistance: 117.148 km
         ssElapsed: 2.538478 h
         gsElapsed: 2.549600 h
         ssVelocity: 46.15 km / h
         gsVelocity: 45.95 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '105'
       - Cory Barnwell
@@ -179,23 +195,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 88.7
         arrival: 41.1
         time: 375.1
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:45.888077938187Z
+        ss: 2016-08-07T19:30:45.887964647825Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:07:34.263076999698Z
-        ssDistance: 117.149 km
-        ssElapsed: 2.613437 h
+        es: 2016-08-07T22:07:34.263078675864Z
+        ssDistance: 117.148 km
+        ssElapsed: 2.613438 h
         gsElapsed: 2.626184 h
         ssVelocity: 44.83 km / h
         gsVelocity: 44.61 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '101'
       - Davis Straub
@@ -204,23 +222,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 82
         arrival: 29.9
         time: 299.1
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:39.102194324365Z
+        ss: 2016-08-07T19:30:39.1021119127Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:19:27.00953275325Z
-        ssDistance: 117.149 km
+        es: 2016-08-07T22:19:27.00953627333Z
+        ssDistance: 117.148 km
         ssElapsed: 2.813308 h
         gsElapsed: 2.824169 h
         ssVelocity: 41.64 km / h
         gsVelocity: 41.48 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '103'
       - Kevin Carter
@@ -229,23 +249,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 16.8
         arrival: 22.7
         time: 330.8
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:54:55.10753185332Z
+        ss: 2016-08-07T19:54:55.107450245106Z
         gs: 2016-08-07T19:50:00Z
-        es: 2016-08-07T22:33:57.123870099198Z
-        ssDistance: 117.149 km
+        es: 2016-08-07T22:33:57.12386582112Z
+        ssDistance: 117.148 km
         ssElapsed: 2.650560 h
         gsElapsed: 2.732534 h
         ssVelocity: 44.20 km / h
         gsVelocity: 42.87 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '102'
       - Tom McGowan
@@ -254,23 +276,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 28.3
         arrival: 18.5
         time: 147.5
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:46:29.881080311842Z
+        ss: 2016-08-07T19:46:29.88121271175Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:53:58.031177685576Z
-        ssDistance: 117.149 km
+        es: 2016-08-07T22:53:58.031180972424Z
+        ssDistance: 117.148 km
         ssElapsed: 3.124486 h
         gsElapsed: 3.399453 h
         ssVelocity: 37.49 km / h
         gsVelocity: 34.46 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '108'
       - David Whittle
@@ -279,23 +303,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 20.4
         arrival: 16.5
         time: 97.1
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
         ss: 2016-08-07T19:30:42.630478788004Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T23:07:55.548664546284Z
-        ssDistance: 117.149 km
+        es: 2016-08-07T23:07:55.548677379894Z
+        ssDistance: 117.148 km
         ssElapsed: 3.620255 h
         gsElapsed: 3.632097 h
         ssVelocity: 32.36 km / h
         gsVelocity: 32.25 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '107'
       - Anna Eppink
@@ -304,31 +330,37 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 149.897
         effort: 186.264
         distance: 336.161
         leading: 0
         arrival: 0
         time: 0
+        reach: 149.897
+      landedMade: 102.000 km
+      reach:
+        extra: 102.000 km
+        flown: 102.000 km
       velocity: null
-      reachDistance: 102.002 km
-      landedDistance: 102.002 km
       stoppedAlt: null
   - - - '109'
       - Jay Devorak
     - place: '9'
-      total: 303
+      total: 332
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 147.285
-        effort: 155.22
-        distance: 302.505
+        effort: 184.789
+        distance: 332.074
         leading: 0
         arrival: 0
         time: 0
+        reach: 147.284
+      landedMade: 100.217 km
+      reach:
+        extra: 100.223 km
+        flown: 100.223 km
       velocity:
-        ss: 2016-08-07T20:15:28.26417976788Z
+        ss: 2016-08-07T20:15:28.26409412235Z
         gs: 2016-08-07T19:50:00Z
         es: null
         ssDistance: null
@@ -336,24 +368,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 100.224 km
-      landedDistance: 100.218 km
       stoppedAlt: 692.000 m
   - - - '106'
       - Larry Bunner
     - place: '10'
-      total: 242
+      total: 210
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 111.211
-        effort: 93.132
-        distance: 204.344
-        leading: 37.5
+        effort: 61.214
+        distance: 172.426
+        leading: 37.9
         arrival: 0
         time: 0
+        reach: 111.212
+      landedMade: 24.816 km
+      reach:
+        extra: 75.677 km
+        flown: 75.677 km
       velocity:
-        ss: 2016-08-07T19:30:32.77044778662Z
+        ss: 2016-08-07T19:30:32.77060729812Z
         gs: 2016-08-07T19:30:00Z
         es: null
         ssDistance: null
@@ -361,8 +395,6 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 75.677 km
-      landedDistance: 24.817 km
       stoppedAlt: 618.000 m
 - - - - '104'
       - Derreck Turner
@@ -371,23 +403,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 191.753
-        effort: 191.753
-        distance: 383.507
+        effort: 191.74
+        distance: 383.481
         leading: 91.8
         arrival: 65.6
         time: 367.1
+        reach: 191.74
+      landedMade: 116.154 km
+      reach:
+        extra: 116.154 km
+        flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:00:08.714030543055Z
+        ss: 2016-08-08T19:00:08.7141594853Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:05:25.821401552737Z
-        ssDistance: 106.560 km
+        es: 2016-08-08T21:05:25.821396746246Z
+        ssDistance: 106.554 km
         ssElapsed: 2.088085 h
         gsElapsed: 2.090506 h
         ssVelocity: 51.03 km / h
         gsVelocity: 50.97 km / h
-      reachDistance: 116.160 km
-      landedDistance: 116.160 km
       stoppedAlt: null
   - - - '110'
       - Bruce Barmakian
@@ -396,23 +430,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 191.753
-        effort: 191.753
-        distance: 383.507
+        effort: 191.74
+        distance: 383.481
         leading: 13.1
         arrival: 26.6
-        time: 292.3
+        time: 292.2
+        reach: 191.74
+      landedMade: 116.154 km
+      reach:
+        extra: 116.154 km
+        flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:20:08.323344961894Z
+        ss: 2016-08-08T19:20:08.323338877454Z
         gs: 2016-08-08T19:20:00Z
-        es: 2016-08-08T21:33:25.239805577664Z
-        ssDistance: 106.560 km
+        es: 2016-08-08T21:33:25.23980983155Z
+        ssDistance: 106.554 km
         ssElapsed: 2.221366 h
         gsElapsed: 2.223678 h
         ssVelocity: 47.97 km / h
         gsVelocity: 47.92 km / h
-      reachDistance: 116.160 km
-      landedDistance: 116.160 km
       stoppedAlt: null
   - - - '103'
       - Kevin Carter
@@ -421,23 +457,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 191.753
-        effort: 191.753
-        distance: 383.507
+        effort: 191.74
+        distance: 383.481
         leading: 44.9
         arrival: 41.8
         time: 221.2
+        reach: 191.74
+      landedMade: 116.154 km
+      reach:
+        extra: 116.154 km
+        flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:05:05.635259442086Z
+        ss: 2016-08-08T19:05:05.63506205347Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:27:09.974435297368Z
-        ssDistance: 106.560 km
+        es: 2016-08-08T21:27:09.974436027561Z
+        ssDistance: 106.554 km
         ssElapsed: 2.367872 h
         gsElapsed: 2.452771 h
         ssVelocity: 45.00 km / h
         gsVelocity: 43.44 km / h
-      reachDistance: 116.160 km
-      landedDistance: 116.160 km
       stoppedAlt: null
   - - - '106'
       - Larry Bunner
@@ -446,23 +484,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 191.753
-        effort: 191.753
-        distance: 383.507
-        leading: 13.5
+        effort: 191.74
+        distance: 383.481
+        leading: 13.4
         arrival: 18.1
         time: 205.8
+        reach: 191.74
+      landedMade: 116.154 km
+      reach:
+        extra: 116.154 km
+        flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:20:26.77197004568Z
+        ss: 2016-08-08T19:20:26.7719171428Z
         gs: 2016-08-08T19:20:00Z
-        es: 2016-08-08T21:50:41.48330240576Z
-        ssDistance: 106.560 km
+        es: 2016-08-08T21:50:41.48329796876Z
+        ssDistance: 106.554 km
         ssElapsed: 2.504086 h
         gsElapsed: 2.511523 h
         ssVelocity: 42.55 km / h
         gsVelocity: 42.43 km / h
-      reachDistance: 116.160 km
-      landedDistance: 116.160 km
       stoppedAlt: null
   - - - '108'
       - David Whittle
@@ -471,39 +511,45 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 191.753
-        effort: 191.753
-        distance: 383.507
+        effort: 191.74
+        distance: 383.481
         leading: 11.4
         arrival: 14.3
         time: 108.5
+        reach: 191.74
+      landedMade: 116.154 km
+      reach:
+        extra: 116.154 km
+        flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:03:27.945163871232Z
+        ss: 2016-08-08T19:03:27.945540492736Z
         gs: 2016-08-08T19:00:00Z
         es: 2016-08-08T21:56:43.59695695187Z
-        ssDistance: 106.560 km
+        ssDistance: 106.554 km
         ssElapsed: 2.887681 h
         gsElapsed: 2.945444 h
         ssVelocity: 36.90 km / h
         gsVelocity: 36.18 km / h
-      reachDistance: 116.160 km
-      landedDistance: 116.160 km
       stoppedAlt: null
   - - - '102'
       - Tom McGowan
     - place: '6'
-      total: 322
+      total: 323
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 115.62
-        effort: 191.753
-        distance: 307.373
-        leading: 14.7
+        effort: 191.74
+        distance: 307.337
+        leading: 15.4
         arrival: 0
         time: 0
+        reach: 115.597
+      landedMade: 69.754 km
+      reach:
+        extra: 70.027 km
+        flown: 70.027 km
       velocity:
-        ss: 2016-08-08T19:00:30.46940701114Z
+        ss: 2016-08-08T19:00:30.469207282912Z
         gs: 2016-08-08T19:00:00Z
         es: null
         ssDistance: null
@@ -511,24 +557,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 70.040 km
-      landedDistance: 69.756 km
       stoppedAlt: 872.000 m
   - - - '105'
       - Cory Barnwell
     - place: '7'
-      total: 220
+      total: 198
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 60.7
-        effort: 159.794
-        distance: 220.494
+        effort: 137.356
+        distance: 198.046
         leading: 0
         arrival: 0
         time: 0
+        reach: 60.69
+      landedMade: 36.615 km
+      reach:
+        extra: 36.765 km
+        flown: 36.765 km
       velocity:
-        ss: 2016-08-08T19:00:05.990014242425Z
+        ss: 2016-08-08T19:00:05.990034680252Z
         gs: 2016-08-08T19:00:00Z
         es: null
         ssDistance: null
@@ -536,42 +584,44 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 36.771 km
-      landedDistance: 36.617 km
       stoppedAlt: 808.000 m
   - - - '107'
       - Anna Eppink
     - place: 8=
-      total: 104
+      total: 8
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 8.254
-        effort: 95.877
-        distance: 104.131
+        effort: 0
+        distance: 8.254
         leading: 0
         arrival: 0
         time: 0
+        reach: 8.254
+      landedMade: 4.999 km
+      reach:
+        extra: 4.999 km
+        flown: 4.999 km
       velocity: null
-      reachDistance: 4.999 km
-      landedDistance: 4.999 km
       stoppedAlt: null
   - - - '109'
       - Jay Devorak
     - place: 8=
-      total: 104
+      total: 8
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 8.254
-        effort: 95.877
-        distance: 104.131
+        effort: 0
+        distance: 8.254
         leading: 0
         arrival: 0
         time: 0
+        reach: 8.254
+      landedMade: 4.999 km
+      reach:
+        extra: 4.999 km
+        flown: 4.999 km
       velocity: null
-      reachDistance: 4.999 km
-      landedDistance: 4.999 km
       stoppedAlt: null
 - - - - '103'
       - Kevin Carter
@@ -580,23 +630,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 211.188
         effort: 211.188
         distance: 422.375
         leading: 70.1
         arrival: 72.2
         time: 404.3
+        reach: 211.188
+      landedMade: 192.209 km
+      reach:
+        extra: 192.209 km
+        flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:15:22.952242619818Z
+        ss: 2016-08-11T19:15:22.952050710387Z
         gs: 2016-08-11T19:15:00Z
-        es: 2016-08-11T22:13:45.09960008469Z
-        ssDistance: 182.610 km
+        es: 2016-08-11T22:13:45.099602841212Z
+        ssDistance: 182.609 km
         ssElapsed: 2.972819 h
         gsElapsed: 2.979194 h
         ssVelocity: 61.43 km / h
-        gsVelocity: 61.30 km / h
-      reachDistance: 192.210 km
-      landedDistance: 192.210 km
+        gsVelocity: 61.29 km / h
       stoppedAlt: null
   - - - '110'
       - Bruce Barmakian
@@ -605,23 +657,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 211.188
         effort: 211.188
         distance: 422.375
         leading: 101.1
         arrival: 46
         time: 266.2
+        reach: 211.188
+      landedMade: 192.209 km
+      reach:
+        extra: 192.209 km
+        flown: 192.209 km
       velocity:
         ss: 2016-08-11T19:01:02.86368892237Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:19:25.25766477871Z
-        ssDistance: 182.610 km
+        es: 2016-08-11T22:19:25.257666403973Z
+        ssDistance: 182.609 km
         ssElapsed: 3.306221 h
         gsElapsed: 3.323683 h
         ssVelocity: 55.23 km / h
         gsVelocity: 54.94 km / h
-      reachDistance: 192.210 km
-      landedDistance: 192.210 km
       stoppedAlt: null
   - - - '106'
       - Larry Bunner
@@ -630,23 +684,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 211.188
         effort: 211.188
         distance: 422.375
         leading: 60.6
         arrival: 29.3
         time: 236.2
+        reach: 211.188
+      landedMade: 192.209 km
+      reach:
+        extra: 192.209 km
+        flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:00:36.14407507507Z
+        ss: 2016-08-11T19:00:36.14437878579Z
         gs: 2016-08-11T19:00:00Z
         es: 2016-08-11T22:26:30.770325416938Z
-        ssDistance: 182.610 km
+        ssDistance: 182.609 km
         ssElapsed: 3.431841 h
         gsElapsed: 3.441881 h
         ssVelocity: 53.21 km / h
         gsVelocity: 53.06 km / h
-      reachDistance: 192.210 km
-      landedDistance: 192.210 km
       stoppedAlt: null
   - - - '104'
       - Derreck Turner
@@ -655,23 +711,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 211.188
         effort: 211.188
         distance: 422.375
         leading: 73.3
         arrival: 19.9
         time: 188.7
+        reach: 211.188
+      landedMade: 192.209 km
+      reach:
+        extra: 192.209 km
+        flown: 192.209 km
       velocity:
         ss: 2016-08-11T19:00:30.640771549007Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:39:05.67122214923Z
-        ssDistance: 182.610 km
+        es: 2016-08-11T22:39:05.671222523639Z
+        ssDistance: 182.609 km
         ssElapsed: 3.643064 h
         gsElapsed: 3.651575 h
         ssVelocity: 50.13 km / h
         gsVelocity: 50.01 km / h
-      reachDistance: 192.210 km
-      landedDistance: 192.210 km
       stoppedAlt: null
   - - - '105'
       - Cory Barnwell
@@ -680,23 +738,25 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 211.188
         effort: 211.188
         distance: 422.375
         leading: 19.9
         arrival: 15.7
         time: 55.1
+        reach: 211.188
+      landedMade: 192.209 km
+      reach:
+        extra: 192.209 km
+        flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:22:15.711883268502Z
+        ss: 2016-08-11T19:22:15.711785309088Z
         gs: 2016-08-11T19:15:00Z
-        es: 2016-08-11T23:36:53.337931749522Z
-        ssDistance: 182.610 km
+        es: 2016-08-11T23:36:53.337931469576Z
+        ssDistance: 182.609 km
         ssElapsed: 4.243785 h
         gsElapsed: 4.364816 h
         ssVelocity: 43.03 km / h
         gsVelocity: 41.84 km / h
-      reachDistance: 192.210 km
-      landedDistance: 192.210 km
       stoppedAlt: null
   - - - '107'
       - Anna Eppink
@@ -705,14 +765,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 165.488
         effort: 211.188
-        distance: 376.675
-        leading: 23
+        distance: 376.674
+        leading: 23.1
         arrival: 0
         time: 0
+        reach: 165.487
+      landedMade: 149.151 km
+      reach:
+        extra: 150.615 km
+        flown: 150.615 km
       velocity:
-        ss: 2016-08-11T19:15:59.866387839555Z
+        ss: 2016-08-11T19:15:59.866046585697Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -720,24 +784,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 150.617 km
-      landedDistance: 149.152 km
       stoppedAlt: 725.000 m
   - - - '108'
       - David Whittle
     - place: '7'
-      total: 296
+      total: 271
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 101.462
-        effort: 194.942
-        distance: 296.405
+        effort: 169.795
+        distance: 271.257
         leading: 0
         arrival: 0
         time: 0
+        reach: 101.462
+      landedMade: 91.388 km
+      reach:
+        extra: 92.344 km
+        flown: 92.344 km
       velocity:
-        ss: 2016-08-11T19:16:23.054555917564Z
+        ss: 2016-08-11T19:16:23.05447466609Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -745,24 +811,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 92.345 km
-      landedDistance: 91.389 km
       stoppedAlt: 761.000 m
   - - - '109'
       - Jay Devorak
     - place: '8'
-      total: 231
+      total: 197
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 68.519
-        effort: 162.452
-        distance: 230.971
+        effort: 128.116
+        distance: 196.635
         leading: 0
         arrival: 0
         time: 0
+        reach: 68.518
+      landedMade: 62.253 km
+      reach:
+        extra: 62.361 km
+        flown: 62.361 km
       velocity:
-        ss: 2016-08-11T19:15:42.40731620854Z
+        ss: 2016-08-11T19:15:42.40726682832Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -770,24 +838,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 62.362 km
-      landedDistance: 62.254 km
       stoppedAlt: 687.000 m
   - - - '102'
       - Tom McGowan
-    - place: '9'
-      total: 149
+    - place: 9=
+      total: 84
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 83.876
-        effort: 64.981
-        distance: 148.857
+        effort: 0.286
+        distance: 84.163
         leading: 0
         arrival: 0
         time: 0
+        reach: 83.877
+      landedMade: -34.123 km
+      reach:
+        extra: 76.339 km
+        flown: 76.339 km
       velocity:
-        ss: 2016-08-11T18:57:00.670373532724Z
+        ss: 2016-08-11T18:57:00.670300631144Z
         gs: 2016-08-11T19:00:00Z
         es: null
         ssDistance: null
@@ -795,24 +865,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 76.339 km
-      landedDistance: -34.124 km
       stoppedAlt: 564.000 m
   - - - '101'
       - Davis Straub
-    - place: '10'
-      total: 142
+    - place: 9=
+      total: 84
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 28.557
-        effort: 113.716
-        distance: 142.273
+        effort: 55.5
+        distance: 84.057
         leading: 0
         arrival: 0
         time: 0
+        reach: 28.556
+      landedMade: 25.787 km
+      reach:
+        extra: 25.990 km
+        flown: 25.990 km
       velocity:
-        ss: 2016-08-11T19:00:39.373986625915Z
+        ss: 2016-08-11T19:00:39.374038565465Z
         gs: 2016-08-11T19:00:00Z
         es: null
         ssDistance: null
@@ -820,8 +892,6 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 25.991 km
-      landedDistance: 25.788 km
       stoppedAlt: 752.000 m
 scoreDf:
 - - - - '110'
@@ -831,23 +901,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 109.8
         arrival: 78.4
         time: 439.2
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
         ss: 2016-08-07T19:30:42.16315376984Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:02:14.188112389904Z
-        ssDistance: 117.149 km
+        es: 2016-08-07T22:02:14.18811123435Z
+        ssDistance: 117.148 km
         ssElapsed: 2.525562 h
         gsElapsed: 2.537274 h
-        ssVelocity: 46.39 km / h
+        ssVelocity: 46.38 km / h
         gsVelocity: 46.17 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '104'
       - Derreck Turner
@@ -856,23 +928,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 88.3
         arrival: 56.9
         time: 422
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:40.037590728091Z
+        ss: 2016-08-07T19:30:40.037509007076Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:02:58.558771753732Z
-        ssDistance: 117.149 km
+        es: 2016-08-07T22:02:58.558772540517Z
+        ssDistance: 117.148 km
         ssElapsed: 2.538478 h
         gsElapsed: 2.549600 h
         ssVelocity: 46.15 km / h
         gsVelocity: 45.95 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '105'
       - Cory Barnwell
@@ -881,23 +955,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 88.7
         arrival: 41.1
         time: 375.1
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:45.888077938187Z
+        ss: 2016-08-07T19:30:45.887964647825Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:07:34.263076999698Z
-        ssDistance: 117.149 km
-        ssElapsed: 2.613437 h
+        es: 2016-08-07T22:07:34.263078675864Z
+        ssDistance: 117.148 km
+        ssElapsed: 2.613438 h
         gsElapsed: 2.626184 h
         ssVelocity: 44.83 km / h
         gsVelocity: 44.61 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '101'
       - Davis Straub
@@ -906,23 +982,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 82
         arrival: 29.9
         time: 299.1
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:39.102194324365Z
+        ss: 2016-08-07T19:30:39.1021119127Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:19:27.00953275325Z
-        ssDistance: 117.149 km
+        es: 2016-08-07T22:19:27.00953627333Z
+        ssDistance: 117.148 km
         ssElapsed: 2.813308 h
         gsElapsed: 2.824169 h
         ssVelocity: 41.64 km / h
         gsVelocity: 41.48 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '103'
       - Kevin Carter
@@ -931,23 +1009,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 16.8
         arrival: 22.7
         time: 330.8
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:54:55.10753185332Z
+        ss: 2016-08-07T19:54:55.107450245106Z
         gs: 2016-08-07T19:50:00Z
-        es: 2016-08-07T22:33:57.123870099198Z
-        ssDistance: 117.149 km
+        es: 2016-08-07T22:33:57.12386582112Z
+        ssDistance: 117.148 km
         ssElapsed: 2.650560 h
         gsElapsed: 2.732534 h
         ssVelocity: 44.20 km / h
         gsVelocity: 42.87 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '102'
       - Tom McGowan
@@ -956,23 +1036,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 28.3
         arrival: 18.5
         time: 147.5
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:46:29.881080311842Z
+        ss: 2016-08-07T19:46:29.88121271175Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:53:58.031177685576Z
-        ssDistance: 117.149 km
+        es: 2016-08-07T22:53:58.031180972424Z
+        ssDistance: 117.148 km
         ssElapsed: 3.124486 h
         gsElapsed: 3.399453 h
         ssVelocity: 37.49 km / h
         gsVelocity: 34.46 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '108'
       - David Whittle
@@ -981,39 +1063,45 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 186.264
         effort: 186.264
         distance: 372.529
         leading: 20.4
         arrival: 16.5
         time: 97.1
+        reach: 186.264
+      landedMade: 126.748 km
+      reach:
+        extra: 126.748 km
+        flown: 126.748 km
       velocity:
         ss: 2016-08-07T19:30:42.630478788004Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T23:07:55.548664546284Z
-        ssDistance: 117.149 km
+        es: 2016-08-07T23:07:55.548677379894Z
+        ssDistance: 117.148 km
         ssElapsed: 3.620255 h
         gsElapsed: 3.632097 h
         ssVelocity: 32.36 km / h
         gsVelocity: 32.25 km / h
-      reachDistance: 126.749 km
-      landedDistance: 126.749 km
       stoppedAlt: null
   - - - '109'
       - Jay Devorak
     - place: '8'
-      total: 303
+      total: 332
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 147.285
-        effort: 155.22
-        distance: 302.505
+        effort: 184.789
+        distance: 332.074
         leading: 0
         arrival: 0
         time: 0
+        reach: 147.284
+      landedMade: 100.217 km
+      reach:
+        extra: 100.223 km
+        flown: 100.223 km
       velocity:
-        ss: 2016-08-07T20:15:28.26417976788Z
+        ss: 2016-08-07T20:15:28.26409412235Z
         gs: 2016-08-07T19:50:00Z
         es: null
         ssDistance: null
@@ -1021,24 +1109,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 100.224 km
-      landedDistance: 100.218 km
       stoppedAlt: 692.000 m
   - - - '106'
       - Larry Bunner
     - place: '9'
-      total: 242
+      total: 210
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 111.211
-        effort: 93.132
-        distance: 204.344
-        leading: 37.5
+        effort: 61.214
+        distance: 172.426
+        leading: 37.9
         arrival: 0
         time: 0
+        reach: 111.212
+      landedMade: 24.816 km
+      reach:
+        extra: 75.677 km
+        flown: 75.677 km
       velocity:
-        ss: 2016-08-07T19:30:32.77044778662Z
+        ss: 2016-08-07T19:30:32.77060729812Z
         gs: 2016-08-07T19:30:00Z
         es: null
         ssDistance: null
@@ -1046,8 +1136,6 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 75.677 km
-      landedDistance: 24.817 km
       stoppedAlt: 618.000 m
 - - - - '104'
       - Derreck Turner
@@ -1056,23 +1144,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 191.753
-        effort: 191.753
-        distance: 383.507
+        effort: 191.74
+        distance: 383.481
         leading: 91.8
         arrival: 65.6
         time: 367.1
+        reach: 191.74
+      landedMade: 116.154 km
+      reach:
+        extra: 116.154 km
+        flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:00:08.714030543055Z
+        ss: 2016-08-08T19:00:08.7141594853Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:05:25.821401552737Z
-        ssDistance: 106.560 km
+        es: 2016-08-08T21:05:25.821396746246Z
+        ssDistance: 106.554 km
         ssElapsed: 2.088085 h
         gsElapsed: 2.090506 h
         ssVelocity: 51.03 km / h
         gsVelocity: 50.97 km / h
-      reachDistance: 116.160 km
-      landedDistance: 116.160 km
       stoppedAlt: null
   - - - '110'
       - Bruce Barmakian
@@ -1081,23 +1171,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 191.753
-        effort: 191.753
-        distance: 383.507
+        effort: 191.74
+        distance: 383.481
         leading: 13.1
         arrival: 26.6
-        time: 292.3
+        time: 292.2
+        reach: 191.74
+      landedMade: 116.154 km
+      reach:
+        extra: 116.154 km
+        flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:20:08.323344961894Z
+        ss: 2016-08-08T19:20:08.323338877454Z
         gs: 2016-08-08T19:20:00Z
-        es: 2016-08-08T21:33:25.239805577664Z
-        ssDistance: 106.560 km
+        es: 2016-08-08T21:33:25.23980983155Z
+        ssDistance: 106.554 km
         ssElapsed: 2.221366 h
         gsElapsed: 2.223678 h
         ssVelocity: 47.97 km / h
         gsVelocity: 47.92 km / h
-      reachDistance: 116.160 km
-      landedDistance: 116.160 km
       stoppedAlt: null
   - - - '103'
       - Kevin Carter
@@ -1106,23 +1198,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 191.753
-        effort: 191.753
-        distance: 383.507
+        effort: 191.74
+        distance: 383.481
         leading: 44.9
         arrival: 41.8
         time: 221.2
+        reach: 191.74
+      landedMade: 116.154 km
+      reach:
+        extra: 116.154 km
+        flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:05:05.635259442086Z
+        ss: 2016-08-08T19:05:05.63506205347Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:27:09.974435297368Z
-        ssDistance: 106.560 km
+        es: 2016-08-08T21:27:09.974436027561Z
+        ssDistance: 106.554 km
         ssElapsed: 2.367872 h
         gsElapsed: 2.452771 h
         ssVelocity: 45.00 km / h
         gsVelocity: 43.44 km / h
-      reachDistance: 116.160 km
-      landedDistance: 116.160 km
       stoppedAlt: null
   - - - '106'
       - Larry Bunner
@@ -1131,23 +1225,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 191.753
-        effort: 191.753
-        distance: 383.507
-        leading: 13.5
+        effort: 191.74
+        distance: 383.481
+        leading: 13.4
         arrival: 18.1
         time: 205.8
+        reach: 191.74
+      landedMade: 116.154 km
+      reach:
+        extra: 116.154 km
+        flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:20:26.77197004568Z
+        ss: 2016-08-08T19:20:26.7719171428Z
         gs: 2016-08-08T19:20:00Z
-        es: 2016-08-08T21:50:41.48330240576Z
-        ssDistance: 106.560 km
+        es: 2016-08-08T21:50:41.48329796876Z
+        ssDistance: 106.554 km
         ssElapsed: 2.504086 h
         gsElapsed: 2.511523 h
         ssVelocity: 42.55 km / h
         gsVelocity: 42.43 km / h
-      reachDistance: 116.160 km
-      landedDistance: 116.160 km
       stoppedAlt: null
   - - - '108'
       - David Whittle
@@ -1156,39 +1252,45 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 191.753
-        effort: 191.753
-        distance: 383.507
+        effort: 191.74
+        distance: 383.481
         leading: 11.4
         arrival: 14.3
         time: 108.5
+        reach: 191.74
+      landedMade: 116.154 km
+      reach:
+        extra: 116.154 km
+        flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:03:27.945163871232Z
+        ss: 2016-08-08T19:03:27.945540492736Z
         gs: 2016-08-08T19:00:00Z
         es: 2016-08-08T21:56:43.59695695187Z
-        ssDistance: 106.560 km
+        ssDistance: 106.554 km
         ssElapsed: 2.887681 h
         gsElapsed: 2.945444 h
         ssVelocity: 36.90 km / h
         gsVelocity: 36.18 km / h
-      reachDistance: 116.160 km
-      landedDistance: 116.160 km
       stoppedAlt: null
   - - - '102'
       - Tom McGowan
     - place: '6'
-      total: 322
+      total: 323
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 115.62
-        effort: 191.753
-        distance: 307.373
-        leading: 14.7
+        effort: 191.74
+        distance: 307.337
+        leading: 15.4
         arrival: 0
         time: 0
+        reach: 115.597
+      landedMade: 69.754 km
+      reach:
+        extra: 70.027 km
+        flown: 70.027 km
       velocity:
-        ss: 2016-08-08T19:00:30.46940701114Z
+        ss: 2016-08-08T19:00:30.469207282912Z
         gs: 2016-08-08T19:00:00Z
         es: null
         ssDistance: null
@@ -1196,24 +1298,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 70.040 km
-      landedDistance: 69.756 km
       stoppedAlt: 872.000 m
   - - - '105'
       - Cory Barnwell
     - place: '7'
-      total: 220
+      total: 198
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 60.7
-        effort: 159.794
-        distance: 220.494
+        effort: 137.356
+        distance: 198.046
         leading: 0
         arrival: 0
         time: 0
+        reach: 60.69
+      landedMade: 36.615 km
+      reach:
+        extra: 36.765 km
+        flown: 36.765 km
       velocity:
-        ss: 2016-08-08T19:00:05.990014242425Z
+        ss: 2016-08-08T19:00:05.990034680252Z
         gs: 2016-08-08T19:00:00Z
         es: null
         ssDistance: null
@@ -1221,8 +1325,6 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 36.771 km
-      landedDistance: 36.617 km
       stoppedAlt: 808.000 m
 - - - - '103'
       - Kevin Carter
@@ -1231,23 +1333,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 211.188
         effort: 211.188
         distance: 422.375
         leading: 70.1
         arrival: 72.2
         time: 404.3
+        reach: 211.188
+      landedMade: 192.209 km
+      reach:
+        extra: 192.209 km
+        flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:15:22.952242619818Z
+        ss: 2016-08-11T19:15:22.952050710387Z
         gs: 2016-08-11T19:15:00Z
-        es: 2016-08-11T22:13:45.09960008469Z
-        ssDistance: 182.610 km
+        es: 2016-08-11T22:13:45.099602841212Z
+        ssDistance: 182.609 km
         ssElapsed: 2.972819 h
         gsElapsed: 2.979194 h
         ssVelocity: 61.43 km / h
-        gsVelocity: 61.30 km / h
-      reachDistance: 192.210 km
-      landedDistance: 192.210 km
+        gsVelocity: 61.29 km / h
       stoppedAlt: null
   - - - '110'
       - Bruce Barmakian
@@ -1256,23 +1360,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 211.188
         effort: 211.188
         distance: 422.375
         leading: 101.1
         arrival: 46
         time: 266.2
+        reach: 211.188
+      landedMade: 192.209 km
+      reach:
+        extra: 192.209 km
+        flown: 192.209 km
       velocity:
         ss: 2016-08-11T19:01:02.86368892237Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:19:25.25766477871Z
-        ssDistance: 182.610 km
+        es: 2016-08-11T22:19:25.257666403973Z
+        ssDistance: 182.609 km
         ssElapsed: 3.306221 h
         gsElapsed: 3.323683 h
         ssVelocity: 55.23 km / h
         gsVelocity: 54.94 km / h
-      reachDistance: 192.210 km
-      landedDistance: 192.210 km
       stoppedAlt: null
   - - - '106'
       - Larry Bunner
@@ -1281,23 +1387,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 211.188
         effort: 211.188
         distance: 422.375
         leading: 60.6
         arrival: 29.3
         time: 236.2
+        reach: 211.188
+      landedMade: 192.209 km
+      reach:
+        extra: 192.209 km
+        flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:00:36.14407507507Z
+        ss: 2016-08-11T19:00:36.14437878579Z
         gs: 2016-08-11T19:00:00Z
         es: 2016-08-11T22:26:30.770325416938Z
-        ssDistance: 182.610 km
+        ssDistance: 182.609 km
         ssElapsed: 3.431841 h
         gsElapsed: 3.441881 h
         ssVelocity: 53.21 km / h
         gsVelocity: 53.06 km / h
-      reachDistance: 192.210 km
-      landedDistance: 192.210 km
       stoppedAlt: null
   - - - '104'
       - Derreck Turner
@@ -1306,23 +1414,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 211.188
         effort: 211.188
         distance: 422.375
         leading: 73.3
         arrival: 19.9
         time: 188.7
+        reach: 211.188
+      landedMade: 192.209 km
+      reach:
+        extra: 192.209 km
+        flown: 192.209 km
       velocity:
         ss: 2016-08-11T19:00:30.640771549007Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:39:05.67122214923Z
-        ssDistance: 182.610 km
+        es: 2016-08-11T22:39:05.671222523639Z
+        ssDistance: 182.609 km
         ssElapsed: 3.643064 h
         gsElapsed: 3.651575 h
         ssVelocity: 50.13 km / h
         gsVelocity: 50.01 km / h
-      reachDistance: 192.210 km
-      landedDistance: 192.210 km
       stoppedAlt: null
   - - - '105'
       - Cory Barnwell
@@ -1331,23 +1441,25 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 211.188
         effort: 211.188
         distance: 422.375
         leading: 19.9
         arrival: 15.7
         time: 55.1
+        reach: 211.188
+      landedMade: 192.209 km
+      reach:
+        extra: 192.209 km
+        flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:22:15.711883268502Z
+        ss: 2016-08-11T19:22:15.711785309088Z
         gs: 2016-08-11T19:15:00Z
-        es: 2016-08-11T23:36:53.337931749522Z
-        ssDistance: 182.610 km
+        es: 2016-08-11T23:36:53.337931469576Z
+        ssDistance: 182.609 km
         ssElapsed: 4.243785 h
         gsElapsed: 4.364816 h
         ssVelocity: 43.03 km / h
         gsVelocity: 41.84 km / h
-      reachDistance: 192.210 km
-      landedDistance: 192.210 km
       stoppedAlt: null
   - - - '107'
       - Anna Eppink
@@ -1356,14 +1468,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 165.488
         effort: 211.188
-        distance: 376.675
-        leading: 23
+        distance: 376.674
+        leading: 23.1
         arrival: 0
         time: 0
+        reach: 165.487
+      landedMade: 149.151 km
+      reach:
+        extra: 150.615 km
+        flown: 150.615 km
       velocity:
-        ss: 2016-08-11T19:15:59.866387839555Z
+        ss: 2016-08-11T19:15:59.866046585697Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -1371,24 +1487,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 150.617 km
-      landedDistance: 149.152 km
       stoppedAlt: 725.000 m
   - - - '108'
       - David Whittle
     - place: '7'
-      total: 296
+      total: 271
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 101.462
-        effort: 194.942
-        distance: 296.405
+        effort: 169.795
+        distance: 271.257
         leading: 0
         arrival: 0
         time: 0
+        reach: 101.462
+      landedMade: 91.388 km
+      reach:
+        extra: 92.344 km
+        flown: 92.344 km
       velocity:
-        ss: 2016-08-11T19:16:23.054555917564Z
+        ss: 2016-08-11T19:16:23.05447466609Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -1396,24 +1514,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 92.345 km
-      landedDistance: 91.389 km
       stoppedAlt: 761.000 m
   - - - '109'
       - Jay Devorak
     - place: '8'
-      total: 231
+      total: 197
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 68.519
-        effort: 162.452
-        distance: 230.971
+        effort: 128.116
+        distance: 196.635
         leading: 0
         arrival: 0
         time: 0
+        reach: 68.518
+      landedMade: 62.253 km
+      reach:
+        extra: 62.361 km
+        flown: 62.361 km
       velocity:
-        ss: 2016-08-11T19:15:42.40731620854Z
+        ss: 2016-08-11T19:15:42.40726682832Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -1421,24 +1541,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 62.362 km
-      landedDistance: 62.254 km
       stoppedAlt: 687.000 m
   - - - '102'
       - Tom McGowan
-    - place: '9'
-      total: 149
+    - place: 9=
+      total: 84
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 83.876
-        effort: 64.981
-        distance: 148.857
+        effort: 0.286
+        distance: 84.163
         leading: 0
         arrival: 0
         time: 0
+        reach: 83.877
+      landedMade: -34.123 km
+      reach:
+        extra: 76.339 km
+        flown: 76.339 km
       velocity:
-        ss: 2016-08-11T18:57:00.670373532724Z
+        ss: 2016-08-11T18:57:00.670300631144Z
         gs: 2016-08-11T19:00:00Z
         es: null
         ssDistance: null
@@ -1446,24 +1568,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 76.339 km
-      landedDistance: -34.124 km
       stoppedAlt: 564.000 m
   - - - '101'
       - Davis Straub
-    - place: '10'
-      total: 142
+    - place: 9=
+      total: 84
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 28.557
-        effort: 113.716
-        distance: 142.273
+        effort: 55.5
+        distance: 84.057
         leading: 0
         arrival: 0
         time: 0
+        reach: 28.556
+      landedMade: 25.787 km
+      reach:
+        extra: 25.990 km
+        flown: 25.990 km
       velocity:
-        ss: 2016-08-11T19:00:39.373986625915Z
+        ss: 2016-08-11T19:00:39.374038565465Z
         gs: 2016-08-11T19:00:00Z
         es: null
         ssDistance: null
@@ -1471,8 +1595,6 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 25.991 km
-      landedDistance: 25.788 km
       stoppedAlt: 752.000 m
 scoreDfNoTrack:
 - - - - '107'
@@ -1482,48 +1604,54 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 149.897
         effort: 186.264
         distance: 336.161
         leading: 0
         arrival: 0
         time: 0
+        reach: 149.897
+      landedMade: 102.000 km
+      reach:
+        extra: 102.000 km
+        flown: 102.000 km
       velocity: null
-      reachDistance: 102.002 km
-      landedDistance: 102.002 km
       stoppedAlt: null
 - - - - '107'
       - Anna Eppink
     - place: 1=
-      total: 104
+      total: 8
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 8.254
-        effort: 95.877
-        distance: 104.131
+        effort: 0
+        distance: 8.254
         leading: 0
         arrival: 0
         time: 0
+        reach: 8.254
+      landedMade: 4.999 km
+      reach:
+        extra: 4.999 km
+        flown: 4.999 km
       velocity: null
-      reachDistance: 4.999 km
-      landedDistance: 4.999 km
       stoppedAlt: null
   - - - '109'
       - Jay Devorak
     - place: 1=
-      total: 104
+      total: 8
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 8.254
-        effort: 95.877
-        distance: 104.131
+        effort: 0
+        distance: 8.254
         leading: 0
         arrival: 0
         time: 0
+        reach: 8.254
+      landedMade: 4.999 km
+      reach:
+        extra: 4.999 km
+        flown: 4.999 km
       velocity: null
-      reachDistance: 4.999 km
-      landedDistance: 4.999 km
       stoppedAlt: null
 - []

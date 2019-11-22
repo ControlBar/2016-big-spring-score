@@ -1,0 +1,53 @@
+bestEffort:
+- 126.747570 km
+- 116.154314 km
+- 192.209017 km
+land:
+- - - - '107'
+      - Anna Eppink
+    - togo: 24.747111 km
+      made: 102.000459 km
+  - - - '109'
+      - Jay Devorak
+    - togo: 26.530912 km
+      made: 100.216658 km
+  - - - '106'
+      - Larry Bunner
+    - togo: 101.931681 km
+      made: 24.815889 km
+- - - - '102'
+      - Tom McGowan
+    - togo: 46.400727 km
+      made: 69.753587 km
+  - - - '105'
+      - Cory Barnwell
+    - togo: 79.539772 km
+      made: 36.614542 km
+  - - - '107'
+      - Anna Eppink
+    - togo: 111.154314 km
+      made: 5.000000 km
+  - - - '109'
+      - Jay Devorak
+    - togo: 111.154314 km
+      made: 5.000000 km
+- - - - '107'
+      - Anna Eppink
+    - togo: 43.057605 km
+      made: 149.151412 km
+  - - - '108'
+      - David Whittle
+    - togo: 100.820972 km
+      made: 91.388045 km
+  - - - '109'
+      - Jay Devorak
+    - togo: 129.955540 km
+      made: 62.253477 km
+  - - - '101'
+      - Davis Straub
+    - togo: 166.421645 km
+      made: 25.787372 km
+  - - - '102'
+      - Tom McGowan
+    - togo: 226.332303 km
+      made: -34.123286 km

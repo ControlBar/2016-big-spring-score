@@ -1,0 +1,73 @@
+pilotsAtEss:
+- 7
+- 5
+- 5
+arrivalRank:
+- - - - '110'
+      - Bruce Barmakian
+    - rank: '1'
+      frac: 1
+  - - - '104'
+      - Derreck Turner
+    - rank: '2'
+      frac: 0.7258484
+  - - - '105'
+      - Cory Barnwell
+    - rank: '3'
+      frac: 0.52344023
+  - - - '101'
+      - Davis Straub
+    - rank: '4'
+      frac: 0.38170262
+  - - - '103'
+      - Kevin Carter
+    - rank: '5'
+      frac: 0.28956268
+  - - - '102'
+      - Tom McGowan
+    - rank: '6'
+      frac: 0.23594752
+  - - - '108'
+      - David Whittle
+    - rank: '7'
+      frac: 0.20978426
+- - - - '104'
+      - Derreck Turner
+    - rank: '1'
+      frac: 1
+  - - - '103'
+      - Kevin Carter
+    - rank: '2'
+      frac: 0.636896
+  - - - '110'
+      - Bruce Barmakian
+    - rank: '3'
+      frac: 0.405728
+  - - - '106'
+      - Larry Bunner
+    - rank: '4'
+      frac: 0.276112
+  - - - '108'
+      - David Whittle
+    - rank: '5'
+      frac: 0.217664
+- - - - '103'
+      - Kevin Carter
+    - rank: '1'
+      frac: 1
+  - - - '110'
+      - Bruce Barmakian
+    - rank: '2'
+      frac: 0.636896
+  - - - '106'
+      - Larry Bunner
+    - rank: '3'
+      frac: 0.405728
+  - - - '104'
+      - Derreck Turner
+    - rank: '4'
+      frac: 0.276112
+  - - - '105'
+      - Cory Barnwell
+    - rank: '5'
+      frac: 0.217664

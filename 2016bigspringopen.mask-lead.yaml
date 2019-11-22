@@ -1,0 +1,174 @@
+raceTime:
+- openTask: 2016-08-07T19:30:00Z
+  closeTask: 2016-08-08T01:00:00Z
+  firstStart: 2016-08-07T19:30:32.77060729812Z
+  firstLead: 2016-08-07T19:30:32.77060729812Z
+  lastArrival: 2016-08-07T23:07:55.548677379894Z
+  leadAllDown: 13511.229
+  leadArrival: 13042.778
+  leadClose: 19767.229
+  openClose: 19800
+  tickClose: 19767.229
+- openTask: 2016-08-08T19:00:00Z
+  closeTask: 2016-08-09T01:00:00Z
+  firstStart: 2016-08-08T19:00:05.990034680252Z
+  firstLead: 2016-08-08T19:00:05.990034680252Z
+  lastArrival: 2016-08-08T21:56:43.59695695187Z
+  leadAllDown: 10883.01
+  leadArrival: 10597.607
+  leadClose: 21594.01
+  openClose: 21600
+  tickClose: 21594.01
+- openTask: 2016-08-11T19:00:00Z
+  closeTask: 2016-08-12T01:00:00Z
+  firstStart: 2016-08-11T18:57:00.670300631144Z
+  firstLead: 2016-08-11T18:57:00.670300631144Z
+  lastArrival: 2016-08-11T23:36:53.337931469576Z
+  leadAllDown: 17028.33
+  leadArrival: 16792.668
+  leadClose: 21779.33
+  openClose: 21600
+  tickClose: 21779.33
+sumDistance:
+- 1018.132130 km
+- 652.564198 km
+- 1318.694170 km
+leadAreaToCoef:
+- 0.00000004048190 km^-2 s^-1
+- 0.00000004893115 km^-2 s^-1
+- 0.00000001666031 km^-2 s^-1
+leadCoefMin:
+- 1.60419181
+- 1.4286773
+- 2.53408519
+leadRank:
+- - - - '110'
+      - Bruce Barmakian
+    - area: 39627380.9601 km^2 s
+      coef: 1.60419181
+      frac: 1
+  - - - '105'
+      - Cory Barnwell
+    - area: 42260998.7057 km^2 s
+      coef: 1.71080567
+      frac: 0.80793112
+  - - - '104'
+      - Derreck Turner
+    - area: 42334811.8840 km^2 s
+      coef: 1.71379377
+      frac: 0.80435889
+  - - - '101'
+      - Davis Straub
+    - area: 43619220.0491 km^2 s
+      coef: 1.76578906
+      frac: 0.7465627
+  - - - '106'
+      - Larry Bunner
+    - area: 56221627.4795 km^2 s
+      coef: 2.2759585
+      frac: 0.34477035
+  - - - '102'
+      - Tom McGowan
+    - area: 59624739.7622 km^2 s
+      coef: 2.41372297
+      frac: 0.2580005
+  - - - '108'
+      - David Whittle
+    - area: 62630444.2417 km^2 s
+      coef: 2.5353996
+      frac: 0.18539769
+  - - - '103'
+      - Kevin Carter
+    - area: 64009524.3141 km^2 s
+      coef: 2.59122739
+      frac: 0.1531566
+  - - - '109'
+      - Jay Devorak
+    - area: 92030996.6610 km^2 s
+      coef: 3.72558993
+      frac: 0
+- - - - '104'
+      - Derreck Turner
+    - area: 29197705.5013 km^2 s
+      coef: 1.4286773
+      frac: 1
+  - - - '103'
+      - Kevin Carter
+    - area: 38124433.9523 km^2 s
+      coef: 1.86547238
+      frac: 0.48885932
+  - - - '102'
+      - Tom McGowan
+    - area: 47737358.7660 km^2 s
+      coef: 2.33584385
+      frac: 0.16795534
+  - - - '106'
+      - Larry Bunner
+    - area: 48457947.5419 km^2 s
+      coef: 2.37110308
+      frac: 0.14653302
+  - - - '110'
+      - Bruce Barmakian
+    - area: 48582772.5694 km^2 s
+      coef: 2.37721092
+      frac: 0.14284946
+  - - - '108'
+      - David Whittle
+    - area: 49222211.5098 km^2 s
+      coef: 2.4084994
+      frac: 0.12410219
+  - - - '105'
+      - Cory Barnwell
+    - area: 70646893.3832 km^2 s
+      coef: 3.45683371
+      frac: 0
+- - - - '110'
+      - Bruce Barmakian
+    - area: 152103130.5477 km^2 s
+      coef: 2.53408519
+      frac: 1
+  - - - '104'
+      - Derreck Turner
+    - area: 165857955.4284 km^2 s
+      coef: 2.76324482
+      frac: 0.7253255
+  - - - '103'
+      - Kevin Carter
+    - area: 168337155.5295 km^2 s
+      coef: 2.80454906
+      frac: 0.69323973
+  - - - '106'
+      - Larry Bunner
+    - area: 176358687.6199 km^2 s
+      coef: 2.93819027
+      frac: 0.59908177
+  - - - '107'
+      - Anna Eppink
+    - area: 216886037.7377 km^2 s
+      coef: 3.61338845
+      frac: 0.22822876
+  - - - '105'
+      - Cory Barnwell
+    - area: 220843871.5140 km^2 s
+      coef: 3.67932719
+      frac: 0.19710681
+  - - - '108'
+      - David Whittle
+    - area: 274508497.7827 km^2 s
+      coef: 4.57339646
+      frac: 0
+  - - - '102'
+      - Tom McGowan
+    - area: 276313019.0193 km^2 s
+      coef: 4.60346034
+      frac: 0
+  - - - '109'
+      - Jay Devorak
+    - area: 335486620.2650 km^2 s
+      coef: 5.58931083
+      frac: 0
+  - - - '101'
+      - Davis Straub
+    - area: 466994431.2011 km^2 s
+      coef: 7.78027163
+      frac: 0

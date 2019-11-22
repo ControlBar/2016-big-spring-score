@@ -1,8 +1,30 @@
-minDistance: 5.0 km
+minDistance: 5.000 km
 bestDistance:
-- 126.7 km
-- 116.2 km
-- 192.2 km
+- 126.747570 km
+- 116.154314 km
+- 192.209017 km
+chunking:
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1271
+  - 127.1 km
+  sumOf: 2273
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1171
+  - 117.1 km
+  sumOf: 1167
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1931
+  - 193.1 km
+  sumOf: 2949
 landout:
 - 3
 - 4
@@ -11,54 +33,50 @@ lookahead:
 - 1267
 - 871
 - 1153
-sumOfDifficulty:
-- 6
-- 6
-- 13
 difficulty:
-- - chunk: 199
+- - chunk: 248
     startChunk: 24.8 km
     endChunk: 24.9 km
     endAhead: 151.6 km
     down: 1
     downs:
-    - 24.817 km
+    - 24.816 km
     downers:
     - - '106'
       - Larry Bunner
     downward: 3
-    rel: 0.25
-    frac: 0.25
-  - chunk: 953
+    rel: 6.5992e-4
+    frac: 0.16432028
+  - chunk: 1002
     startChunk: 100.2 km
     endChunk: 100.3 km
     endAhead: 227.0 km
     down: 1
     downs:
-    - 100.218 km
+    - 100.217 km
     downers:
     - - '109'
       - Jay Devorak
     downward: 2
-    rel: 0.16666667
-    frac: 0.41666667
-  - chunk: 971
+    rel: 4.3995e-4
+    frac: 0.49604048
+  - chunk: 1020
     startChunk: 102.0 km
     endChunk: 102.1 km
     endAhead: 228.8 km
     down: 1
     downs:
-    - 102.002 km
+    - 102.000 km
     downers:
     - - '107'
       - Anna Eppink
     downward: 1
-    rel: 8.333333e-2
+    rel: 2.1997e-4
     frac: 0.5
-- - chunk: 0
+- - chunk: 50
     startChunk: 5.0 km
-    endChunk: 5.0 km
-    endAhead: 92.1 km
+    endChunk: 5.1 km
+    endAhead: 92.2 km
     down: 2
     downs:
     - 5.000 km
@@ -68,97 +86,97 @@ difficulty:
       - Jay Devorak
     - - '107'
       - Anna Eppink
-    downward: 3
-    rel: 0.25
-    frac: 0.25
-  - chunk: 317
+    downward: 4
+    rel: 1.7138e-3
+    frac: 8.74036e-2
+  - chunk: 366
     startChunk: 36.6 km
     endChunk: 36.7 km
     endAhead: 123.8 km
     down: 1
     downs:
-    - 36.617 km
+    - 36.615 km
     downers:
     - - '105'
       - Cory Barnwell
     downward: 2
-    rel: 0.16666667
-    frac: 0.41666667
-  - chunk: 648
+    rel: 8.569e-4
+    frac: 0.35818338
+  - chunk: 697
     startChunk: 69.7 km
     endChunk: 69.8 km
     endAhead: 156.9 km
     down: 1
     downs:
-    - 69.756 km
+    - 69.754 km
     downers:
     - - '102'
       - Tom McGowan
     downward: 1
-    rel: 8.333333e-2
+    rel: 4.2845e-4
     frac: 0.5
 - - chunk: 0
-    startChunk: 5.0 km
-    endChunk: 5.0 km
-    endAhead: 120.3 km
+    startChunk: 0.0 km
+    endChunk: 0.1 km
+    endAhead: 115.4 km
     down: 1
     downs:
-    - -34.124 km
+    - -34.123 km
     downers:
     - - '102'
       - Tom McGowan
     downward: 4
-    rel: 0.15384615
-    frac: 0.15384615
-  - chunk: 208
+    rel: 6.782e-4
+    frac: 6.782e-4
+  - chunk: 257
     startChunk: 25.7 km
     endChunk: 25.8 km
     endAhead: 141.1 km
     down: 1
     downs:
-    - 25.788 km
+    - 25.787 km
     downers:
     - - '101'
       - Davis Straub
     downward: 3
-    rel: 0.11538462
-    frac: 0.26923077
-  - chunk: 573
+    rel: 5.0865e-4
+    frac: 0.13140047
+  - chunk: 622
     startChunk: 62.2 km
     endChunk: 62.3 km
     endAhead: 177.6 km
     down: 1
     downs:
-    - 62.254 km
+    - 62.253 km
     downers:
     - - '109'
       - Jay Devorak
     downward: 3
-    rel: 0.11538462
-    frac: 0.38461538
-  - chunk: 864
+    rel: 5.0865e-4
+    frac: 0.30332316
+  - chunk: 913
     startChunk: 91.3 km
     endChunk: 91.4 km
     endAhead: 206.7 km
     down: 1
     downs:
-    - 91.389 km
+    - 91.388 km
     downers:
     - - '108'
       - David Whittle
     downward: 2
-    rel: 7.692308e-2
-    frac: 0.46153846
-  - chunk: 1442
+    rel: 3.391e-4
+    frac: 0.40200068
+  - chunk: 1491
     startChunk: 149.1 km
     endChunk: 149.2 km
     endAhead: 264.5 km
     down: 1
     downs:
-    - 149.152 km
+    - 149.151 km
     downers:
     - - '107'
       - Anna Eppink
     downward: 1
-    rel: 3.846154e-2
+    rel: 1.6955e-4
     frac: 0.5
