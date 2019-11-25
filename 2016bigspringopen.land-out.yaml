@@ -17,7 +17,7 @@ chunking:
   endChunk:
   - 1171
   - 117.1 km
-  sumOf: 1167
+  sumOf: 1169
 - startChunk:
   - 0
   - 0.0 km
@@ -40,7 +40,7 @@ difficulty:
     endAhead: 151.6 km
     down: 1
     downs:
-    - 24.816 km
+    - 24.828 km
     downers:
     - - '106'
       - Larry Bunner
@@ -53,7 +53,7 @@ difficulty:
     endAhead: 227.0 km
     down: 1
     downs:
-    - 100.217 km
+    - 100.219 km
     downers:
     - - '109'
       - Jay Devorak
@@ -87,33 +87,33 @@ difficulty:
     - - '107'
       - Anna Eppink
     downward: 4
-    rel: 1.7138e-3
-    frac: 8.74036e-2
-  - chunk: 366
-    startChunk: 36.6 km
-    endChunk: 36.7 km
-    endAhead: 123.8 km
+    rel: 1.71086e-3
+    frac: 8.725406e-2
+  - chunk: 367
+    startChunk: 36.7 km
+    endChunk: 36.8 km
+    endAhead: 123.9 km
     down: 1
     downs:
-    - 36.615 km
+    - 36.704 km
     downers:
     - - '105'
       - Cory Barnwell
     downward: 2
-    rel: 8.569e-4
-    frac: 0.35818338
-  - chunk: 697
-    startChunk: 69.7 km
-    endChunk: 69.8 km
-    endAhead: 156.9 km
+    rel: 8.5543e-4
+    frac: 0.35842601
+  - chunk: 698
+    startChunk: 69.8 km
+    endChunk: 69.9 km
+    endAhead: 157.0 km
     down: 1
     downs:
-    - 69.754 km
+    - 69.841 km
     downers:
     - - '102'
       - Tom McGowan
     downward: 1
-    rel: 4.2845e-4
+    rel: 4.2772e-4
     frac: 0.5
 - - chunk: 0
     startChunk: 0.0 km
@@ -121,7 +121,7 @@ difficulty:
     endAhead: 115.4 km
     down: 1
     downs:
-    - -34.123 km
+    - -34.071 km
     downers:
     - - '102'
       - Tom McGowan
@@ -134,7 +134,7 @@ difficulty:
     endAhead: 141.1 km
     down: 1
     downs:
-    - 25.787 km
+    - 25.795 km
     downers:
     - - '101'
       - Davis Straub
@@ -147,7 +147,7 @@ difficulty:
     endAhead: 177.6 km
     down: 1
     downs:
-    - 62.253 km
+    - 62.255 km
     downers:
     - - '109'
       - Jay Devorak
@@ -160,7 +160,7 @@ difficulty:
     endAhead: 206.7 km
     down: 1
     downs:
-    - 91.388 km
+    - 91.390 km
     downers:
     - - '108'
       - David Whittle
@@ -173,7 +173,7 @@ difficulty:
     endAhead: 264.5 km
     down: 1
     downs:
-    - 149.151 km
+    - 149.153 km
     downers:
     - - '107'
       - Anna Eppink

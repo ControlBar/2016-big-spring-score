@@ -1,23 +1,23 @@
 bolster:
 - max: 126.747570 km
-  mean: 106.813213 km
-  stdDev: 37.630450 km
+  mean: 106.814413 km
+  stdDev: 37.629588 km
 - max: 116.154314 km
-  mean: 77.507133 km
-  stdDev: 46.783705 km
+  mean: 77.526800 km
+  stdDev: 46.773543 km
 - max: 192.209017 km
-  mean: 136.869417 km
-  stdDev: 62.444761 km
+  mean: 136.874917 km
+  stdDev: 62.439030 km
 reach:
 - max: 126.747570 km
-  mean: 106.323413 km
-  stdDev: 38.960828 km
+  mean: 106.324613 km
+  stdDev: 38.960010 km
 - max: 116.154314 km
-  mean: 76.397133 km
-  stdDev: 48.517968 km
+  mean: 76.416800 km
+  stdDev: 48.508620 km
 - max: 192.209017 km
-  mean: 136.869417 km
-  stdDev: 62.444761 km
+  mean: 136.874917 km
+  stdDev: 62.439030 km
 reachRank:
 - - - - '110'
       - Bruce Barmakian
@@ -53,12 +53,12 @@ reachRank:
       reach: 0.102000 km
   - - - '109'
       - Jay Devorak
-    - frac: 0.79072577
-      reach: 100.222570 km
+    - frac: 0.79074155
+      reach: 100.224570 km
   - - - '106'
       - Larry Bunner
-    - frac: 0.59706525
-      reach: 75.676570 km
+    - frac: 0.59714415
+      reach: 75.686570 km
 - - - - '104'
       - Derreck Turner
     - frac: 1
@@ -81,12 +81,12 @@ reachRank:
       reach: 116.154314 km
   - - - '102'
       - Tom McGowan
-    - frac: 0.60288173
-      reach: 70.027314 km
+    - frac: 0.60363934
+      reach: 70.115314 km
   - - - '105'
       - Cory Barnwell
-    - frac: 0.3165213
-      reach: 36.765314 km
+    - frac: 0.31728752
+      reach: 36.854314 km
   - - - '107'
       - Anna Eppink
     - frac: 4.303889e-2
@@ -117,103 +117,103 @@ reachRank:
       reach: 192.209017 km
   - - - '107'
       - Anna Eppink
-    - frac: 0.78360016
-      reach: 150.615017 km
+    - frac: 0.78361057
+      reach: 150.617017 km
   - - - '108'
       - David Whittle
-    - frac: 0.48043541
-      reach: 92.344017 km
+    - frac: 0.48044581
+      reach: 92.346017 km
   - - - '102'
       - Tom McGowan
-    - frac: 0.39716668
-      reach: 76.339017 km
+    - frac: 0.39737999
+      reach: 76.380017 km
   - - - '109'
       - Jay Devorak
-    - frac: 0.32444376
-      reach: 62.361017 km
+    - frac: 0.32445417
+      reach: 62.363017 km
   - - - '101'
       - Davis Straub
-    - frac: 0.13521747
-      reach: 25.990017 km
+    - frac: 0.13525909
+      reach: 25.998017 km
 nigh:
 - - - - '109'
       - Jay Devorak
     - togo:
-        distance: 26.525000 km
+        distance: 26.523000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 100.222570 km
+      made: 100.224570 km
   - - - '106'
       - Larry Bunner
     - togo:
-        distance: 51.071000 km
+        distance: 51.061000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 75.676570 km
+      made: 75.686570 km
 - - - - '102'
       - Tom McGowan
     - togo:
-        distance: 46.127000 km
+        distance: 46.039000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 70.027314 km
+      made: 70.115314 km
   - - - '105'
       - Cory Barnwell
     - togo:
-        distance: 79.389000 km
+        distance: 79.300000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 36.765314 km
+      made: 36.854314 km
 - - - - '107'
       - Anna Eppink
     - togo:
-        distance: 41.594000 km
+        distance: 41.592000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 150.615017 km
+      made: 150.617017 km
   - - - '108'
       - David Whittle
     - togo:
-        distance: 99.865000 km
+        distance: 99.863000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 92.344017 km
+      made: 92.346017 km
   - - - '109'
       - Jay Devorak
     - togo:
-        distance: 129.848000 km
+        distance: 129.846000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 62.361017 km
+      made: 62.363017 km
   - - - '101'
       - Davis Straub
     - togo:
-        distance: 166.219000 km
+        distance: 166.211000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 25.990017 km
+      made: 25.998017 km
   - - - '102'
       - Tom McGowan
     - togo:
-        distance: 115.870000 km
+        distance: 115.829000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 76.339017 km
+      made: 76.380017 km

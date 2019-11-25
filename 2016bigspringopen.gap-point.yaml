@@ -1,8 +1,8 @@
 validityWorking:
 - time:
     nominalTime: 2.000000 h
-    ssBestTime: 2.525562 h
-    gsBestTime: 2.537274 h
+    ssBestTime: 2.524834 h
+    gsBestTime: 2.537251 h
     nominalDistance: 120.0 km
     reachMax:
       extra: 126.747570 km
@@ -24,8 +24,8 @@ validityWorking:
   stop: null
 - time:
     nominalTime: 2.000000 h
-    ssBestTime: 2.088085 h
-    gsBestTime: 2.090506 h
+    ssBestTime: 2.087437 h
+    gsBestTime: 2.090482 h
     nominalDistance: 120.0 km
     reachMax:
       extra: 116.154314 km
@@ -35,7 +35,7 @@ validityWorking:
     flying: 10
     present: 10
   distance:
-    sum: 652.6 km
+    sum: 652.7 km
     flying: 10
     area: 71.875
     nominalGoal: 0.25
@@ -47,8 +47,8 @@ validityWorking:
   stop: null
 - time:
     nominalTime: 2.000000 h
-    ssBestTime: 2.972819 h
-    gsBestTime: 2.979194 h
+    ssBestTime: 2.972030 h
+    gsBestTime: 2.979174 h
     nominalDistance: 120.0 km
     reachMax:
       extra: 192.209017 km
@@ -76,8 +76,8 @@ validity:
   stop: null
 - time: 1
   launch: 1
-  distance: 0.90791541
-  task: 0.90791541
+  distance: 0.90816167
+  task: 0.90816167
   stop: null
 - time: 1
   launch: 1
@@ -110,12 +110,12 @@ allocation:
     time: 0.4043375
     reach: 0.2111875
   points:
-    effort: 191.74
-    distance: 383.481
+    effort: 191.792
+    distance: 383.585
     leading: 91.8
     arrival: 65.6
-    time: 367.1
-    reach: 191.74
+    time: 367.2
+    reach: 191.792
   taskPoints: 908
 - goalRatio: 0.5
   weight:
@@ -152,13 +152,13 @@ score:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:42.16315376984Z
+        ss: 2016-08-07T19:30:44.70054571768Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:02:14.18811123435Z
+        es: 2016-08-07T22:02:14.103300259032Z
         ssDistance: 117.148 km
-        ssElapsed: 2.525562 h
-        gsElapsed: 2.537274 h
-        ssVelocity: 46.38 km / h
+        ssElapsed: 2.524834 h
+        gsElapsed: 2.537251 h
+        ssVelocity: 46.40 km / h
         gsVelocity: 46.17 km / h
       stoppedAlt: null
   - - - '104'
@@ -179,13 +179,13 @@ score:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:40.037509007076Z
+        ss: 2016-08-07T19:30:42.573982280028Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:02:58.558772540517Z
+        es: 2016-08-07T22:02:58.465542888287Z
         ssDistance: 117.148 km
-        ssElapsed: 2.538478 h
-        gsElapsed: 2.549600 h
-        ssVelocity: 46.15 km / h
+        ssElapsed: 2.537748 h
+        gsElapsed: 2.549574 h
+        ssVelocity: 46.16 km / h
         gsVelocity: 45.95 km / h
       stoppedAlt: null
   - - - '105'
@@ -206,13 +206,13 @@ score:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:45.887964647825Z
+        ss: 2016-08-07T19:30:48.51017073545Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:07:34.263078675864Z
+        es: 2016-08-07T22:07:34.172438700114Z
         ssDistance: 117.148 km
-        ssElapsed: 2.613438 h
-        gsElapsed: 2.626184 h
-        ssVelocity: 44.83 km / h
+        ssElapsed: 2.612684 h
+        gsElapsed: 2.626159 h
+        ssVelocity: 44.84 km / h
         gsVelocity: 44.61 km / h
       stoppedAlt: null
   - - - '101'
@@ -233,13 +233,13 @@ score:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:39.1021119127Z
+        ss: 2016-08-07T19:30:42.864587086365Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:19:27.00953627333Z
+        es: 2016-08-07T22:19:26.897265421335Z
         ssDistance: 117.148 km
-        ssElapsed: 2.813308 h
-        gsElapsed: 2.824169 h
-        ssVelocity: 41.64 km / h
+        ssElapsed: 2.812231 h
+        gsElapsed: 2.824138 h
+        ssVelocity: 41.66 km / h
         gsVelocity: 41.48 km / h
       stoppedAlt: null
   - - - '103'
@@ -260,13 +260,13 @@ score:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:54:55.107450245106Z
+        ss: 2016-08-07T19:55:13.984016340506Z
         gs: 2016-08-07T19:50:00Z
-        es: 2016-08-07T22:33:57.12386582112Z
+        es: 2016-08-07T22:33:57.036498741962Z
         ssDistance: 117.148 km
-        ssElapsed: 2.650560 h
-        gsElapsed: 2.732534 h
-        ssVelocity: 44.20 km / h
+        ssElapsed: 2.645292 h
+        gsElapsed: 2.732510 h
+        ssVelocity: 44.29 km / h
         gsVelocity: 42.87 km / h
       stoppedAlt: null
   - - - '102'
@@ -287,13 +287,13 @@ score:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:46:29.88121271175Z
+        ss: 2016-08-07T19:46:33.300042893Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:53:58.031180972424Z
+        es: 2016-08-07T22:53:57.922019628122Z
         ssDistance: 117.148 km
-        ssElapsed: 3.124486 h
-        gsElapsed: 3.399453 h
-        ssVelocity: 37.49 km / h
+        ssElapsed: 3.123506 h
+        gsElapsed: 3.399423 h
+        ssVelocity: 37.51 km / h
         gsVelocity: 34.46 km / h
       stoppedAlt: null
   - - - '108'
@@ -305,7 +305,7 @@ score:
       breakdown:
         effort: 186.264
         distance: 372.529
-        leading: 20.4
+        leading: 20.3
         arrival: 16.5
         time: 97.1
         reach: 186.264
@@ -314,13 +314,13 @@ score:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:42.630478788004Z
+        ss: 2016-08-07T19:30:47.113950187106Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T23:07:55.548677379894Z
+        es: 2016-08-07T23:07:55.393892846486Z
         ssDistance: 117.148 km
-        ssElapsed: 3.620255 h
-        gsElapsed: 3.632097 h
-        ssVelocity: 32.36 km / h
+        ssElapsed: 3.618967 h
+        gsElapsed: 3.632054 h
+        ssVelocity: 32.37 km / h
         gsVelocity: 32.25 km / h
       stoppedAlt: null
   - - - '107'
@@ -350,17 +350,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 184.789
-        distance: 332.074
+        distance: 332.077
         leading: 0
         arrival: 0
         time: 0
-        reach: 147.284
-      landedMade: 100.217 km
+        reach: 147.287
+      landedMade: 100.219 km
       reach:
-        extra: 100.223 km
-        flown: 100.223 km
+        extra: 100.225 km
+        flown: 100.225 km
       velocity:
-        ss: 2016-08-07T20:15:28.26409412235Z
+        ss: 2016-08-07T20:15:31.04297763285Z
         gs: 2016-08-07T19:50:00Z
         es: null
         ssDistance: null
@@ -377,17 +377,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 61.214
-        distance: 172.426
+        distance: 172.441
         leading: 37.9
         arrival: 0
         time: 0
-        reach: 111.212
-      landedMade: 24.816 km
+        reach: 111.227
+      landedMade: 24.828 km
       reach:
-        extra: 75.677 km
-        flown: 75.677 km
+        extra: 75.687 km
+        flown: 75.687 km
       velocity:
-        ss: 2016-08-07T19:30:32.77060729812Z
+        ss: 2016-08-07T19:30:35.26270076676Z
         gs: 2016-08-07T19:30:00Z
         es: null
         ssDistance: null
@@ -403,78 +403,78 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.74
-        distance: 383.481
+        effort: 191.792
+        distance: 383.585
         leading: 91.8
         arrival: 65.6
-        time: 367.1
-        reach: 191.74
+        time: 367.2
+        reach: 191.792
       landedMade: 116.154 km
       reach:
         extra: 116.154 km
         flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:00:08.7141594853Z
+        ss: 2016-08-08T19:00:10.96314498271Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:05:25.821396746246Z
+        es: 2016-08-08T21:05:25.73484062672Z
         ssDistance: 106.554 km
-        ssElapsed: 2.088085 h
-        gsElapsed: 2.090506 h
-        ssVelocity: 51.03 km / h
+        ssElapsed: 2.087437 h
+        gsElapsed: 2.090482 h
+        ssVelocity: 51.05 km / h
         gsVelocity: 50.97 km / h
       stoppedAlt: null
   - - - '110'
       - Bruce Barmakian
     - place: '2'
-      total: 715
+      total: 716
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.74
-        distance: 383.481
+        effort: 191.792
+        distance: 383.585
         leading: 13.1
         arrival: 26.6
-        time: 292.2
-        reach: 191.74
+        time: 292.3
+        reach: 191.792
       landedMade: 116.154 km
       reach:
         extra: 116.154 km
         flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:20:08.323338877454Z
+        ss: 2016-08-08T19:20:10.617908958538Z
         gs: 2016-08-08T19:20:00Z
-        es: 2016-08-08T21:33:25.23980983155Z
+        es: 2016-08-08T21:33:25.155795940274Z
         ssDistance: 106.554 km
-        ssElapsed: 2.221366 h
-        gsElapsed: 2.223678 h
-        ssVelocity: 47.97 km / h
+        ssElapsed: 2.220705 h
+        gsElapsed: 2.223654 h
+        ssVelocity: 47.98 km / h
         gsVelocity: 47.92 km / h
       stoppedAlt: null
   - - - '103'
       - Kevin Carter
     - place: '3'
-      total: 691
+      total: 692
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.74
-        distance: 383.481
+        effort: 191.792
+        distance: 383.585
         leading: 44.9
         arrival: 41.8
-        time: 221.2
-        reach: 191.74
+        time: 221.3
+        reach: 191.792
       landedMade: 116.154 km
       reach:
         extra: 116.154 km
         flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:05:05.63506205347Z
+        ss: 2016-08-08T19:05:09.33712097537Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:27:09.974436027561Z
+        es: 2016-08-08T21:27:09.891412768184Z
         ssDistance: 106.554 km
-        ssElapsed: 2.367872 h
-        gsElapsed: 2.452771 h
-        ssVelocity: 45.00 km / h
+        ssElapsed: 2.366821 h
+        gsElapsed: 2.452748 h
+        ssVelocity: 45.02 km / h
         gsVelocity: 43.44 km / h
       stoppedAlt: null
   - - - '106'
@@ -484,24 +484,24 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.74
-        distance: 383.481
-        leading: 13.4
+        effort: 191.792
+        distance: 383.585
+        leading: 13.5
         arrival: 18.1
-        time: 205.8
-        reach: 191.74
+        time: 205.9
+        reach: 191.792
       landedMade: 116.154 km
       reach:
         extra: 116.154 km
         flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:20:26.7719171428Z
+        ss: 2016-08-08T19:20:29.19110985956Z
         gs: 2016-08-08T19:20:00Z
-        es: 2016-08-08T21:50:41.48329796876Z
+        es: 2016-08-08T21:50:41.37344090841Z
         ssDistance: 106.554 km
-        ssElapsed: 2.504086 h
-        gsElapsed: 2.511523 h
-        ssVelocity: 42.55 km / h
+        ssElapsed: 2.503384 h
+        gsElapsed: 2.511493 h
+        ssVelocity: 42.56 km / h
         gsVelocity: 42.43 km / h
       stoppedAlt: null
   - - - '108'
@@ -511,24 +511,24 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.74
-        distance: 383.481
+        effort: 191.792
+        distance: 383.585
         leading: 11.4
         arrival: 14.3
         time: 108.5
-        reach: 191.74
+        reach: 191.792
       landedMade: 116.154 km
       reach:
         extra: 116.154 km
         flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:03:27.945540492736Z
+        ss: 2016-08-08T19:03:32.119680236194Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:56:43.59695695187Z
+        es: 2016-08-08T21:56:43.471617644872Z
         ssDistance: 106.554 km
-        ssElapsed: 2.887681 h
-        gsElapsed: 2.945444 h
-        ssVelocity: 36.90 km / h
+        ssElapsed: 2.886487 h
+        gsElapsed: 2.945409 h
+        ssVelocity: 36.91 km / h
         gsVelocity: 36.18 km / h
       stoppedAlt: null
   - - - '102'
@@ -538,18 +538,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.74
-        distance: 307.337
-        leading: 15.4
+        effort: 191.792
+        distance: 307.566
+        leading: 15.5
         arrival: 0
         time: 0
-        reach: 115.597
-      landedMade: 69.754 km
+        reach: 115.773
+      landedMade: 69.841 km
       reach:
-        extra: 70.027 km
-        flown: 70.027 km
+        extra: 70.115 km
+        flown: 70.115 km
       velocity:
-        ss: 2016-08-08T19:00:30.469207282912Z
+        ss: 2016-08-08T19:00:33.042817106284Z
         gs: 2016-08-08T19:00:00Z
         es: null
         ssDistance: null
@@ -565,18 +565,18 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 137.356
-        distance: 198.046
+        effort: 137.487
+        distance: 198.34
         leading: 0
         arrival: 0
         time: 0
-        reach: 60.69
-      landedMade: 36.615 km
+        reach: 60.853
+      landedMade: 36.704 km
       reach:
-        extra: 36.765 km
-        flown: 36.765 km
+        extra: 36.854 km
+        flown: 36.854 km
       velocity:
-        ss: 2016-08-08T19:00:05.990034680252Z
+        ss: 2016-08-08T19:00:08.221165012109Z
         gs: 2016-08-08T19:00:00Z
         es: null
         ssDistance: null
@@ -593,11 +593,11 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 8.254
+        distance: 8.256
         leading: 0
         arrival: 0
         time: 0
-        reach: 8.254
+        reach: 8.256
       landedMade: 4.999 km
       reach:
         extra: 4.999 km
@@ -612,11 +612,11 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 8.254
+        distance: 8.256
         leading: 0
         arrival: 0
         time: 0
-        reach: 8.254
+        reach: 8.256
       landedMade: 4.999 km
       reach:
         extra: 4.999 km
@@ -641,14 +641,14 @@ score:
         extra: 192.209 km
         flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:15:22.952050710387Z
+        ss: 2016-08-11T19:15:25.720412525957Z
         gs: 2016-08-11T19:15:00Z
-        es: 2016-08-11T22:13:45.099602841212Z
+        es: 2016-08-11T22:13:45.026874660867Z
         ssDistance: 182.609 km
-        ssElapsed: 2.972819 h
-        gsElapsed: 2.979194 h
-        ssVelocity: 61.43 km / h
-        gsVelocity: 61.29 km / h
+        ssElapsed: 2.972030 h
+        gsElapsed: 2.979174 h
+        ssVelocity: 61.44 km / h
+        gsVelocity: 61.30 km / h
       stoppedAlt: null
   - - - '110'
       - Bruce Barmakian
@@ -668,13 +668,13 @@ score:
         extra: 192.209 km
         flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:01:02.86368892237Z
+        ss: 2016-08-11T19:01:04.531365251372Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:19:25.257666403973Z
+        es: 2016-08-11T22:19:25.192859830111Z
         ssDistance: 182.609 km
-        ssElapsed: 3.306221 h
-        gsElapsed: 3.323683 h
-        ssVelocity: 55.23 km / h
+        ssElapsed: 3.305739 h
+        gsElapsed: 3.323665 h
+        ssVelocity: 55.24 km / h
         gsVelocity: 54.94 km / h
       stoppedAlt: null
   - - - '106'
@@ -695,13 +695,13 @@ score:
         extra: 192.209 km
         flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:00:36.14437878579Z
+        ss: 2016-08-11T19:00:41.01257258934Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:26:30.770325416938Z
+        es: 2016-08-11T22:26:30.673006431655Z
         ssDistance: 182.609 km
-        ssElapsed: 3.431841 h
-        gsElapsed: 3.441881 h
-        ssVelocity: 53.21 km / h
+        ssElapsed: 3.430461 h
+        gsElapsed: 3.441854 h
+        ssVelocity: 53.23 km / h
         gsVelocity: 53.06 km / h
       stoppedAlt: null
   - - - '104'
@@ -722,12 +722,12 @@ score:
         extra: 192.209 km
         flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:00:30.640771549007Z
+        ss: 2016-08-11T19:00:32.827203492231Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:39:05.671222523639Z
+        es: 2016-08-11T22:39:05.593603261082Z
         ssDistance: 182.609 km
-        ssElapsed: 3.643064 h
-        gsElapsed: 3.651575 h
+        ssElapsed: 3.642435 h
+        gsElapsed: 3.651554 h
         ssVelocity: 50.13 km / h
         gsVelocity: 50.01 km / h
       stoppedAlt: null
@@ -749,13 +749,13 @@ score:
         extra: 192.209 km
         flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:22:15.711785309088Z
+        ss: 2016-08-11T19:22:19.47023886129Z
         gs: 2016-08-11T19:15:00Z
-        es: 2016-08-11T23:36:53.337931469576Z
+        es: 2016-08-11T23:36:53.250387488254Z
         ssDistance: 182.609 km
-        ssElapsed: 4.243785 h
-        gsElapsed: 4.364816 h
-        ssVelocity: 43.03 km / h
+        ssElapsed: 4.242717 h
+        gsElapsed: 4.364792 h
+        ssVelocity: 43.04 km / h
         gsVelocity: 41.84 km / h
       stoppedAlt: null
   - - - '107'
@@ -766,17 +766,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 211.188
-        distance: 376.674
+        distance: 376.676
         leading: 23.1
         arrival: 0
         time: 0
-        reach: 165.487
-      landedMade: 149.151 km
+        reach: 165.489
+      landedMade: 149.153 km
       reach:
-        extra: 150.615 km
-        flown: 150.615 km
+        extra: 150.617 km
+        flown: 150.617 km
       velocity:
-        ss: 2016-08-11T19:15:59.866046585697Z
+        ss: 2016-08-11T19:16:05.641373547756Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -793,17 +793,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 169.795
-        distance: 271.257
+        distance: 271.259
         leading: 0
         arrival: 0
         time: 0
-        reach: 101.462
-      landedMade: 91.388 km
+        reach: 101.464
+      landedMade: 91.390 km
       reach:
-        extra: 92.344 km
-        flown: 92.344 km
+        extra: 92.346 km
+        flown: 92.346 km
       velocity:
-        ss: 2016-08-11T19:16:23.05447466609Z
+        ss: 2016-08-11T19:16:25.31116946502Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -820,17 +820,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 128.116
-        distance: 196.635
+        distance: 196.637
         leading: 0
         arrival: 0
         time: 0
-        reach: 68.518
-      landedMade: 62.253 km
+        reach: 68.521
+      landedMade: 62.255 km
       reach:
-        extra: 62.361 km
-        flown: 62.361 km
+        extra: 62.363 km
+        flown: 62.363 km
       velocity:
-        ss: 2016-08-11T19:15:42.40726682832Z
+        ss: 2016-08-11T19:15:44.71485125994Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -847,17 +847,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0.286
-        distance: 84.163
+        distance: 84.208
         leading: 0
         arrival: 0
         time: 0
-        reach: 83.877
-      landedMade: -34.123 km
+        reach: 83.922
+      landedMade: -34.071 km
       reach:
-        extra: 76.339 km
-        flown: 76.339 km
+        extra: 76.380 km
+        flown: 76.380 km
       velocity:
-        ss: 2016-08-11T18:57:00.670300631144Z
+        ss: 2016-08-11T18:57:02.973729225148Z
         gs: 2016-08-11T19:00:00Z
         es: null
         ssDistance: null
@@ -874,17 +874,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 55.5
-        distance: 84.057
+        distance: 84.065
         leading: 0
         arrival: 0
         time: 0
-        reach: 28.556
-      landedMade: 25.787 km
+        reach: 28.565
+      landedMade: 25.795 km
       reach:
-        extra: 25.990 km
-        flown: 25.990 km
+        extra: 25.998 km
+        flown: 25.998 km
       velocity:
-        ss: 2016-08-11T19:00:39.374038565465Z
+        ss: 2016-08-11T19:00:41.202072808375Z
         gs: 2016-08-11T19:00:00Z
         es: null
         ssDistance: null
@@ -912,13 +912,13 @@ scoreDf:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:42.16315376984Z
+        ss: 2016-08-07T19:30:44.70054571768Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:02:14.18811123435Z
+        es: 2016-08-07T22:02:14.103300259032Z
         ssDistance: 117.148 km
-        ssElapsed: 2.525562 h
-        gsElapsed: 2.537274 h
-        ssVelocity: 46.38 km / h
+        ssElapsed: 2.524834 h
+        gsElapsed: 2.537251 h
+        ssVelocity: 46.40 km / h
         gsVelocity: 46.17 km / h
       stoppedAlt: null
   - - - '104'
@@ -939,13 +939,13 @@ scoreDf:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:40.037509007076Z
+        ss: 2016-08-07T19:30:42.573982280028Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:02:58.558772540517Z
+        es: 2016-08-07T22:02:58.465542888287Z
         ssDistance: 117.148 km
-        ssElapsed: 2.538478 h
-        gsElapsed: 2.549600 h
-        ssVelocity: 46.15 km / h
+        ssElapsed: 2.537748 h
+        gsElapsed: 2.549574 h
+        ssVelocity: 46.16 km / h
         gsVelocity: 45.95 km / h
       stoppedAlt: null
   - - - '105'
@@ -966,13 +966,13 @@ scoreDf:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:45.887964647825Z
+        ss: 2016-08-07T19:30:48.51017073545Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:07:34.263078675864Z
+        es: 2016-08-07T22:07:34.172438700114Z
         ssDistance: 117.148 km
-        ssElapsed: 2.613438 h
-        gsElapsed: 2.626184 h
-        ssVelocity: 44.83 km / h
+        ssElapsed: 2.612684 h
+        gsElapsed: 2.626159 h
+        ssVelocity: 44.84 km / h
         gsVelocity: 44.61 km / h
       stoppedAlt: null
   - - - '101'
@@ -993,13 +993,13 @@ scoreDf:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:39.1021119127Z
+        ss: 2016-08-07T19:30:42.864587086365Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:19:27.00953627333Z
+        es: 2016-08-07T22:19:26.897265421335Z
         ssDistance: 117.148 km
-        ssElapsed: 2.813308 h
-        gsElapsed: 2.824169 h
-        ssVelocity: 41.64 km / h
+        ssElapsed: 2.812231 h
+        gsElapsed: 2.824138 h
+        ssVelocity: 41.66 km / h
         gsVelocity: 41.48 km / h
       stoppedAlt: null
   - - - '103'
@@ -1020,13 +1020,13 @@ scoreDf:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:54:55.107450245106Z
+        ss: 2016-08-07T19:55:13.984016340506Z
         gs: 2016-08-07T19:50:00Z
-        es: 2016-08-07T22:33:57.12386582112Z
+        es: 2016-08-07T22:33:57.036498741962Z
         ssDistance: 117.148 km
-        ssElapsed: 2.650560 h
-        gsElapsed: 2.732534 h
-        ssVelocity: 44.20 km / h
+        ssElapsed: 2.645292 h
+        gsElapsed: 2.732510 h
+        ssVelocity: 44.29 km / h
         gsVelocity: 42.87 km / h
       stoppedAlt: null
   - - - '102'
@@ -1047,13 +1047,13 @@ scoreDf:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:46:29.88121271175Z
+        ss: 2016-08-07T19:46:33.300042893Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T22:53:58.031180972424Z
+        es: 2016-08-07T22:53:57.922019628122Z
         ssDistance: 117.148 km
-        ssElapsed: 3.124486 h
-        gsElapsed: 3.399453 h
-        ssVelocity: 37.49 km / h
+        ssElapsed: 3.123506 h
+        gsElapsed: 3.399423 h
+        ssVelocity: 37.51 km / h
         gsVelocity: 34.46 km / h
       stoppedAlt: null
   - - - '108'
@@ -1065,7 +1065,7 @@ scoreDf:
       breakdown:
         effort: 186.264
         distance: 372.529
-        leading: 20.4
+        leading: 20.3
         arrival: 16.5
         time: 97.1
         reach: 186.264
@@ -1074,13 +1074,13 @@ scoreDf:
         extra: 126.748 km
         flown: 126.748 km
       velocity:
-        ss: 2016-08-07T19:30:42.630478788004Z
+        ss: 2016-08-07T19:30:47.113950187106Z
         gs: 2016-08-07T19:30:00Z
-        es: 2016-08-07T23:07:55.548677379894Z
+        es: 2016-08-07T23:07:55.393892846486Z
         ssDistance: 117.148 km
-        ssElapsed: 3.620255 h
-        gsElapsed: 3.632097 h
-        ssVelocity: 32.36 km / h
+        ssElapsed: 3.618967 h
+        gsElapsed: 3.632054 h
+        ssVelocity: 32.37 km / h
         gsVelocity: 32.25 km / h
       stoppedAlt: null
   - - - '109'
@@ -1091,17 +1091,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 184.789
-        distance: 332.074
+        distance: 332.077
         leading: 0
         arrival: 0
         time: 0
-        reach: 147.284
-      landedMade: 100.217 km
+        reach: 147.287
+      landedMade: 100.219 km
       reach:
-        extra: 100.223 km
-        flown: 100.223 km
+        extra: 100.225 km
+        flown: 100.225 km
       velocity:
-        ss: 2016-08-07T20:15:28.26409412235Z
+        ss: 2016-08-07T20:15:31.04297763285Z
         gs: 2016-08-07T19:50:00Z
         es: null
         ssDistance: null
@@ -1118,17 +1118,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 61.214
-        distance: 172.426
+        distance: 172.441
         leading: 37.9
         arrival: 0
         time: 0
-        reach: 111.212
-      landedMade: 24.816 km
+        reach: 111.227
+      landedMade: 24.828 km
       reach:
-        extra: 75.677 km
-        flown: 75.677 km
+        extra: 75.687 km
+        flown: 75.687 km
       velocity:
-        ss: 2016-08-07T19:30:32.77060729812Z
+        ss: 2016-08-07T19:30:35.26270076676Z
         gs: 2016-08-07T19:30:00Z
         es: null
         ssDistance: null
@@ -1144,78 +1144,78 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.74
-        distance: 383.481
+        effort: 191.792
+        distance: 383.585
         leading: 91.8
         arrival: 65.6
-        time: 367.1
-        reach: 191.74
+        time: 367.2
+        reach: 191.792
       landedMade: 116.154 km
       reach:
         extra: 116.154 km
         flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:00:08.7141594853Z
+        ss: 2016-08-08T19:00:10.96314498271Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:05:25.821396746246Z
+        es: 2016-08-08T21:05:25.73484062672Z
         ssDistance: 106.554 km
-        ssElapsed: 2.088085 h
-        gsElapsed: 2.090506 h
-        ssVelocity: 51.03 km / h
+        ssElapsed: 2.087437 h
+        gsElapsed: 2.090482 h
+        ssVelocity: 51.05 km / h
         gsVelocity: 50.97 km / h
       stoppedAlt: null
   - - - '110'
       - Bruce Barmakian
     - place: '2'
-      total: 715
+      total: 716
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.74
-        distance: 383.481
+        effort: 191.792
+        distance: 383.585
         leading: 13.1
         arrival: 26.6
-        time: 292.2
-        reach: 191.74
+        time: 292.3
+        reach: 191.792
       landedMade: 116.154 km
       reach:
         extra: 116.154 km
         flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:20:08.323338877454Z
+        ss: 2016-08-08T19:20:10.617908958538Z
         gs: 2016-08-08T19:20:00Z
-        es: 2016-08-08T21:33:25.23980983155Z
+        es: 2016-08-08T21:33:25.155795940274Z
         ssDistance: 106.554 km
-        ssElapsed: 2.221366 h
-        gsElapsed: 2.223678 h
-        ssVelocity: 47.97 km / h
+        ssElapsed: 2.220705 h
+        gsElapsed: 2.223654 h
+        ssVelocity: 47.98 km / h
         gsVelocity: 47.92 km / h
       stoppedAlt: null
   - - - '103'
       - Kevin Carter
     - place: '3'
-      total: 691
+      total: 692
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.74
-        distance: 383.481
+        effort: 191.792
+        distance: 383.585
         leading: 44.9
         arrival: 41.8
-        time: 221.2
-        reach: 191.74
+        time: 221.3
+        reach: 191.792
       landedMade: 116.154 km
       reach:
         extra: 116.154 km
         flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:05:05.63506205347Z
+        ss: 2016-08-08T19:05:09.33712097537Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:27:09.974436027561Z
+        es: 2016-08-08T21:27:09.891412768184Z
         ssDistance: 106.554 km
-        ssElapsed: 2.367872 h
-        gsElapsed: 2.452771 h
-        ssVelocity: 45.00 km / h
+        ssElapsed: 2.366821 h
+        gsElapsed: 2.452748 h
+        ssVelocity: 45.02 km / h
         gsVelocity: 43.44 km / h
       stoppedAlt: null
   - - - '106'
@@ -1225,24 +1225,24 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.74
-        distance: 383.481
-        leading: 13.4
+        effort: 191.792
+        distance: 383.585
+        leading: 13.5
         arrival: 18.1
-        time: 205.8
-        reach: 191.74
+        time: 205.9
+        reach: 191.792
       landedMade: 116.154 km
       reach:
         extra: 116.154 km
         flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:20:26.7719171428Z
+        ss: 2016-08-08T19:20:29.19110985956Z
         gs: 2016-08-08T19:20:00Z
-        es: 2016-08-08T21:50:41.48329796876Z
+        es: 2016-08-08T21:50:41.37344090841Z
         ssDistance: 106.554 km
-        ssElapsed: 2.504086 h
-        gsElapsed: 2.511523 h
-        ssVelocity: 42.55 km / h
+        ssElapsed: 2.503384 h
+        gsElapsed: 2.511493 h
+        ssVelocity: 42.56 km / h
         gsVelocity: 42.43 km / h
       stoppedAlt: null
   - - - '108'
@@ -1252,24 +1252,24 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.74
-        distance: 383.481
+        effort: 191.792
+        distance: 383.585
         leading: 11.4
         arrival: 14.3
         time: 108.5
-        reach: 191.74
+        reach: 191.792
       landedMade: 116.154 km
       reach:
         extra: 116.154 km
         flown: 116.154 km
       velocity:
-        ss: 2016-08-08T19:03:27.945540492736Z
+        ss: 2016-08-08T19:03:32.119680236194Z
         gs: 2016-08-08T19:00:00Z
-        es: 2016-08-08T21:56:43.59695695187Z
+        es: 2016-08-08T21:56:43.471617644872Z
         ssDistance: 106.554 km
-        ssElapsed: 2.887681 h
-        gsElapsed: 2.945444 h
-        ssVelocity: 36.90 km / h
+        ssElapsed: 2.886487 h
+        gsElapsed: 2.945409 h
+        ssVelocity: 36.91 km / h
         gsVelocity: 36.18 km / h
       stoppedAlt: null
   - - - '102'
@@ -1279,18 +1279,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.74
-        distance: 307.337
-        leading: 15.4
+        effort: 191.792
+        distance: 307.566
+        leading: 15.5
         arrival: 0
         time: 0
-        reach: 115.597
-      landedMade: 69.754 km
+        reach: 115.773
+      landedMade: 69.841 km
       reach:
-        extra: 70.027 km
-        flown: 70.027 km
+        extra: 70.115 km
+        flown: 70.115 km
       velocity:
-        ss: 2016-08-08T19:00:30.469207282912Z
+        ss: 2016-08-08T19:00:33.042817106284Z
         gs: 2016-08-08T19:00:00Z
         es: null
         ssDistance: null
@@ -1306,18 +1306,18 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 137.356
-        distance: 198.046
+        effort: 137.487
+        distance: 198.34
         leading: 0
         arrival: 0
         time: 0
-        reach: 60.69
-      landedMade: 36.615 km
+        reach: 60.853
+      landedMade: 36.704 km
       reach:
-        extra: 36.765 km
-        flown: 36.765 km
+        extra: 36.854 km
+        flown: 36.854 km
       velocity:
-        ss: 2016-08-08T19:00:05.990034680252Z
+        ss: 2016-08-08T19:00:08.221165012109Z
         gs: 2016-08-08T19:00:00Z
         es: null
         ssDistance: null
@@ -1344,14 +1344,14 @@ scoreDf:
         extra: 192.209 km
         flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:15:22.952050710387Z
+        ss: 2016-08-11T19:15:25.720412525957Z
         gs: 2016-08-11T19:15:00Z
-        es: 2016-08-11T22:13:45.099602841212Z
+        es: 2016-08-11T22:13:45.026874660867Z
         ssDistance: 182.609 km
-        ssElapsed: 2.972819 h
-        gsElapsed: 2.979194 h
-        ssVelocity: 61.43 km / h
-        gsVelocity: 61.29 km / h
+        ssElapsed: 2.972030 h
+        gsElapsed: 2.979174 h
+        ssVelocity: 61.44 km / h
+        gsVelocity: 61.30 km / h
       stoppedAlt: null
   - - - '110'
       - Bruce Barmakian
@@ -1371,13 +1371,13 @@ scoreDf:
         extra: 192.209 km
         flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:01:02.86368892237Z
+        ss: 2016-08-11T19:01:04.531365251372Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:19:25.257666403973Z
+        es: 2016-08-11T22:19:25.192859830111Z
         ssDistance: 182.609 km
-        ssElapsed: 3.306221 h
-        gsElapsed: 3.323683 h
-        ssVelocity: 55.23 km / h
+        ssElapsed: 3.305739 h
+        gsElapsed: 3.323665 h
+        ssVelocity: 55.24 km / h
         gsVelocity: 54.94 km / h
       stoppedAlt: null
   - - - '106'
@@ -1398,13 +1398,13 @@ scoreDf:
         extra: 192.209 km
         flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:00:36.14437878579Z
+        ss: 2016-08-11T19:00:41.01257258934Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:26:30.770325416938Z
+        es: 2016-08-11T22:26:30.673006431655Z
         ssDistance: 182.609 km
-        ssElapsed: 3.431841 h
-        gsElapsed: 3.441881 h
-        ssVelocity: 53.21 km / h
+        ssElapsed: 3.430461 h
+        gsElapsed: 3.441854 h
+        ssVelocity: 53.23 km / h
         gsVelocity: 53.06 km / h
       stoppedAlt: null
   - - - '104'
@@ -1425,12 +1425,12 @@ scoreDf:
         extra: 192.209 km
         flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:00:30.640771549007Z
+        ss: 2016-08-11T19:00:32.827203492231Z
         gs: 2016-08-11T19:00:00Z
-        es: 2016-08-11T22:39:05.671222523639Z
+        es: 2016-08-11T22:39:05.593603261082Z
         ssDistance: 182.609 km
-        ssElapsed: 3.643064 h
-        gsElapsed: 3.651575 h
+        ssElapsed: 3.642435 h
+        gsElapsed: 3.651554 h
         ssVelocity: 50.13 km / h
         gsVelocity: 50.01 km / h
       stoppedAlt: null
@@ -1452,13 +1452,13 @@ scoreDf:
         extra: 192.209 km
         flown: 192.209 km
       velocity:
-        ss: 2016-08-11T19:22:15.711785309088Z
+        ss: 2016-08-11T19:22:19.47023886129Z
         gs: 2016-08-11T19:15:00Z
-        es: 2016-08-11T23:36:53.337931469576Z
+        es: 2016-08-11T23:36:53.250387488254Z
         ssDistance: 182.609 km
-        ssElapsed: 4.243785 h
-        gsElapsed: 4.364816 h
-        ssVelocity: 43.03 km / h
+        ssElapsed: 4.242717 h
+        gsElapsed: 4.364792 h
+        ssVelocity: 43.04 km / h
         gsVelocity: 41.84 km / h
       stoppedAlt: null
   - - - '107'
@@ -1469,17 +1469,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 211.188
-        distance: 376.674
+        distance: 376.676
         leading: 23.1
         arrival: 0
         time: 0
-        reach: 165.487
-      landedMade: 149.151 km
+        reach: 165.489
+      landedMade: 149.153 km
       reach:
-        extra: 150.615 km
-        flown: 150.615 km
+        extra: 150.617 km
+        flown: 150.617 km
       velocity:
-        ss: 2016-08-11T19:15:59.866046585697Z
+        ss: 2016-08-11T19:16:05.641373547756Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -1496,17 +1496,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 169.795
-        distance: 271.257
+        distance: 271.259
         leading: 0
         arrival: 0
         time: 0
-        reach: 101.462
-      landedMade: 91.388 km
+        reach: 101.464
+      landedMade: 91.390 km
       reach:
-        extra: 92.344 km
-        flown: 92.344 km
+        extra: 92.346 km
+        flown: 92.346 km
       velocity:
-        ss: 2016-08-11T19:16:23.05447466609Z
+        ss: 2016-08-11T19:16:25.31116946502Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -1523,17 +1523,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 128.116
-        distance: 196.635
+        distance: 196.637
         leading: 0
         arrival: 0
         time: 0
-        reach: 68.518
-      landedMade: 62.253 km
+        reach: 68.521
+      landedMade: 62.255 km
       reach:
-        extra: 62.361 km
-        flown: 62.361 km
+        extra: 62.363 km
+        flown: 62.363 km
       velocity:
-        ss: 2016-08-11T19:15:42.40726682832Z
+        ss: 2016-08-11T19:15:44.71485125994Z
         gs: 2016-08-11T19:15:00Z
         es: null
         ssDistance: null
@@ -1550,17 +1550,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0.286
-        distance: 84.163
+        distance: 84.208
         leading: 0
         arrival: 0
         time: 0
-        reach: 83.877
-      landedMade: -34.123 km
+        reach: 83.922
+      landedMade: -34.071 km
       reach:
-        extra: 76.339 km
-        flown: 76.339 km
+        extra: 76.380 km
+        flown: 76.380 km
       velocity:
-        ss: 2016-08-11T18:57:00.670300631144Z
+        ss: 2016-08-11T18:57:02.973729225148Z
         gs: 2016-08-11T19:00:00Z
         es: null
         ssDistance: null
@@ -1577,17 +1577,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 55.5
-        distance: 84.057
+        distance: 84.065
         leading: 0
         arrival: 0
         time: 0
-        reach: 28.556
-      landedMade: 25.787 km
+        reach: 28.565
+      landedMade: 25.795 km
       reach:
-        extra: 25.990 km
-        flown: 25.990 km
+        extra: 25.998 km
+        flown: 25.998 km
       velocity:
-        ss: 2016-08-11T19:00:39.374038565465Z
+        ss: 2016-08-11T19:00:41.202072808375Z
         gs: 2016-08-11T19:00:00Z
         es: null
         ssDistance: null
@@ -1624,11 +1624,11 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 8.254
+        distance: 8.256
         leading: 0
         arrival: 0
         time: 0
-        reach: 8.254
+        reach: 8.256
       landedMade: 4.999 km
       reach:
         extra: 4.999 km
@@ -1643,11 +1643,11 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 8.254
+        distance: 8.256
         leading: 0
         arrival: 0
         time: 0
-        reach: 8.254
+        reach: 8.256
       landedMade: 4.999 km
       reach:
         extra: 4.999 km

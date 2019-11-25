@@ -1,23 +1,23 @@
 bolster:
 - max: 126.747570 km
-  mean: 106.813213 km
-  stdDev: 37.630450 km
+  mean: 106.814413 km
+  stdDev: 37.629588 km
 - max: 116.154314 km
-  mean: 77.507133 km
-  stdDev: 46.783705 km
+  mean: 77.526800 km
+  stdDev: 46.773543 km
 - max: 192.209017 km
-  mean: 136.869417 km
-  stdDev: 62.444761 km
+  mean: 136.874917 km
+  stdDev: 62.439030 km
 reach:
 - max: 126.747570 km
-  mean: 106.323413 km
-  stdDev: 38.960828 km
+  mean: 106.324613 km
+  stdDev: 38.960010 km
 - max: 116.154314 km
-  mean: 76.397133 km
-  stdDev: 48.517968 km
+  mean: 76.416800 km
+  stdDev: 48.508620 km
 - max: 192.209017 km
-  mean: 136.869417 km
-  stdDev: 62.444761 km
+  mean: 136.874917 km
+  stdDev: 62.439030 km
 reachRank:
 - - - - '110'
       - Bruce Barmakian
@@ -53,12 +53,12 @@ reachRank:
       reach: 0.102000 km
   - - - '109'
       - Jay Devorak
-    - frac: 0.79072577
-      reach: 100.222570 km
+    - frac: 0.79074155
+      reach: 100.224570 km
   - - - '106'
       - Larry Bunner
-    - frac: 0.59706525
-      reach: 75.676570 km
+    - frac: 0.59714415
+      reach: 75.686570 km
 - - - - '104'
       - Derreck Turner
     - frac: 1
@@ -81,12 +81,12 @@ reachRank:
       reach: 116.154314 km
   - - - '102'
       - Tom McGowan
-    - frac: 0.60288173
-      reach: 70.027314 km
+    - frac: 0.60363934
+      reach: 70.115314 km
   - - - '105'
       - Cory Barnwell
-    - frac: 0.3165213
-      reach: 36.765314 km
+    - frac: 0.31728752
+      reach: 36.854314 km
   - - - '107'
       - Anna Eppink
     - frac: 4.303889e-2
@@ -117,201 +117,201 @@ reachRank:
       reach: 192.209017 km
   - - - '107'
       - Anna Eppink
-    - frac: 0.78360016
-      reach: 150.615017 km
+    - frac: 0.78361057
+      reach: 150.617017 km
   - - - '108'
       - David Whittle
-    - frac: 0.48043541
-      reach: 92.344017 km
+    - frac: 0.48044581
+      reach: 92.346017 km
   - - - '102'
       - Tom McGowan
-    - frac: 0.39716668
-      reach: 76.339017 km
+    - frac: 0.39737999
+      reach: 76.380017 km
   - - - '109'
       - Jay Devorak
-    - frac: 0.32444376
-      reach: 62.361017 km
+    - frac: 0.32445417
+      reach: 62.363017 km
   - - - '101'
       - Davis Straub
-    - frac: 0.13521747
-      reach: 25.990017 km
+    - frac: 0.13525909
+      reach: 25.998017 km
 nigh:
 - - - - '109'
       - Jay Devorak
     - togo:
-        distance: 26.525435 km
+        distance: 26.523435 km
         flipSum:
-        - 26.525435 km
+        - 26.523435 km
         legs:
-        - 26.525435 km
+        - 26.523435 km
         legsSum:
-        - 26.525435 km
+        - 26.523435 km
         waypoints:
         - lat: 32.757
           lng: -100.68996667
-        - lat: 32.82278646
-          lng: -100.4172073
-      made: 100.222570 km
+        - lat: 32.82278139
+          lng: -100.41722783
+      made: 100.224570 km
   - - - '106'
       - Larry Bunner
     - togo:
-        distance: 51.071155 km
+        distance: 51.060208 km
         flipSum:
-        - 51.071155 km
-        - 50.884346 km
+        - 51.060208 km
+        - 50.877879 km
         legs:
-        - 0.186808 km
-        - 50.884346 km
+        - 0.182329 km
+        - 50.877879 km
         legsSum:
-        - 0.186808 km
-        - 51.071155 km
+        - 0.182329 km
+        - 51.060208 km
         waypoints:
         - lat: 32.70526667
           lng: -100.9419
-        - lat: 32.70370943
-          lng: -100.94264919
-        - lat: 32.82284823
-          lng: -100.41722817
-      made: 75.676570 km
+        - lat: 32.70373947
+          lng: -100.94260943
+        - lat: 32.82284347
+          lng: -100.41724881
+      made: 75.686570 km
 - - - - '102'
       - Tom McGowan
     - togo:
-        distance: 46.117352 km
+        distance: 46.029551 km
         flipSum:
-        - 46.117352 km
-        - 27.533891 km
+        - 46.029551 km
+        - 27.488834 km
         legs:
-        - 18.583461 km
-        - 27.533891 km
+        - 18.540717 km
+        - 27.488834 km
         legsSum:
-        - 18.583461 km
-        - 46.117352 km
+        - 18.540717 km
+        - 46.029551 km
         waypoints:
         - lat: 32.60386667
           lng: -101.72338333
-        - lat: 32.74698015
-          lng: -101.6208466
-        - lat: 32.75900739
-          lng: -101.91492851
-      made: 70.027314 km
+        - lat: 32.74677137
+          lng: -101.62132011
+        - lat: 32.75900642
+          lng: -101.91490715
+      made: 70.115314 km
   - - - '105'
       - Cory Barnwell
     - togo:
-        distance: 79.385853 km
+        distance: 79.296860 km
         flipSum:
-        - 79.385853 km
-        - 52.815393 km
-        - 28.030821 km
+        - 79.296860 km
+        - 52.730063 km
+        - 27.988988 km
         legs:
-        - 26.570460 km
-        - 24.784571 km
-        - 28.030821 km
+        - 26.566797 km
+        - 24.741075 km
+        - 27.988988 km
         legsSum:
-        - 26.570460 km
-        - 51.355031 km
-        - 79.385853 km
+        - 26.566797 km
+        - 51.307872 km
+        - 79.296860 km
         waypoints:
         - lat: 32.46733333
           lng: -101.43336667
-        - lat: 32.53059806
-          lng: -101.70657823
-        - lat: 32.74004686
-          lng: -101.61604505
-        - lat: 32.7589433
-          lng: -101.91493328
-      made: 36.765314 km
+        - lat: 32.5306189
+          lng: -101.70653097
+        - lat: 32.73980343
+          lng: -101.61649453
+        - lat: 32.75894202
+          lng: -101.91491194
+      made: 36.854314 km
 - - - - '107'
       - Anna Eppink
     - togo:
-        distance: 41.593453 km
+        distance: 41.591453 km
         flipSum:
-        - 41.593453 km
+        - 41.591453 km
         legs:
-        - 41.593453 km
+        - 41.591453 km
         legsSum:
-        - 41.593453 km
+        - 41.591453 km
         waypoints:
         - lat: 33.33011667
           lng: -100.6148
-        - lat: 33.63318218
-          lng: -100.35192706
-      made: 150.615017 km
+        - lat: 33.63316759
+          lng: -100.35193969
+      made: 150.617017 km
   - - - '108'
       - David Whittle
     - togo:
-        distance: 99.864680 km
+        distance: 99.862680 km
         flipSum:
-        - 99.864680 km
+        - 99.862680 km
         legs:
-        - 99.864680 km
+        - 99.862680 km
         legsSum:
-        - 99.864680 km
+        - 99.862680 km
         waypoints:
         - lat: 32.87028333
           lng: -100.91863333
-        - lat: 33.63303952
-          lng: -100.35167061
-      made: 92.344017 km
+        - lat: 33.63302422
+          lng: -100.35168196
+      made: 92.346017 km
   - - - '109'
       - Jay Devorak
     - togo:
-        distance: 129.847806 km
+        distance: 129.845846 km
         flipSum:
-        - 129.847806 km
-        - 121.024318 km
+        - 129.845846 km
+        - 121.037754 km
         legs:
-        - 8.823488 km
-        - 121.024318 km
+        - 8.808093 km
+        - 121.037754 km
         legsSum:
-        - 8.823488 km
-        - 129.847806 km
+        - 8.808093 km
+        - 129.845846 km
         waypoints:
         - lat: 32.62246667
           lng: -101.0504
-        - lat: 32.69128956
-          lng: -101.00348589
-        - lat: 33.63300626
-          lng: -100.35160464
-      made: 62.361017 km
+        - lat: 32.69125746
+          lng: -101.0037503
+        - lat: 33.63299079
+          lng: -100.35161566
+      made: 62.363017 km
   - - - '101'
       - Davis Straub
     - togo:
-        distance: 166.218446 km
+        distance: 166.210693 km
         flipSum:
-        - 166.218446 km
-        - 117.343414 km
+        - 166.210693 km
+        - 117.338641 km
         legs:
-        - 48.875032 km
-        - 117.343414 km
+        - 48.872052 km
+        - 117.338641 km
         legsSum:
-        - 48.875032 km
-        - 166.218446 km
+        - 48.872052 km
+        - 166.210693 km
         waypoints:
         - lat: 32.40611667
           lng: -101.35278333
-        - lat: 32.7246399
-          lng: -100.99338869
-        - lat: 33.63300626
-          lng: -100.35160464
-      made: 25.990017 km
+        - lat: 32.72477457
+          lng: -100.9936027
+        - lat: 33.63299079
+          lng: -100.35161566
+      made: 25.998017 km
   - - - '102'
       - Tom McGowan
     - togo:
-        distance: 115.869208 km
+        distance: 115.827708 km
         flipSum:
-        - 115.869208 km
-        - 114.007209 km
+        - 115.827708 km
+        - 113.985430 km
         legs:
-        - 1.861999 km
-        - 114.007209 km
+        - 1.842278 km
+        - 113.985430 km
         legsSum:
-        - 1.861999 km
-        - 115.869208 km
+        - 1.842278 km
+        - 115.827708 km
         waypoints:
         - lat: 32.75386667
           lng: -100.9725
-        - lat: 32.74220816
-          lng: -100.95820818
-        - lat: 33.63297399
-          lng: -100.35153796
-      made: 76.339017 km
+        - lat: 32.7424307
+          lng: -100.95824624
+        - lat: 33.63295836
+          lng: -100.35154865
+      made: 76.380017 km
