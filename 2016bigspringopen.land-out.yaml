@@ -82,10 +82,10 @@ difficulty:
     - 5.000 km
     - 5.000 km
     downers:
-    - - '109'
-      - Jay Devorak
     - - '107'
       - Anna Eppink
+    - - '109'
+      - Jay Devorak
     downward: 4
     rel: 1.71086e-3
     frac: 8.725406e-2

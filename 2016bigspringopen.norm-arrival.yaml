@@ -1,6 +1,6 @@
 pilotsAtEss:
 - 7
-- 5
+- 6
 - 5
 arrivalRank:
 - - - - '110'
@@ -10,32 +10,32 @@ arrivalRank:
       frac: 1
   - - - '104'
       - Derreck Turner
-    - lag: 0.012323 h
+    - lag: 0.012222 h
       rank: '2'
       frac: 0.7258484
   - - - '105'
       - Cory Barnwell
-    - lag: 0.088908 h
+    - lag: 0.088889 h
       rank: '3'
       frac: 0.52344023
   - - - '101'
       - Davis Straub
-    - lag: 0.286887 h
+    - lag: 0.286944 h
       rank: '4'
       frac: 0.38170262
   - - - '103'
       - Kevin Carter
-    - lag: 0.528593 h
+    - lag: 0.528611 h
       rank: '5'
       frac: 0.28956268
   - - - '102'
       - Tom McGowan
-    - lag: 0.862172 h
+    - lag: 0.862222 h
       rank: '6'
       frac: 0.23594752
   - - - '108'
       - David Whittle
-    - lag: 1.094803 h
+    - lag: 1.094722 h
       rank: '7'
       frac: 0.20978426
 - - - - '104'
@@ -43,26 +43,31 @@ arrivalRank:
     - lag: 0.000000 h
       rank: '1'
       frac: 1
+  - - - '101'
+      - Davis Straub
+    - lag: 0.007778 h
+      rank: '2'
+      frac: 0.68743056
   - - - '103'
       - Kevin Carter
-    - lag: 0.362266 h
-      rank: '2'
-      frac: 0.636896
+    - lag: 0.362222 h
+      rank: '3'
+      frac: 0.47
   - - - '110'
       - Bruce Barmakian
-    - lag: 0.466506 h
-      rank: '3'
-      frac: 0.405728
+    - lag: 0.466667 h
+      rank: '4'
+      frac: 0.330125
   - - - '106'
       - Larry Bunner
-    - lag: 0.754344 h
-      rank: '4'
-      frac: 0.276112
+    - lag: 0.754444 h
+      rank: '5'
+      frac: 0.25022222
   - - - '108'
       - David Whittle
-    - lag: 0.854927 h
-      rank: '5'
-      frac: 0.217664
+    - lag: 0.855000 h
+      rank: '6'
+      frac: 0.21270833
 - - - - '103'
       - Kevin Carter
     - lag: 0.000000 h
@@ -70,21 +75,21 @@ arrivalRank:
       frac: 1
   - - - '110'
       - Bruce Barmakian
-    - lag: 0.094491 h
+    - lag: 0.094444 h
       rank: '2'
       frac: 0.636896
   - - - '106'
       - Larry Bunner
-    - lag: 0.212679 h
+    - lag: 0.212500 h
       rank: '3'
       frac: 0.405728
   - - - '104'
       - Derreck Turner
-    - lag: 0.422380 h
+    - lag: 0.422222 h
       rank: '4'
       frac: 0.276112
   - - - '105'
       - Cory Barnwell
-    - lag: 1.385618 h
+    - lag: 1.385556 h
       rank: '5'
       frac: 0.217664

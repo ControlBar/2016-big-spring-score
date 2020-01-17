@@ -22,7 +22,8 @@ nominal:
   free: 5.000 km
   time: 2.000000 h
 compTweak:
-  arrivalWeightScaling: null
+  arrivalRank: true
+  arrivalTime: false
   leadingWeightScaling: null
 tasks:
 - taskName: '1'
@@ -114,11 +115,13 @@ tasks:
   - 2016-08-07T19:50:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals: []
 - taskName: t2
   zones:
@@ -226,11 +229,13 @@ tasks:
   - 2016-08-08T19:40:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals: []
 - taskName: t3
   zones:
@@ -323,11 +328,17 @@ tasks:
   - 2016-08-11T19:45:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto:
+  - - - '102'
+      - Tom McGowan
+    - - penalty-points: 60
+    - Jumped the gun by 3:00
   penals: []
 taskFolders:
 - - flights
