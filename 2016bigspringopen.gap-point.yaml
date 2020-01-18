@@ -35,7 +35,7 @@ validityWorking:
     flying: 10
     present: 10
   distance:
-    sum: 652.7 km
+    sum: 763.9 km
     flying: 10
     area: 71.875
     nominalGoal: 0.25
@@ -76,8 +76,8 @@ validity:
   stop: null
 - time: 1
   launch: 1
-  distance: 0.90816167
-  task: 0.90816167
+  distance: 1
+  task: 1
   stop: null
 - time: 1
   launch: 1
@@ -101,22 +101,22 @@ allocation:
     distance: 372.529
     leading: 109.8
   taskPoints: 1000
-- goalRatio: 0.5
+- goalRatio: 0.6
   weight:
-    effort: 0.2111875
-    arrival: 7.220312e-2
-    time: 0.4043375
-    reach: 0.2111875
-    distance: 0.422375
-    leading: 0.10108438
+    effort: 0.195444
+    arrival: 7.6139e-2
+    time: 0.4263784
+    reach: 0.195444
+    distance: 0.390888
+    leading: 0.1065946
   points:
-    effort: 191.792
-    arrival: 65.6
-    time: 367.2
-    reach: 191.792
-    distance: 383.585
-    leading: 91.8
-  taskPoints: 908
+    effort: 195.444
+    arrival: 76.1
+    time: 426.4
+    reach: 195.444
+    distance: 390.888
+    leading: 106.6
+  taskPoints: 1000
 - goalRatio: 0.5
   weight:
     effort: 0.2111875
@@ -419,18 +419,18 @@ score:
 - - - - '104'
       - Derreck Turner
     - place: '1'
-      total: 908
+      total: 1000
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.792
-        arrival: 65.6
-        time: 367.2
-        reach: 191.792
-        distance: 383.585
-        leading: 91.8
+        effort: 195.444
+        arrival: 76.1
+        time: 426.4
+        reach: 195.444
+        distance: 390.888
+        leading: 106.6
       velocity:
         ss: 2016-08-08T19:00:10.96314498271Z
         gs: 2016-08-08T19:00:00Z
@@ -445,21 +445,50 @@ score:
         flown: 116.154 km
       landedMade: 116.154 km
       stoppedAlt: null
-  - - - '110'
-      - Bruce Barmakian
+  - - - '101'
+      - Davis Straub
     - place: '2'
-      total: 716
+      total: 961
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.792
-        arrival: 26.6
-        time: 292.3
-        reach: 191.792
-        distance: 383.585
-        leading: 13.1
+        effort: 195.444
+        arrival: 52.3
+        time: 413.3
+        reach: 195.444
+        distance: 390.888
+        leading: 104.5
+      velocity:
+        ss: 2016-08-08T19:00:19.877358996085Z
+        gs: 2016-08-08T19:00:00Z
+        es: 2016-08-08T21:05:53.629719960092Z
+        ssDistance: 106.554 km
+        ssElapsed: 2.092709 h
+        gsElapsed: 2.098230 h
+        ssVelocity: 50.92 km / h
+        gsVelocity: 50.78 km / h
+      reach:
+        extra: 116.154 km
+        flown: 116.154 km
+      landedMade: 116.154 km
+      stoppedAlt: null
+  - - - '110'
+      - Bruce Barmakian
+    - place: '3'
+      total: 771
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 195.444
+        arrival: 25.1
+        time: 339.4
+        reach: 195.444
+        distance: 390.888
+        leading: 15.2
       velocity:
         ss: 2016-08-08T19:20:10.617908958538Z
         gs: 2016-08-08T19:20:00Z
@@ -476,19 +505,19 @@ score:
       stoppedAlt: null
   - - - '103'
       - Kevin Carter
-    - place: '3'
-      total: 692
+    - place: '4'
+      total: 736
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.792
-        arrival: 41.8
-        time: 221.3
-        reach: 191.792
-        distance: 383.585
-        leading: 44.9
+        effort: 195.444
+        arrival: 35.8
+        time: 256.9
+        reach: 195.444
+        distance: 390.888
+        leading: 52.1
       velocity:
         ss: 2016-08-08T19:05:09.33712097537Z
         gs: 2016-08-08T19:00:00Z
@@ -505,19 +534,19 @@ score:
       stoppedAlt: null
   - - - '106'
       - Larry Bunner
-    - place: '4'
-      total: 621
+    - place: '5'
+      total: 665
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.792
-        arrival: 18.1
-        time: 205.9
-        reach: 191.792
-        distance: 383.585
-        leading: 13.5
+        effort: 195.444
+        arrival: 19.1
+        time: 239.1
+        reach: 195.444
+        distance: 390.888
+        leading: 15.6
       velocity:
         ss: 2016-08-08T19:20:29.19110985956Z
         gs: 2016-08-08T19:20:00Z
@@ -534,19 +563,19 @@ score:
       stoppedAlt: null
   - - - '108'
       - David Whittle
-    - place: '5'
-      total: 518
+    - place: '6'
+      total: 546
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.792
-        arrival: 14.3
-        time: 108.5
-        reach: 191.792
-        distance: 383.585
-        leading: 11.4
+        effort: 195.444
+        arrival: 16.2
+        time: 126
+        reach: 195.444
+        distance: 390.888
+        leading: 13.3
       velocity:
         ss: 2016-08-08T19:03:32.119680236194Z
         gs: 2016-08-08T19:00:00Z
@@ -563,19 +592,19 @@ score:
       stoppedAlt: null
   - - - '102'
       - Tom McGowan
-    - place: '6'
-      total: 323
+    - place: '7'
+      total: 331
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.792
+        effort: 195.444
         arrival: 0
         time: 0
-        reach: 115.773
-        distance: 307.566
-        leading: 15.5
+        reach: 117.978
+        distance: 313.422
+        leading: 18
       velocity:
         ss: 2016-08-08T19:00:33.042817106284Z
         gs: 2016-08-08T19:00:00Z
@@ -592,18 +621,18 @@ score:
       stoppedAlt: 872.000 m
   - - - '105'
       - Cory Barnwell
-    - place: '7'
-      total: 198
+    - place: '8'
+      total: 202
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 137.487
+        effort: 140.104
         arrival: 0
         time: 0
-        reach: 60.853
-        distance: 198.34
+        reach: 62.012
+        distance: 202.116
         leading: 0
       velocity:
         ss: 2016-08-08T19:00:08.221165012109Z
@@ -621,18 +650,18 @@ score:
       stoppedAlt: 808.000 m
   - - - '107'
       - Anna Eppink
-    - place: 8=
-      total: 42
+    - place: 9=
+      total: 43
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 33.469
+        effort: 34.107
         arrival: 0
         time: 0
-        reach: 8.256
-        distance: 41.725
+        reach: 8.413
+        distance: 42.52
         leading: 0
       velocity: null
       reach:
@@ -642,18 +671,18 @@ score:
       stoppedAlt: null
   - - - '109'
       - Jay Devorak
-    - place: 8=
-      total: 42
+    - place: 9=
+      total: 43
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 33.469
+        effort: 34.107
         arrival: 0
         time: 0
-        reach: 8.256
-        distance: 41.725
+        reach: 8.413
+        distance: 42.52
         leading: 0
       velocity: null
       reach:
@@ -1217,18 +1246,18 @@ scoreDf:
 - - - - '104'
       - Derreck Turner
     - place: '1'
-      total: 908
+      total: 1000
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.792
-        arrival: 65.6
-        time: 367.2
-        reach: 191.792
-        distance: 383.585
-        leading: 91.8
+        effort: 195.444
+        arrival: 76.1
+        time: 426.4
+        reach: 195.444
+        distance: 390.888
+        leading: 106.6
       velocity:
         ss: 2016-08-08T19:00:10.96314498271Z
         gs: 2016-08-08T19:00:00Z
@@ -1243,21 +1272,50 @@ scoreDf:
         flown: 116.154 km
       landedMade: 116.154 km
       stoppedAlt: null
-  - - - '110'
-      - Bruce Barmakian
+  - - - '101'
+      - Davis Straub
     - place: '2'
-      total: 716
+      total: 961
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.792
-        arrival: 26.6
-        time: 292.3
-        reach: 191.792
-        distance: 383.585
-        leading: 13.1
+        effort: 195.444
+        arrival: 52.3
+        time: 413.3
+        reach: 195.444
+        distance: 390.888
+        leading: 104.5
+      velocity:
+        ss: 2016-08-08T19:00:19.877358996085Z
+        gs: 2016-08-08T19:00:00Z
+        es: 2016-08-08T21:05:53.629719960092Z
+        ssDistance: 106.554 km
+        ssElapsed: 2.092709 h
+        gsElapsed: 2.098230 h
+        ssVelocity: 50.92 km / h
+        gsVelocity: 50.78 km / h
+      reach:
+        extra: 116.154 km
+        flown: 116.154 km
+      landedMade: 116.154 km
+      stoppedAlt: null
+  - - - '110'
+      - Bruce Barmakian
+    - place: '3'
+      total: 771
+      jump: null
+      penaltiesJump: []
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 195.444
+        arrival: 25.1
+        time: 339.4
+        reach: 195.444
+        distance: 390.888
+        leading: 15.2
       velocity:
         ss: 2016-08-08T19:20:10.617908958538Z
         gs: 2016-08-08T19:20:00Z
@@ -1274,19 +1332,19 @@ scoreDf:
       stoppedAlt: null
   - - - '103'
       - Kevin Carter
-    - place: '3'
-      total: 692
+    - place: '4'
+      total: 736
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.792
-        arrival: 41.8
-        time: 221.3
-        reach: 191.792
-        distance: 383.585
-        leading: 44.9
+        effort: 195.444
+        arrival: 35.8
+        time: 256.9
+        reach: 195.444
+        distance: 390.888
+        leading: 52.1
       velocity:
         ss: 2016-08-08T19:05:09.33712097537Z
         gs: 2016-08-08T19:00:00Z
@@ -1303,19 +1361,19 @@ scoreDf:
       stoppedAlt: null
   - - - '106'
       - Larry Bunner
-    - place: '4'
-      total: 621
+    - place: '5'
+      total: 665
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.792
-        arrival: 18.1
-        time: 205.9
-        reach: 191.792
-        distance: 383.585
-        leading: 13.5
+        effort: 195.444
+        arrival: 19.1
+        time: 239.1
+        reach: 195.444
+        distance: 390.888
+        leading: 15.6
       velocity:
         ss: 2016-08-08T19:20:29.19110985956Z
         gs: 2016-08-08T19:20:00Z
@@ -1332,19 +1390,19 @@ scoreDf:
       stoppedAlt: null
   - - - '108'
       - David Whittle
-    - place: '5'
-      total: 518
+    - place: '6'
+      total: 546
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.792
-        arrival: 14.3
-        time: 108.5
-        reach: 191.792
-        distance: 383.585
-        leading: 11.4
+        effort: 195.444
+        arrival: 16.2
+        time: 126
+        reach: 195.444
+        distance: 390.888
+        leading: 13.3
       velocity:
         ss: 2016-08-08T19:03:32.119680236194Z
         gs: 2016-08-08T19:00:00Z
@@ -1361,19 +1419,19 @@ scoreDf:
       stoppedAlt: null
   - - - '102'
       - Tom McGowan
-    - place: '6'
-      total: 323
+    - place: '7'
+      total: 331
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 191.792
+        effort: 195.444
         arrival: 0
         time: 0
-        reach: 115.773
-        distance: 307.566
-        leading: 15.5
+        reach: 117.978
+        distance: 313.422
+        leading: 18
       velocity:
         ss: 2016-08-08T19:00:33.042817106284Z
         gs: 2016-08-08T19:00:00Z
@@ -1390,18 +1448,18 @@ scoreDf:
       stoppedAlt: 872.000 m
   - - - '105'
       - Cory Barnwell
-    - place: '7'
-      total: 198
+    - place: '8'
+      total: 202
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 137.487
+        effort: 140.104
         arrival: 0
         time: 0
-        reach: 60.853
-        distance: 198.34
+        reach: 62.012
+        distance: 202.116
         leading: 0
       velocity:
         ss: 2016-08-08T19:00:08.221165012109Z
@@ -1733,17 +1791,17 @@ scoreDfNoTrack:
 - - - - '107'
       - Anna Eppink
     - place: 1=
-      total: 42
+      total: 43
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 33.469
+        effort: 34.107
         arrival: 0
         time: 0
-        reach: 8.256
-        distance: 41.725
+        reach: 8.413
+        distance: 42.52
         leading: 0
       velocity: null
       reach:
@@ -1754,17 +1812,17 @@ scoreDfNoTrack:
   - - - '109'
       - Jay Devorak
     - place: 1=
-      total: 42
+      total: 43
       jump: null
       penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 33.469
+        effort: 34.107
         arrival: 0
         time: 0
-        reach: 8.256
-        distance: 41.725
+        reach: 8.413
+        distance: 42.52
         leading: 0
       velocity: null
       reach:

@@ -107,7 +107,7 @@
             <FsResult rank="9" points="42" distance="5" ss_time="00:00:00" distance_points="42.5" linear_distance_points="8.41" difficulty_distance_points="34.05" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-08-08T14:00:00-05:00" real_distance="5" last_distance="-1.79769313486232E+305"/>
           </FsParticipant>
           <FsParticipant id="101">
-            <FsFlightData distance="116.175" bonus_distance="116.175" started_ss="2016-08-08T14:00:17-05:00" finished_ss="2016-08-08T16:05:53-05:00" tracklog_filename="Davis_Straub.20160808-233306.6143.101.IGC" lc="1.43117874170801" iv="29257165"/>
+            <FsFlightData distance="116.175" bonus_distance="116.175" started_ss="2016-08-08T14:00:17-05:00" finished_ss="2016-08-08T16:05:53-05:00" tracklog_filename="straub.t2.101.IGC" lc="1.43117874170801" iv="29257165"/>
             <FsResult rank="2" points="961" distance="116.174" ss_time="02:05:53" distance_points="390.9" linear_distance_points="195.44" difficulty_distance_points="195.44" time_points="413.3" arrival_points="52.3" leading_points="104.4" penalty_points_auto="0" penalty_reason_auto="" started_ss="2016-08-08T14:00:00-05:00" finished_ss="2016-08-08T16:05:53-05:00" real_distance="116.174" last_distance="116.174"/>
           </FsParticipant>
           <FsParticipant id="102">

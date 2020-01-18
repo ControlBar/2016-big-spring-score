@@ -31,7 +31,7 @@ raceTime:
   tickClose: 21777.026
 sumDistance:
 - 1018.144130 km
-- 652.741198 km
+- 763.895512 km
 - 1318.749170 km
 leadAreaToCoef:
 - 0.00000004048190 km^-2 s^-1
@@ -92,6 +92,11 @@ leadRank:
     - area: 29106259.5698 km^2 s
       coef: 1.42420274
       frac: 1
+  - - - '101'
+      - Davis Straub
+    - area: 29175452.2158 km^2 s
+      coef: 1.42758842
+      frac: 0.9799596
   - - - '103'
       - Kevin Carter
     - area: 38009584.8578 km^2 s

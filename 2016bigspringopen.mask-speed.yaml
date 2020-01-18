@@ -47,6 +47,10 @@ ssSpeed:
       - Derreck Turner
     - time: 2.087437 h
       frac: 1
+  - - - '101'
+      - Davis Straub
+    - time: 2.092709 h
+      frac: 0.9762971
   - - - '110'
       - Bruce Barmakian
     - time: 2.220705 h
@@ -116,6 +120,10 @@ gsSpeed:
       - Derreck Turner
     - time: 2.090482 h
       frac: 1
+  - - - '101'
+      - Davis Straub
+    - time: 2.098230 h
+      frac: 0.96937572
   - - - '110'
       - Bruce Barmakian
     - time: 2.223654 h

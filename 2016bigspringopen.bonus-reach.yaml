@@ -3,8 +3,8 @@ bolster:
   mean: 106.814413 km
   stdDev: 37.629588 km
 - max: 116.154314 km
-  mean: 77.526800 km
-  stdDev: 46.773543 km
+  mean: 81.389551 km
+  stdDev: 45.861482 km
 - max: 192.209017 km
   mean: 136.874917 km
   stdDev: 62.439030 km
@@ -13,8 +13,8 @@ reach:
   mean: 106.324613 km
   stdDev: 38.960010 km
 - max: 116.154314 km
-  mean: 76.416800 km
-  stdDev: 48.508620 km
+  mean: 80.390551 km
+  stdDev: 47.538341 km
 - max: 192.209017 km
   mean: 136.874917 km
   stdDev: 62.439030 km
@@ -61,6 +61,10 @@ reachRank:
       reach: 75.686570 km
 - - - - '104'
       - Derreck Turner
+    - frac: 1
+      reach: 116.154314 km
+  - - - '101'
+      - Davis Straub
     - frac: 1
       reach: 116.154314 km
   - - - '103'
