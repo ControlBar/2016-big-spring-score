@@ -426,7 +426,7 @@ score:
   - - - '106'
       - Larry Bunner
     - place: '10'
-      total: 210.298
+      total: 206.806
       jump: null
       penalties: []
       breakdown:
@@ -435,7 +435,7 @@ score:
         time: 0
         reach: 111.227
         distance: 172.441
-        leading: 37.9
+        leading: 34.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -453,7 +453,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 210.298
+      subtotal: 206.806
       landedMade: 24.828 km
       stoppedAlt: 618.000 m
 - - - - '104'
@@ -657,7 +657,7 @@ score:
   - - - '102'
       - Tom McGowan
     - place: '7'
-      total: 331.408
+      total: 329.484
       jump: null
       penalties: []
       breakdown:
@@ -666,7 +666,7 @@ score:
         time: 0
         reach: 117.978
         distance: 313.422
-        leading: 18
+        leading: 16.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -684,7 +684,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 331.408
+      subtotal: 329.484
       landedMade: 69.841 km
       stoppedAlt: 872.000 m
   - - - '105'
@@ -938,7 +938,7 @@ score:
   - - - '107'
       - Anna Eppink
     - place: '6'
-      total: 399.74
+      total: 399.413
       jump: null
       penalties: []
       breakdown:
@@ -947,7 +947,7 @@ score:
         time: 0
         reach: 165.489
         distance: 376.676
-        leading: 23.1
+        leading: 22.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -965,7 +965,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 399.74
+      subtotal: 399.413
       landedMade: 149.153 km
       stoppedAlt: 725.000 m
   - - - '108'
@@ -1034,43 +1034,9 @@ score:
       subtotal: 196.637
       landedMade: 62.255 km
       stoppedAlt: 687.000 m
-  - - - '102'
-      - Tom McGowan
-    - place: 9=
-      total: 84.208
-      jump: 177.026 s
-      penalties: []
-      breakdown:
-        effort: 0.286
-        arrival: 0
-        time: 0
-        reach: 83.922
-        distance: 84.208
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 59.009
-      velocity:
-        ss: 2016-08-11T18:57:02.973729225148Z
-        gs: 2016-08-11T19:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 76.380 km
-        flown: 76.380 km
-      demeritReset: 0
-      penaltiesJump:
-      - penalty-points: 59.00875692495067
-      penaltyReason: ''
-      subtotal: 84.208
-      landedMade: -34.071 km
-      stoppedAlt: 564.000 m
   - - - '101'
       - Davis Straub
-    - place: 9=
+    - place: '9'
       total: 84.065
       jump: null
       penalties: []
@@ -1101,6 +1067,41 @@ score:
       subtotal: 84.065
       landedMade: 25.795 km
       stoppedAlt: 752.000 m
+  - - - '102'
+      - Tom McGowan
+    - place: '10'
+      total: 25.199
+      jump: 177.026 s
+      penalties:
+      - penalty-points: 59.00875692495067
+      breakdown:
+        effort: 0.286
+        arrival: 0
+        time: 0
+        reach: 83.922
+        distance: 84.208
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 59.009
+      velocity:
+        ss: 2016-08-11T18:57:02.973729225148Z
+        gs: 2016-08-11T19:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 76.380 km
+        flown: 76.380 km
+      demeritReset: 0
+      penaltiesJump:
+      - penalty-points: 59.00875692495067
+      penaltyReason: ''
+      subtotal: 84.208
+      landedMade: -34.071 km
+      stoppedAlt: 564.000 m
 scoreDf:
 - - - - '110'
       - Bruce Barmakian
@@ -1369,7 +1370,7 @@ scoreDf:
   - - - '106'
       - Larry Bunner
     - place: '9'
-      total: 210.298
+      total: 206.806
       jump: null
       penalties: []
       breakdown:
@@ -1378,7 +1379,7 @@ scoreDf:
         time: 0
         reach: 111.227
         distance: 172.441
-        leading: 37.9
+        leading: 34.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -1396,7 +1397,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 210.298
+      subtotal: 206.806
       landedMade: 24.828 km
       stoppedAlt: 618.000 m
 - - - - '104'
@@ -1600,7 +1601,7 @@ scoreDf:
   - - - '102'
       - Tom McGowan
     - place: '7'
-      total: 331.408
+      total: 329.484
       jump: null
       penalties: []
       breakdown:
@@ -1609,7 +1610,7 @@ scoreDf:
         time: 0
         reach: 117.978
         distance: 313.422
-        leading: 18
+        leading: 16.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -1627,7 +1628,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 331.408
+      subtotal: 329.484
       landedMade: 69.841 km
       stoppedAlt: 872.000 m
   - - - '105'
@@ -1831,7 +1832,7 @@ scoreDf:
   - - - '107'
       - Anna Eppink
     - place: '6'
-      total: 399.74
+      total: 399.413
       jump: null
       penalties: []
       breakdown:
@@ -1840,7 +1841,7 @@ scoreDf:
         time: 0
         reach: 165.489
         distance: 376.676
-        leading: 23.1
+        leading: 22.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -1858,7 +1859,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 399.74
+      subtotal: 399.413
       landedMade: 149.153 km
       stoppedAlt: 725.000 m
   - - - '108'
@@ -1927,43 +1928,9 @@ scoreDf:
       subtotal: 196.637
       landedMade: 62.255 km
       stoppedAlt: 687.000 m
-  - - - '102'
-      - Tom McGowan
-    - place: 9=
-      total: 84.208
-      jump: 177.026 s
-      penalties: []
-      breakdown:
-        effort: 0.286
-        arrival: 0
-        time: 0
-        reach: 83.922
-        distance: 84.208
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 59.009
-      velocity:
-        ss: 2016-08-11T18:57:02.973729225148Z
-        gs: 2016-08-11T19:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 76.380 km
-        flown: 76.380 km
-      demeritReset: 0
-      penaltiesJump:
-      - penalty-points: 59.00875692495067
-      penaltyReason: ''
-      subtotal: 84.208
-      landedMade: -34.071 km
-      stoppedAlt: 564.000 m
   - - - '101'
       - Davis Straub
-    - place: 9=
+    - place: '9'
       total: 84.065
       jump: null
       penalties: []
@@ -1994,6 +1961,41 @@ scoreDf:
       subtotal: 84.065
       landedMade: 25.795 km
       stoppedAlt: 752.000 m
+  - - - '102'
+      - Tom McGowan
+    - place: '10'
+      total: 25.199
+      jump: 177.026 s
+      penalties:
+      - penalty-points: 59.00875692495067
+      breakdown:
+        effort: 0.286
+        arrival: 0
+        time: 0
+        reach: 83.922
+        distance: 84.208
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 59.009
+      velocity:
+        ss: 2016-08-11T18:57:02.973729225148Z
+        gs: 2016-08-11T19:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 76.380 km
+        flown: 76.380 km
+      demeritReset: 0
+      penaltiesJump:
+      - penalty-points: 59.00875692495067
+      penaltyReason: ''
+      subtotal: 84.208
+      landedMade: -34.071 km
+      stoppedAlt: 564.000 m
 scoreDfNoTrack:
 - - - - '107'
       - Anna Eppink
