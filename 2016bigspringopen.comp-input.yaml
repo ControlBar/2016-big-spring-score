@@ -344,7 +344,10 @@ tasks:
   penalsAuto:
   - - - '102'
       - Tom McGowan
-    - - penalty-points: 60
+    - adds:
+      - penalty-points: -60
+      muls: []
+      resets: []
     - Jumped the gun by 3:00
   penals: []
 taskFolders:

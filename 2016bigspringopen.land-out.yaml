@@ -46,7 +46,7 @@ difficulty:
       - Larry Bunner
     downward: 3
     rel: 6.5992e-4
-    frac: 0.16432028
+    frac: 0.16430664
   - chunk: 1002
     startChunk: 100.2 km
     endChunk: 100.3 km
@@ -59,7 +59,7 @@ difficulty:
       - Jay Devorak
     downward: 2
     rel: 4.3995e-4
-    frac: 0.49604048
+    frac: 0.49609375
   - chunk: 1020
     startChunk: 102.0 km
     endChunk: 102.1 km
@@ -88,7 +88,7 @@ difficulty:
       - Jay Devorak
     downward: 4
     rel: 1.71086e-3
-    frac: 8.725406e-2
+    frac: 8.71582e-2
   - chunk: 367
     startChunk: 36.7 km
     endChunk: 36.8 km
@@ -101,7 +101,7 @@ difficulty:
       - Cory Barnwell
     downward: 2
     rel: 8.5543e-4
-    frac: 0.35842601
+    frac: 0.35839844
   - chunk: 698
     startChunk: 69.8 km
     endChunk: 69.9 km
@@ -127,7 +127,7 @@ difficulty:
       - Tom McGowan
     downward: 4
     rel: 6.782e-4
-    frac: 6.782e-4
+    frac: 7.3242e-4
   - chunk: 257
     startChunk: 25.7 km
     endChunk: 25.8 km
@@ -140,7 +140,7 @@ difficulty:
       - Davis Straub
     downward: 3
     rel: 5.0865e-4
-    frac: 0.13140047
+    frac: 0.13134766
   - chunk: 622
     startChunk: 62.2 km
     endChunk: 62.3 km
@@ -153,7 +153,7 @@ difficulty:
       - Jay Devorak
     downward: 3
     rel: 5.0865e-4
-    frac: 0.30332316
+    frac: 0.30322266
   - chunk: 913
     startChunk: 91.3 km
     endChunk: 91.4 km
@@ -166,7 +166,7 @@ difficulty:
       - David Whittle
     downward: 2
     rel: 3.391e-4
-    frac: 0.40200068
+    frac: 0.40209961
   - chunk: 1491
     startChunk: 149.1 km
     endChunk: 149.2 km

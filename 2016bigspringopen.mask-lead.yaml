@@ -123,9 +123,9 @@ leadRank:
       frac: 0.1429916
   - - - '108'
       - David Whittle
-    - area: 49086638.5168 km^2 s
-      coef: 2.40186566
-      frac: 0.12447446
+    - area: 49089449.3066 km^2 s
+      coef: 2.40200319
+      frac: 0.12439235
   - - - '105'
       - Cory Barnwell
     - area: 72262190.2212 km^2 s

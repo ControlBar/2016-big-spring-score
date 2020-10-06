@@ -29,8 +29,8 @@ ssSpeed:
       frac: 0.85487248
   - - - '103'
       - Kevin Carter
-    - time: 2.645292 h
-      frac: 0.82087889
+    - time: 2.649815 h
+      frac: 0.81642259
   - - - '101'
       - Davis Straub
     - time: 2.812231 h
@@ -65,8 +65,8 @@ ssSpeed:
       frac: 0.56399864
   - - - '108'
       - David Whittle
-    - time: 2.886487 h
-      frac: 0.32623016
+    - time: 2.900435 h
+      frac: 0.31841158
 - - - - '103'
       - Kevin Carter
     - time: 2.972030 h
@@ -85,8 +85,8 @@ ssSpeed:
       frac: 0.46722887
   - - - '105'
       - Cory Barnwell
-    - time: 4.242717 h
-      frac: 0.18402902
+    - time: 4.247124 h
+      frac: 0.18214337
 gsSpeed:
 - - - - '110'
       - Bruce Barmakian
