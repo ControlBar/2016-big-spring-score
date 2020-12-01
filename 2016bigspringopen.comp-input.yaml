@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: true
   arrivalTime: false
+  essNotGoalScaling: 0.8
   leadingAreaDistanceSquared: true
   leadingWeightScaling: null
 tasks:
@@ -115,9 +116,11 @@ tasks:
   - 2016-08-07T19:30:00Z
   - 2016-08-07T19:50:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -231,9 +234,11 @@ tasks:
   - 2016-08-08T19:20:00Z
   - 2016-08-08T19:40:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -332,9 +337,11 @@ tasks:
   - 2016-08-11T19:30:00Z
   - 2016-08-11T19:45:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:

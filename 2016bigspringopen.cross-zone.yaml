@@ -1948,16 +1948,16 @@ crossing:
         - false
         - true
       - crossingPair:
-        - fix: 1505
-          time: 2016-08-07T19:54:57Z
-          lat: 32.30685
-          lng: -101.50913333
-          alt: 2452
-        - fix: 1506
-          time: 2016-08-07T19:54:59Z
-          lat: 32.30726667
-          lng: -101.5092
-          alt: 2457
+        - fix: 1513
+          time: 2016-08-07T19:55:13Z
+          lat: 32.30703333
+          lng: -101.50996667
+          alt: 2478
+        - fix: 1514
+          time: 2016-08-07T19:55:15Z
+          lat: 32.30713333
+          lng: -101.50975
+          alt: 2483
         inZone:
         - true
         - false
@@ -2245,16 +2245,16 @@ crossing:
       startSelected:
       - 2016-08-07T19:50:00Z
       - crossingPair:
-        - fix: 1505
-          time: 2016-08-07T19:54:57Z
-          lat: 32.30685
-          lng: -101.50913333
-          alt: 2452
-        - fix: 1506
-          time: 2016-08-07T19:54:59Z
-          lat: 32.30726667
-          lng: -101.5092
-          alt: 2457
+        - fix: 1513
+          time: 2016-08-07T19:55:13Z
+          lat: 32.30703333
+          lng: -101.50996667
+          alt: 2478
+        - fix: 1514
+          time: 2016-08-07T19:55:15Z
+          lat: 32.30713333
+          lng: -101.50975
+          alt: 2483
         inZone:
         - true
         - false
@@ -3613,16 +3613,16 @@ crossing:
     - zonesCrossSelected:
       - null
       - crossingPair:
-        - fix: 1092
-          time: 2016-08-08T19:02:40Z
-          lat: 32.28593333
-          lng: -101.45551667
-          alt: 1811
-        - fix: 1093
-          time: 2016-08-08T19:02:42Z
-          lat: 32.28631667
-          lng: -101.45545
-          alt: 1810
+        - fix: 1118
+          time: 2016-08-08T19:03:32Z
+          lat: 32.28665
+          lng: -101.45596667
+          alt: 1756
+        - fix: 1119
+          time: 2016-08-08T19:03:34Z
+          lat: 32.2867
+          lng: -101.45563333
+          alt: 1759
         inZone:
         - true
         - false
@@ -3967,16 +3967,16 @@ crossing:
       startSelected:
       - 2016-08-08T19:00:00Z
       - crossingPair:
-        - fix: 1092
-          time: 2016-08-08T19:02:40Z
-          lat: 32.28593333
-          lng: -101.45551667
-          alt: 1811
-        - fix: 1093
-          time: 2016-08-08T19:02:42Z
-          lat: 32.28631667
-          lng: -101.45545
-          alt: 1810
+        - fix: 1118
+          time: 2016-08-08T19:03:32Z
+          lat: 32.28665
+          lng: -101.45596667
+          alt: 1756
+        - fix: 1119
+          time: 2016-08-08T19:03:34Z
+          lat: 32.2867
+          lng: -101.45563333
+          alt: 1759
         inZone:
         - true
         - false
@@ -6226,16 +6226,16 @@ crossing:
     - zonesCrossSelected:
       - null
       - crossingPair:
-        - fix: 1177
-          time: 2016-08-11T19:22:03Z
-          lat: 32.24651667
-          lng: -101.4237
-          alt: 2370
-        - fix: 1178
-          time: 2016-08-11T19:22:06Z
-          lat: 32.24703333
-          lng: -101.42375
-          alt: 2379
+        - fix: 1182
+          time: 2016-08-11T19:22:18Z
+          lat: 32.24681667
+          lng: -101.42406667
+          alt: 2397
+        - fix: 1183
+          time: 2016-08-11T19:22:21Z
+          lat: 32.2469
+          lng: -101.42353333
+          alt: 2405
         inZone:
         - true
         - false
@@ -6552,16 +6552,16 @@ crossing:
       startSelected:
       - 2016-08-11T19:15:00Z
       - crossingPair:
-        - fix: 1177
-          time: 2016-08-11T19:22:03Z
-          lat: 32.24651667
-          lng: -101.4237
-          alt: 2370
-        - fix: 1178
-          time: 2016-08-11T19:22:06Z
-          lat: 32.24703333
-          lng: -101.42375
-          alt: 2379
+        - fix: 1182
+          time: 2016-08-11T19:22:18Z
+          lat: 32.24681667
+          lng: -101.42406667
+          alt: 2397
+        - fix: 1183
+          time: 2016-08-11T19:22:21Z
+          lat: 32.2469
+          lng: -101.42353333
+          alt: 2405
         inZone:
         - true
         - false
