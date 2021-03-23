@@ -1,0 +1,61 @@
+ssBestTime: 2.087437 h
+gsBestTime: 2.090482 h
+taskDistance: 116.154314 km
+taskSpeedDistance: 106.554314 km
+ssSpeed:
+- - - '104'
+    - Derreck Turner
+  - time: 2.087437 h
+    frac: 1
+- - - '101'
+    - Davis Straub
+  - time: 2.092709 h
+    frac: 0.9762971
+- - - '110'
+    - Bruce Barmakian
+  - time: 2.220705 h
+    frac: 0.79585112
+- - - '103'
+    - Kevin Carter
+  - time: 2.366821 h
+    frac: 0.66560228
+- - - '106'
+    - Larry Bunner
+  - time: 2.503384 h
+    frac: 0.56399864
+- - - '108'
+    - David Whittle
+  - time: 2.886487 h
+    frac: 0.32623016
+gsSpeed:
+- - - '104'
+    - Derreck Turner
+  - time: 2.090482 h
+    frac: 1
+- - - '101'
+    - Davis Straub
+  - time: 2.098230 h
+    frac: 0.96937572
+- - - '110'
+    - Bruce Barmakian
+  - time: 2.223654 h
+    frac: 0.7960482
+- - - '103'
+    - Kevin Carter
+  - time: 2.452748 h
+    frac: 0.60256203
+- - - '106'
+    - Larry Bunner
+  - time: 2.511493 h
+    frac: 0.56068102
+- - - '108'
+    - David Whittle
+  - time: 2.945409 h
+    frac: 0.29551701
+altStopped:
+- - - '105'
+    - Cory Barnwell
+  - 808.000 m
+- - - '102'
+    - Tom McGowan
+  - 872.000 m

@@ -1,0 +1,32 @@
+pilotsAtEss: 6
+arrivalRank:
+- - - '104'
+    - Derreck Turner
+  - lag: 0.000000 h
+    rank: '1'
+    frac: 1
+- - - '101'
+    - Davis Straub
+  - lag: 0.007749 h
+    rank: '2'
+    frac: 0.68743056
+- - - '103'
+    - Kevin Carter
+  - lag: 0.362266 h
+    rank: '3'
+    frac: 0.47
+- - - '110'
+    - Bruce Barmakian
+  - lag: 0.466506 h
+    rank: '4'
+    frac: 0.330125
+- - - '106'
+    - Larry Bunner
+  - lag: 0.754344 h
+    rank: '5'
+    frac: 0.25022222
+- - - '108'
+    - David Whittle
+  - lag: 0.854927 h
+    rank: '6'
+    frac: 0.21270833

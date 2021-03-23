@@ -1,0 +1,77 @@
+bestDistance: 192.209017 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1931
+  - 193.1 km
+  sumOf: 3725
+landout: 5
+lookahead: 1153
+difficulty:
+- chunk: 259
+  startChunk: 25.9 km
+  endChunk: 26.0 km
+  endAhead: 141.3 km
+  down: 1
+  downs:
+  - 25.998 km
+  downers:
+  - - '101'
+    - Davis Straub
+  downward: 4
+  rel: 5.3691e-4
+  frac: 0.13964844
+- chunk: 623
+  startChunk: 62.3 km
+  endChunk: 62.4 km
+  endAhead: 177.7 km
+  down: 1
+  downs:
+  - 62.363 km
+  downers:
+  - - '109'
+    - Jay Devorak
+  downward: 4
+  rel: 5.3691e-4
+  frac: 0.32250977
+- chunk: 763
+  startChunk: 76.3 km
+  endChunk: 76.4 km
+  endAhead: 191.7 km
+  down: 1
+  downs:
+  - 76.380 km
+  downers:
+  - - '102'
+    - Tom McGowan
+  downward: 3
+  rel: 4.0268e-4
+  frac: 0.37890625
+- chunk: 923
+  startChunk: 92.3 km
+  endChunk: 92.4 km
+  endAhead: 207.7 km
+  down: 1
+  downs:
+  - 92.346 km
+  downers:
+  - - '108'
+    - David Whittle
+  downward: 2
+  rel: 2.6846e-4
+  frac: 0.42163086
+- chunk: 1506
+  startChunk: 150.6 km
+  endChunk: 150.7 km
+  endAhead: 266.0 km
+  down: 1
+  downs:
+  - 150.617 km
+  downers:
+  - - '107'
+    - Anna Eppink
+  downward: 1
+  rel: 1.3423e-4
+  frac: 0.5

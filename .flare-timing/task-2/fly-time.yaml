@@ -1,0 +1,136 @@
+suspectDnf: []
+flying:
+- - - '107'
+    - Anna Eppink
+  - null
+- - - '110'
+    - Bruce Barmakian
+  - loggedFixes: 6041
+    flyingFixes:
+    - 0
+    - 5937
+    loggedSeconds: 12321
+    flyingSeconds:
+    - 0
+    - 12217
+    loggedTimes:
+    - 2016-08-08T18:11:38Z
+    - 2016-08-08T21:36:59Z
+    flyingTimes:
+    - 2016-08-08T18:11:38Z
+    - 2016-08-08T21:35:15Z
+- - - '105'
+    - Cory Barnwell
+  - loggedFixes: 1623
+    flyingFixes:
+    - 0
+    - 1622
+    loggedSeconds: 5196
+    flyingSeconds:
+    - 0
+    - 5196
+    loggedTimes:
+    - 2016-08-08T18:02:40Z
+    - 2016-08-08T19:29:16Z
+    flyingTimes:
+    - 2016-08-08T18:02:40Z
+    - 2016-08-08T19:29:16Z
+- - - '108'
+    - David Whittle
+  - loggedFixes: 6699
+    flyingFixes:
+    - 9
+    - 6594
+    loggedSeconds: 13301
+    flyingSeconds:
+    - 271
+    - 13197
+    loggedTimes:
+    - 2016-08-08T18:21:32Z
+    - 2016-08-08T22:03:13Z
+    flyingTimes:
+    - 2016-08-08T18:26:03Z
+    - 2016-08-08T22:01:29Z
+- - - '101'
+    - Davis Straub
+  - loggedFixes: 2485
+    flyingFixes:
+    - 5
+    - 2382
+    loggedSeconds: 11473
+    flyingSeconds:
+    - 150
+    - 11371
+    loggedTimes:
+    - 2016-08-08T17:59:40Z
+    - 2016-08-08T21:10:53Z
+    flyingTimes:
+    - 2016-08-08T18:02:10Z
+    - 2016-08-08T21:09:11Z
+- - - '104'
+    - Derreck Turner
+  - loggedFixes: 11046
+    flyingFixes:
+    - 0
+    - 10802
+    loggedSeconds: 11310
+    flyingSeconds:
+    - 0
+    - 11067
+    loggedTimes:
+    - 2016-08-08T18:09:01Z
+    - 2016-08-08T21:17:31Z
+    flyingTimes:
+    - 2016-08-08T18:09:01Z
+    - 2016-08-08T21:13:28Z
+- - - '109'
+    - Jay Devorak
+  - null
+- - - '103'
+    - Kevin Carter
+  - loggedFixes: 5245
+    flyingFixes:
+    - 9
+    - 5208
+    loggedSeconds: 10464
+    flyingSeconds:
+    - 272
+    - 10428
+    loggedTimes:
+    - 2016-08-08T18:40:15Z
+    - 2016-08-08T21:34:39Z
+    flyingTimes:
+    - 2016-08-08T18:44:47Z
+    - 2016-08-08T21:34:03Z
+- - - '106'
+    - Larry Bunner
+  - loggedFixes: 1430
+    flyingFixes:
+    - 0
+    - 1360
+    loggedSeconds: 11924
+    flyingSeconds:
+    - 0
+    - 11855
+    loggedTimes:
+    - 2016-08-08T18:36:40Z
+    - 2016-08-08T21:55:24Z
+    flyingTimes:
+    - 2016-08-08T18:36:40Z
+    - 2016-08-08T21:54:15Z
+- - - '102'
+    - Tom McGowan
+  - loggedFixes: 4272
+    flyingFixes:
+    - 10
+    - 4221
+    loggedSeconds: 8820
+    flyingSeconds:
+    - 300
+    - 8720
+    loggedTimes:
+    - 2016-08-08T18:18:41Z
+    - 2016-08-08T20:45:41Z
+    flyingTimes:
+    - 2016-08-08T18:23:41Z
+    - 2016-08-08T20:44:01Z

@@ -1,0 +1,154 @@
+pilotGroup:
+  absent: []
+  didFlyNoTracklog:
+  - pilot:
+    - '107'
+    - Anna Eppink
+    awardedReach:
+      extra:
+        awardedMade: 102.000000 km
+        awardedTask: 126.747000 km
+        awardedFrac: 0.8047527752136145
+      flown:
+        awardedMade: 102.000000 km
+        awardedTask: 126.747000 km
+        awardedFrac: 0.8047527752136145
+    awardedVelocity:
+      ss: 2016-08-07T20:00:00Z
+      es: null
+  dnf: []
+task:
+  taskName: '1'
+  zones:
+    raw:
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 771.000 m
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: 771.000 m
+    - zoneName: WINSTN
+      lat: 32.6977
+      lng: -100.9506
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 701.000 m
+    - zoneName: FISH
+      lat: 32.8238
+      lng: -100.4131
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 591.000 m
+    - zoneName: FISH
+      lat: 32.8238
+      lng: -100.4131
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 591.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 10000.0 m
+      - cylinder:
+          center:
+          - 32.69770000 deg
+          - -100.95060000 deg
+          radius: 1000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 32.82380000 deg
+          - -100.41310000 deg
+          radius: 400.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 32.82380000 deg
+          - -100.41310000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 4
+  zoneTimes:
+  - open: 2016-08-07T18:30:00Z
+    close: 2016-08-08T01:00:00Z
+  - open: 2016-08-07T19:30:00Z
+    close: 2016-08-08T01:00:00Z
+  - open: 2016-08-07T19:30:00Z
+    close: 2016-08-08T01:00:00Z
+  - open: 2016-08-07T19:30:00Z
+    close: 2016-08-08T01:00:00Z
+  - open: 2016-08-07T19:30:00Z
+    close: 2016-08-08T01:00:00Z
+  startGates:
+  - 2016-08-07T19:30:00Z
+  - 2016-08-07T19:50:00Z
+  stopped: null
+  cancelled: false
+  taskTweak:
+    arrivalRank: true
+    arrivalTime: false
+    essNotGoalScaling: 0.8
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+taskFolder:
+- flights
+pilots:
+- - - '107'
+    - Anna Eppink
+  - null
+- - - '110'
+    - Bruce Barmakian
+  - barmakian.T1.110.IGC
+- - - '105'
+    - Cory Barnwell
+  - Barnwell.T1.105.IGC
+- - - '108'
+    - David Whittle
+  - Whittle.T1.108.igc
+- - - '101'
+    - Davis Straub
+  - straub.t1.101.IGC
+- - - '104'
+    - Derreck Turner
+  - Turner.T1.104.igc
+- - - '109'
+    - Jay Devorak
+  - devorak.t1.109.igc
+- - - '103'
+    - Kevin Carter
+  - Carter.T1.103.igc
+- - - '106'
+    - Larry Bunner
+  - Bunner.t1.106.igc
+- - - '102'
+    - Tom McGowan
+  - mcgowan.t1.102.IGC

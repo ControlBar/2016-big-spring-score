@@ -1,0 +1,56 @@
+raceTime:
+  openTask: 2016-08-08T19:00:00Z
+  closeTask: 2016-08-09T01:00:00Z
+  firstStart: 2016-08-08T19:00:08.221165012109Z
+  firstLead: 2016-08-08T19:00:08.221165012109Z
+  lastArrival: 2016-08-08T21:56:43.471617644872Z
+  leadAllDown: 10880.779
+  leadArrival: 10595.25
+  leadClose: 21591.779
+  openClose: 21600
+  tickClose: 21591.779
+raceDistance: 106.554314 km
+sumDistance: 763.895512 km
+leadAreaToCoef: 0.00000004893115 km^-2 s^-1
+leadCoefMin: 1.42420274
+leadRank:
+- - - '104'
+    - Derreck Turner
+  - area: 29106259.5698 km^2 s
+    coef: 1.42420274
+    frac: 1
+- - - '101'
+    - Davis Straub
+  - area: 29175452.2158 km^2 s
+    coef: 1.42758842
+    frac: 0.9799596
+- - - '103'
+    - Kevin Carter
+  - area: 38009584.8578 km^2 s
+    coef: 1.85985269
+    frac: 0.48921927
+- - - '102'
+    - Tom McGowan
+  - area: 48195972.2231 km^2 s
+    coef: 2.35828433
+    frac: 0.15069059
+- - - '106'
+    - Larry Bunner
+  - area: 48331128.9723 km^2 s
+    coef: 2.36489771
+    frac: 0.14668652
+- - - '110'
+    - Bruce Barmakian
+  - area: 48456132.0302 km^2 s
+    coef: 2.37101425
+    frac: 0.1429916
+- - - '108'
+    - David Whittle
+  - area: 49086638.5168 km^2 s
+    coef: 2.40186566
+    frac: 0.12447446
+- - - '105'
+    - Cory Barnwell
+  - area: 72262190.2212 km^2 s
+    coef: 3.53587205
+    frac: 0

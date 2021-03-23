@@ -1,0 +1,834 @@
+timing:
+  zonesSum:
+  - 1
+  - 9
+  - 8
+  - 7
+  - 7
+  zonesFirst:
+  - 2016-08-07T19:07:09.847874118032Z
+  - 2016-08-07T19:30:35.26270076676Z
+  - 2016-08-07T20:50:47.451414297267Z
+  - 2016-08-07T22:02:14.103300259032Z
+  - 2016-08-07T22:03:35.830854457712Z
+  zonesLast:
+  - 2016-08-07T19:07:09.847874118032Z
+  - 2016-08-07T20:15:31.04297763285Z
+  - 2016-08-07T21:59:38.0611603203Z
+  - 2016-08-07T23:07:55.393892846486Z
+  - 2016-08-07T23:08:41.960304353773Z
+  zonesRankTime:
+  - - 2016-08-07T19:07:09.847874118032Z
+  - - 2016-08-07T19:30:35.26270076676Z
+    - 2016-08-07T19:30:42.573982280028Z
+    - 2016-08-07T19:30:42.864587086365Z
+    - 2016-08-07T19:30:44.70054571768Z
+    - 2016-08-07T19:30:47.113950187106Z
+    - 2016-08-07T19:30:48.51017073545Z
+    - 2016-08-07T19:46:33.300042893Z
+    - 2016-08-07T19:55:13.984016340506Z
+    - 2016-08-07T20:15:31.04297763285Z
+  - - 2016-08-07T20:50:47.451414297267Z
+    - 2016-08-07T20:51:56.84393128891Z
+    - 2016-08-07T20:52:06.478466766243Z
+    - 2016-08-07T21:03:22.991516047452Z
+    - 2016-08-07T21:25:39.08435059106Z
+    - 2016-08-07T21:25:46.366590640806Z
+    - 2016-08-07T21:40:09.564709743209Z
+    - 2016-08-07T21:59:38.0611603203Z
+  - - 2016-08-07T22:02:14.103300259032Z
+    - 2016-08-07T22:02:58.465542888287Z
+    - 2016-08-07T22:07:34.172438700114Z
+    - 2016-08-07T22:19:26.897265421335Z
+    - 2016-08-07T22:33:57.036498741962Z
+    - 2016-08-07T22:53:57.922019628122Z
+    - 2016-08-07T23:07:55.393892846486Z
+  - - 2016-08-07T22:03:35.830854457712Z
+    - 2016-08-07T22:03:40.209250626188Z
+    - 2016-08-07T22:11:04.879326193274Z
+    - 2016-08-07T22:20:26.508118042539Z
+    - 2016-08-07T22:37:21.592631614229Z
+    - 2016-08-07T22:56:47.830181974748Z
+    - 2016-08-07T23:08:41.960304353773Z
+  zonesRankPilot:
+  - - - '103'
+      - Kevin Carter
+  - - - '106'
+      - Larry Bunner
+    - - '104'
+      - Derreck Turner
+    - - '101'
+      - Davis Straub
+    - - '110'
+      - Bruce Barmakian
+    - - '108'
+      - David Whittle
+    - - '105'
+      - Cory Barnwell
+    - - '102'
+      - Tom McGowan
+    - - '103'
+      - Kevin Carter
+    - - '109'
+      - Jay Devorak
+  - - - '105'
+      - Cory Barnwell
+    - - '110'
+      - Bruce Barmakian
+    - - '104'
+      - Derreck Turner
+    - - '101'
+      - Davis Straub
+    - - '103'
+      - Kevin Carter
+    - - '102'
+      - Tom McGowan
+    - - '108'
+      - David Whittle
+    - - '109'
+      - Jay Devorak
+  - - - '110'
+      - Bruce Barmakian
+    - - '104'
+      - Derreck Turner
+    - - '105'
+      - Cory Barnwell
+    - - '101'
+      - Davis Straub
+    - - '103'
+      - Kevin Carter
+    - - '102'
+      - Tom McGowan
+    - - '108'
+      - David Whittle
+  - - - '104'
+      - Derreck Turner
+    - - '110'
+      - Bruce Barmakian
+    - - '105'
+      - Cory Barnwell
+    - - '101'
+      - Davis Straub
+    - - '103'
+      - Kevin Carter
+    - - '102'
+      - Tom McGowan
+    - - '108'
+      - David Whittle
+  lastLanding: 2016-08-07T23:15:44Z
+tagging:
+- - - '107'
+    - Anna Eppink
+  - null
+- - - '110'
+    - Bruce Barmakian
+  - zonesTag:
+    - null
+    - inter:
+        fixFrac: 1444.350272858841
+        time: 2016-08-07T19:30:44.70054571768Z
+        lat: 32.3058051
+        lng: -101.50158411
+        alt: 2701.9
+      cross:
+        crossingPair:
+        - fix: 1444
+          time: 2016-08-07T19:30:44Z
+          lat: 32.3057
+          lng: -101.50168333
+          alt: 2704
+        - fix: 1445
+          time: 2016-08-07T19:30:46Z
+          lat: 32.306
+          lng: -101.5014
+          alt: 2698
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 3841.421965644455
+        time: 2016-08-07T20:51:56.84393128891Z
+        lat: 32.69348546
+        lng: -100.94109923
+        alt: 2651.73
+      cross:
+        crossingPair:
+        - fix: 3841
+          time: 2016-08-07T20:51:56Z
+          lat: 32.69331667
+          lng: -100.94105
+          alt: 2653
+        - fix: 3842
+          time: 2016-08-07T20:51:58Z
+          lat: 32.69371667
+          lng: -100.94116667
+          alt: 2650
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 5947.103300259032
+        time: 2016-08-07T22:02:14.103300259032Z
+        lat: 32.82473505
+        lng: -100.41725578
+        alt: 1318.59
+      cross:
+        crossingPair:
+        - fix: 5947
+          time: 2016-08-07T22:02:14Z
+          lat: 32.82473333
+          lng: -100.41728333
+          alt: 1319
+        - fix: 5948
+          time: 2016-08-07T22:02:15Z
+          lat: 32.82475
+          lng: -100.41701667
+          alt: 1315
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 6033.209250626188
+        time: 2016-08-07T22:03:40.209250626188Z
+        lat: 32.82711472
+        lng: -100.41138256
+        alt: 1194.58
+      cross:
+        crossingPair:
+        - fix: 6033
+          time: 2016-08-07T22:03:40Z
+          lat: 32.82708333
+          lng: -100.4114
+          alt: 1195
+        - fix: 6034
+          time: 2016-08-07T22:03:41Z
+          lat: 32.82723333
+          lng: -100.41131667
+          alt: 1193
+        inZone:
+        - true
+        - false
+- - - '105'
+    - Cory Barnwell
+  - zonesTag:
+    - null
+    - inter:
+        fixFrac: 857.5033902451502
+        time: 2016-08-07T19:30:48.51017073545Z
+        lat: 32.26043444
+        lng: -101.43080667
+        alt: 2211.47
+      cross:
+        crossingPair:
+        - fix: 857
+          time: 2016-08-07T19:30:47Z
+          lat: 32.26026667
+          lng: -101.43105
+          alt: 2216
+        - fix: 858
+          time: 2016-08-07T19:30:50Z
+          lat: 32.2606
+          lng: -101.43056667
+          alt: 2207
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2431.81713809909
+        time: 2016-08-07T20:50:47.451414297267Z
+        lat: 32.68875533
+        lng: -100.94905914
+        alt: 2764.73
+      cross:
+        crossingPair:
+        - fix: 2431
+          time: 2016-08-07T20:50:45Z
+          lat: 32.68818333
+          lng: -100.9491
+          alt: 2768
+        - fix: 2432
+          time: 2016-08-07T20:50:48Z
+          lat: 32.68888333
+          lng: -100.94905
+          alt: 2764
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3965.5862193500575
+        time: 2016-08-07T22:07:34.172438700114Z
+        lat: 32.82450517
+        lng: -100.41731953
+        alt: 1062.83
+      cross:
+        crossingPair:
+        - fix: 3965
+          time: 2016-08-07T22:07:33Z
+          lat: 32.82458333
+          lng: -100.41758333
+          alt: 1064
+        - fix: 3966
+          time: 2016-08-07T22:07:35Z
+          lat: 32.82445
+          lng: -100.41713333
+          alt: 1062
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 4174.879326193274
+        time: 2016-08-07T22:11:04.879326193274Z
+        lat: 32.82532989
+        lng: -100.40920201
+        alt: 794.12
+      cross:
+        crossingPair:
+        - fix: 4174
+          time: 2016-08-07T22:11:04Z
+          lat: 32.82518333
+          lng: -100.40921667
+          alt: 795
+        - fix: 4175
+          time: 2016-08-07T22:11:05Z
+          lat: 32.82535
+          lng: -100.4092
+          alt: 794
+        inZone:
+        - true
+        - false
+- - - '108'
+    - David Whittle
+  - zonesTag:
+    - null
+    - inter:
+        fixFrac: 918.5569750935532
+        time: 2016-08-07T19:30:47.113950187106Z
+        lat: 32.30440233
+        lng: -101.49511858
+        alt: 1972.78
+      cross:
+        crossingPair:
+        - fix: 918
+          time: 2016-08-07T19:30:46Z
+          lat: 32.30421667
+          lng: -101.4951
+          alt: 1970
+        - fix: 919
+          time: 2016-08-07T19:30:48Z
+          lat: 32.30455
+          lng: -101.49513333
+          alt: 1975
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4795.564709743209
+        time: 2016-08-07T21:40:09.564709743209Z
+        lat: 32.69434491
+        lng: -100.94062745
+        alt: 2287.31
+      cross:
+        crossingPair:
+        - fix: 4795
+          time: 2016-08-07T21:40:09Z
+          lat: 32.69431667
+          lng: -100.94053333
+          alt: 2289
+        - fix: 4796
+          time: 2016-08-07T21:40:10Z
+          lat: 32.69436667
+          lng: -100.9407
+          alt: 2286
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 7426.696946423243
+        time: 2016-08-07T23:07:55.393892846486Z
+        lat: 32.82739243
+        lng: -100.41261718
+        alt: 1201
+      cross:
+        crossingPair:
+        - fix: 7426
+          time: 2016-08-07T23:07:54Z
+          lat: 32.82756667
+          lng: -100.41273333
+          alt: 1201
+        - fix: 7427
+          time: 2016-08-07T23:07:56Z
+          lat: 32.82731667
+          lng: -100.41256667
+          alt: 1201
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 7472.960304353774
+        time: 2016-08-07T23:08:41.960304353773Z
+        lat: 32.82295397
+        lng: -100.40891733
+        alt: 1225.96
+      cross:
+        crossingPair:
+        - fix: 7472
+          time: 2016-08-07T23:08:41Z
+          lat: 32.82305
+          lng: -100.40893333
+          alt: 1225
+        - fix: 7473
+          time: 2016-08-07T23:08:42Z
+          lat: 32.82295
+          lng: -100.40891667
+          alt: 1226
+        inZone:
+        - true
+        - false
+- - - '101'
+    - Davis Straub
+  - zonesTag:
+    - null
+    - inter:
+        fixFrac: 617.1729174172738
+        time: 2016-08-07T19:30:42.864587086365Z
+        lat: 32.30468587
+        lng: -101.49629953
+        alt: 2532.79
+      cross:
+        crossingPair:
+        - fix: 617
+          time: 2016-08-07T19:30:42Z
+          lat: 32.30461667
+          lng: -101.49646667
+          alt: 2534
+        - fix: 618
+          time: 2016-08-07T19:30:47Z
+          lat: 32.30501667
+          lng: -101.4955
+          alt: 2527
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1726.7478790118637
+        time: 2016-08-07T21:03:22.991516047452Z
+        lat: 32.68949089
+        lng: -100.95509329
+        alt: 2653.5
+      cross:
+        crossingPair:
+        - fix: 1726
+          time: 2016-08-07T21:03:20Z
+          lat: 32.68921667
+          lng: -100.95566667
+          alt: 2655
+        - fix: 1727
+          time: 2016-08-07T21:03:24Z
+          lat: 32.68958333
+          lng: -100.9549
+          alt: 2653
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2638.779453084268
+        time: 2016-08-07T22:19:26.897265421335Z
+        lat: 32.82539436
+        lng: -100.41696123
+        alt: 1018.87
+      cross:
+        crossingPair:
+        - fix: 2638
+          time: 2016-08-07T22:19:23Z
+          lat: 32.82543333
+          lng: -100.41776667
+          alt: 1029
+        - fix: 2639
+          time: 2016-08-07T22:19:28Z
+          lat: 32.82538333
+          lng: -100.41673333
+          alt: 1016
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2697.50811804254
+        time: 2016-08-07T22:20:26.508118042539Z
+        lat: 32.82735108
+        lng: -100.41229289
+        alt: 926.98
+      cross:
+        crossingPair:
+        - fix: 2697
+          time: 2016-08-07T22:20:26Z
+          lat: 32.82728333
+          lng: -100.41221667
+          alt: 928
+        - fix: 2698
+          time: 2016-08-07T22:20:27Z
+          lat: 32.82741667
+          lng: -100.41236667
+          alt: 926
+        inZone:
+        - true
+        - false
+- - - '104'
+    - Derreck Turner
+  - zonesTag:
+    - null
+    - inter:
+        fixFrac: 3484.5739822800288
+        time: 2016-08-07T19:30:42.573982280028Z
+        lat: 32.2563003
+        lng: -101.42833768
+        alt: 2215.7
+      cross:
+        crossingPair:
+        - fix: 3484
+          time: 2016-08-07T19:30:42Z
+          lat: 32.25623333
+          lng: -101.42843333
+          alt: 2218
+        - fix: 3485
+          time: 2016-08-07T19:30:43Z
+          lat: 32.25635
+          lng: -101.42826667
+          alt: 2214
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 8368.478466766244
+        time: 2016-08-07T20:52:06.478466766243Z
+        lat: 32.68965582
+        lng: -100.94570359
+        alt: 2019.48
+      cross:
+        crossingPair:
+        - fix: 8368
+          time: 2016-08-07T20:52:06Z
+          lat: 32.6896
+          lng: -100.94578333
+          alt: 2019
+        - fix: 8369
+          time: 2016-08-07T20:52:07Z
+          lat: 32.68971667
+          lng: -100.94561667
+          alt: 2020
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12620.465542888287
+        time: 2016-08-07T22:02:58.465542888287Z
+        lat: 32.82420776
+        lng: -100.4173747
+        alt: 1112.07
+      cross:
+        crossingPair:
+        - fix: 12620
+          time: 2016-08-07T22:02:58Z
+          lat: 32.8242
+          lng: -100.41748333
+          alt: 1113
+        - fix: 12621
+          time: 2016-08-07T22:02:59Z
+          lat: 32.82421667
+          lng: -100.41725
+          alt: 1111
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 12657.830854457712
+        time: 2016-08-07T22:03:35.830854457712Z
+        lat: 32.82740232
+        lng: -100.41273615
+        alt: 1048.83
+      cross:
+        crossingPair:
+        - fix: 12657
+          time: 2016-08-07T22:03:35Z
+          lat: 32.82725
+          lng: -100.41275
+          alt: 1048
+        - fix: 12658
+          time: 2016-08-07T22:03:36Z
+          lat: 32.82743333
+          lng: -100.41273333
+          alt: 1049
+        inZone:
+        - true
+        - false
+- - - '109'
+    - Jay Devorak
+  - zonesTag:
+    - null
+    - inter:
+        fixFrac: 143.00429776328573
+        time: 2016-08-07T20:15:31.04297763285Z
+        lat: 32.2912554
+        lng: -101.46296112
+        alt: 1291.91
+      cross:
+        crossingPair:
+        - fix: 143
+          time: 2016-08-07T20:15:31Z
+          lat: 32.29125
+          lng: -101.46296667
+          alt: 1292
+        - fix: 144
+          time: 2016-08-07T20:15:41Z
+          lat: 32.2925
+          lng: -101.46166667
+          alt: 1270
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 757.1061160320302
+        time: 2016-08-07T21:59:38.0611603203Z
+        lat: 32.68887156
+        lng: -100.95290021
+        alt: 2226.26
+      cross:
+        crossingPair:
+        - fix: 757
+          time: 2016-08-07T21:59:37Z
+          lat: 32.6887
+          lng: -100.95298333
+          alt: 2227
+        - fix: 758
+          time: 2016-08-07T21:59:47Z
+          lat: 32.69031667
+          lng: -100.9522
+          alt: 2220
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '103'
+    - Kevin Carter
+  - zonesTag:
+    - inter:
+        fixFrac: 88.92393705901664
+        time: 2016-08-07T19:07:09.847874118032Z
+        lat: 32.21420671
+        lng: -101.52637427
+        alt: 935.7
+      cross:
+        crossingPair:
+        - fix: 88
+          time: 2016-08-07T19:07:08Z
+          lat: 32.21388333
+          lng: -101.52646667
+          alt: 932
+        - fix: 89
+          time: 2016-08-07T19:07:10Z
+          lat: 32.21423333
+          lng: -101.52636667
+          alt: 936
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1513.4920081702537
+        time: 2016-08-07T19:55:13.984016340506Z
+        lat: 32.30708255
+        lng: -101.50986008
+        alt: 2480.46
+      cross:
+        crossingPair:
+        - fix: 1513
+          time: 2016-08-07T19:55:13Z
+          lat: 32.30703333
+          lng: -101.50996667
+          alt: 2478
+        - fix: 1514
+          time: 2016-08-07T19:55:15Z
+          lat: 32.30713333
+          lng: -101.50975
+          alt: 2483
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4189.54217529553
+        time: 2016-08-07T21:25:39.08435059106Z
+        lat: 32.69583474
+        lng: -100.96110883
+        alt: 2957.54
+      cross:
+        crossingPair:
+        - fix: 4189
+          time: 2016-08-07T21:25:38Z
+          lat: 32.69581667
+          lng: -100.96131667
+          alt: 2957
+        - fix: 4190
+          time: 2016-08-07T21:25:40Z
+          lat: 32.69585
+          lng: -100.96093333
+          alt: 2958
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 6234.518249370982
+        time: 2016-08-07T22:33:57.036498741962Z
+        lat: 32.82504076
+        lng: -100.41714088
+        alt: 1034.82
+      cross:
+        crossingPair:
+        - fix: 6234
+          time: 2016-08-07T22:33:56Z
+          lat: 32.82506667
+          lng: -100.4174
+          alt: 1040
+        - fix: 6235
+          time: 2016-08-07T22:33:58Z
+          lat: 32.82501667
+          lng: -100.4169
+          alt: 1030
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 6438.5926316142295
+        time: 2016-08-07T22:37:21.592631614229Z
+        lat: 32.82394321
+        lng: -100.41739877
+        alt: 740.81
+      cross:
+        crossingPair:
+        - fix: 6438
+          time: 2016-08-07T22:37:21Z
+          lat: 32.82393333
+          lng: -100.4173
+          alt: 742
+        - fix: 6439
+          time: 2016-08-07T22:37:22Z
+          lat: 32.82395
+          lng: -100.41746667
+          alt: 740
+        inZone:
+        - true
+        - false
+- - - '106'
+    - Larry Bunner
+  - zonesTag:
+    - null
+    - inter:
+        fixFrac: 342.326270076677
+        time: 2016-08-07T19:30:35.26270076676Z
+        lat: 32.30568326
+        lng: -101.50094866
+        alt: 2821.43
+      cross:
+        crossingPair:
+        - fix: 342
+          time: 2016-08-07T19:30:32Z
+          lat: 32.30516667
+          lng: -101.5014
+          alt: 2826
+        - fix: 343
+          time: 2016-08-07T19:30:42Z
+          lat: 32.30675
+          lng: -101.50001667
+          alt: 2812
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+- - - '102'
+    - Tom McGowan
+  - zonesTag:
+    - null
+    - inter:
+        fixFrac: 1165.1500214465002
+        time: 2016-08-07T19:46:33.300042893Z
+        lat: 32.29015831
+        lng: -101.46117665
+        alt: 2788.6
+      cross:
+        crossingPair:
+        - fix: 1165
+          time: 2016-08-07T19:46:33Z
+          lat: 32.29013333
+          lng: -101.46121667
+          alt: 2788
+        - fix: 1166
+          time: 2016-08-07T19:46:35Z
+          lat: 32.2903
+          lng: -101.46095
+          alt: 2792
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 4140.683295320403
+        time: 2016-08-07T21:25:46.366590640806Z
+        lat: 32.69171667
+        lng: -100.95864946
+        alt: 2981
+      cross:
+        crossingPair:
+        - fix: 4140
+          time: 2016-08-07T21:25:45Z
+          lat: 32.69171667
+          lng: -100.9589
+          alt: 2981
+        - fix: 4141
+          time: 2016-08-07T21:25:47Z
+          lat: 32.69171667
+          lng: -100.95853333
+          alt: 2981
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 6785.961009814061
+        time: 2016-08-07T22:53:57.922019628122Z
+        lat: 32.82364675
+        lng: -100.41739828
+        alt: 1572.04
+      cross:
+        crossingPair:
+        - fix: 6785
+          time: 2016-08-07T22:53:56Z
+          lat: 32.82356667
+          lng: -100.41776667
+          alt: 1573
+        - fix: 6786
+          time: 2016-08-07T22:53:58Z
+          lat: 32.82365
+          lng: -100.41738333
+          alt: 1572
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 6955.8301819747485
+        time: 2016-08-07T22:56:47.830181974748Z
+        lat: 32.82629937
+        lng: -100.41620849
+        alt: 1290.51
+      cross:
+        crossingPair:
+        - fix: 6955
+          time: 2016-08-07T22:56:47Z
+          lat: 32.82613333
+          lng: -100.41625
+          alt: 1293
+        - fix: 6956
+          time: 2016-08-07T22:56:48Z
+          lat: 32.82633333
+          lng: -100.4162
+          alt: 1290
+        inZone:
+        - true
+        - false

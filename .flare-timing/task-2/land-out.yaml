@@ -1,0 +1,54 @@
+bestDistance: 116.154314 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1171
+  - 117.1 km
+  sumOf: 1169
+landout: 4
+lookahead: 871
+difficulty:
+- chunk: 50
+  startChunk: 5.0 km
+  endChunk: 5.1 km
+  endAhead: 92.2 km
+  down: 2
+  downs:
+  - 5.000 km
+  - 5.000 km
+  downers:
+  - - '107'
+    - Anna Eppink
+  - - '109'
+    - Jay Devorak
+  downward: 4
+  rel: 1.71086e-3
+  frac: 8.71582e-2
+- chunk: 367
+  startChunk: 36.7 km
+  endChunk: 36.8 km
+  endAhead: 123.9 km
+  down: 1
+  downs:
+  - 36.704 km
+  downers:
+  - - '105'
+    - Cory Barnwell
+  downward: 2
+  rel: 8.5543e-4
+  frac: 0.35839844
+- chunk: 698
+  startChunk: 69.8 km
+  endChunk: 69.9 km
+  endAhead: 157.0 km
+  down: 1
+  downs:
+  - 69.841 km
+  downers:
+  - - '102'
+    - Tom McGowan
+  downward: 1
+  rel: 4.2772e-4
+  frac: 0.5

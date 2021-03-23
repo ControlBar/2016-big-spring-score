@@ -1,0 +1,27 @@
+pilotsAtEss: 5
+arrivalRank:
+- - - '103'
+    - Kevin Carter
+  - lag: 0.000000 h
+    rank: '1'
+    frac: 1
+- - - '110'
+    - Bruce Barmakian
+  - lag: 0.094491 h
+    rank: '2'
+    frac: 0.636896
+- - - '106'
+    - Larry Bunner
+  - lag: 0.212679 h
+    rank: '3'
+    frac: 0.405728
+- - - '104'
+    - Derreck Turner
+  - lag: 0.422380 h
+    rank: '4'
+    frac: 0.276112
+- - - '105'
+    - Cory Barnwell
+  - lag: 1.385618 h
+    rank: '5'
+    frac: 0.217664

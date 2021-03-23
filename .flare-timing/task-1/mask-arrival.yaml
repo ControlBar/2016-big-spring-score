@@ -1,0 +1,37 @@
+pilotsAtEss: 7
+arrivalRank:
+- - - '110'
+    - Bruce Barmakian
+  - lag: 0.000000 h
+    rank: '1'
+    frac: 1
+- - - '104'
+    - Derreck Turner
+  - lag: 0.012323 h
+    rank: '2'
+    frac: 0.7258484
+- - - '105'
+    - Cory Barnwell
+  - lag: 0.088908 h
+    rank: '3'
+    frac: 0.52344023
+- - - '101'
+    - Davis Straub
+  - lag: 0.286887 h
+    rank: '4'
+    frac: 0.38170262
+- - - '103'
+    - Kevin Carter
+  - lag: 0.528593 h
+    rank: '5'
+    frac: 0.28956268
+- - - '102'
+    - Tom McGowan
+  - lag: 0.862172 h
+    rank: '6'
+    frac: 0.23594752
+- - - '108'
+    - David Whittle
+  - lag: 1.094803 h
+    rank: '7'
+    frac: 0.20978426

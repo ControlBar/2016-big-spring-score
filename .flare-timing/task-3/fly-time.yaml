@@ -1,0 +1,162 @@
+suspectDnf: []
+flying:
+- - - '107'
+    - Anna Eppink
+  - loggedFixes: 6001
+    flyingFixes:
+    - 0
+    - 6000
+    loggedSeconds: 14144
+    flyingSeconds:
+    - 0
+    - 14144
+    loggedTimes:
+    - 2016-08-11T18:40:00Z
+    - 2016-08-11T22:35:44Z
+    flyingTimes:
+    - 2016-08-11T18:40:00Z
+    - 2016-08-11T22:35:44Z
+- - - '110'
+    - Bruce Barmakian
+  - loggedFixes: 7281
+    flyingFixes:
+    - 8
+    - 7216
+    loggedSeconds: 14596
+    flyingSeconds:
+    - 240
+    - 14531
+    loggedTimes:
+    - 2016-08-11T18:23:02Z
+    - 2016-08-11T22:26:18Z
+    flyingTimes:
+    - 2016-08-11T18:27:02Z
+    - 2016-08-11T22:25:13Z
+- - - '105'
+    - Cory Barnwell
+  - loggedFixes: 6538
+    flyingFixes:
+    - 3
+    - 6460
+    loggedSeconds: 19434
+    flyingSeconds:
+    - 91
+    - 19356
+    loggedTimes:
+    - 2016-08-11T18:18:13Z
+    - 2016-08-11T23:42:07Z
+    flyingTimes:
+    - 2016-08-11T18:19:44Z
+    - 2016-08-11T23:40:49Z
+- - - '108'
+    - David Whittle
+  - loggedFixes: 5123
+    flyingFixes:
+    - 0
+    - 5076
+    loggedSeconds: 10536
+    flyingSeconds:
+    - 0
+    - 10444
+    loggedTimes:
+    - 2016-08-11T18:32:41Z
+    - 2016-08-11T21:28:17Z
+    flyingTimes:
+    - 2016-08-11T18:32:41Z
+    - 2016-08-11T21:26:45Z
+- - - '101'
+    - Davis Straub
+  - loggedFixes: 789
+    flyingFixes:
+    - 9
+    - 780
+    loggedSeconds: 4198
+    flyingSeconds:
+    - 271
+    - 4158
+    loggedTimes:
+    - 2016-08-11T18:05:13Z
+    - 2016-08-11T19:15:11Z
+    flyingTimes:
+    - 2016-08-11T18:09:44Z
+    - 2016-08-11T19:14:31Z
+- - - '104'
+    - Derreck Turner
+  - loggedFixes: 16050
+    flyingFixes:
+    - 0
+    - 15841
+    loggedSeconds: 16314
+    flyingSeconds:
+    - 0
+    - 16106
+    loggedTimes:
+    - 2016-08-11T18:15:25Z
+    - 2016-08-11T22:47:19Z
+    flyingTimes:
+    - 2016-08-11T18:15:25Z
+    - 2016-08-11T22:43:51Z
+- - - '109'
+    - Jay Devorak
+  - loggedFixes: 640
+    flyingFixes:
+    - 7
+    - 631
+    loggedSeconds: 6678
+    flyingSeconds:
+    - 212
+    - 6598
+    loggedTimes:
+    - 2016-08-11T18:41:47Z
+    - 2016-08-11T20:33:05Z
+    flyingTimes:
+    - 2016-08-11T18:45:19Z
+    - 2016-08-11T20:31:45Z
+- - - '103'
+    - Kevin Carter
+  - loggedFixes: 16919
+    flyingFixes:
+    - 823
+    - 16397
+    loggedSeconds: 16918
+    flyingSeconds:
+    - 823
+    - 16397
+    loggedTimes:
+    - 2016-08-11T17:51:13Z
+    - 2016-08-11T22:33:11Z
+    flyingTimes:
+    - 2016-08-11T18:04:56Z
+    - 2016-08-11T22:24:30Z
+- - - '106'
+    - Larry Bunner
+  - loggedFixes: 2052
+    flyingFixes:
+    - 0
+    - 1938
+    loggedSeconds: 17129
+    flyingSeconds:
+    - 0
+    - 17013
+    loggedTimes:
+    - 2016-08-11T17:47:47Z
+    - 2016-08-11T22:33:16Z
+    flyingTimes:
+    - 2016-08-11T17:47:47Z
+    - 2016-08-11T22:31:20Z
+- - - '102'
+    - Tom McGowan
+  - loggedFixes: 7605
+    flyingFixes:
+    - 2
+    - 7505
+    loggedSeconds: 15060
+    flyingSeconds:
+    - 60
+    - 14961
+    loggedTimes:
+    - 2016-08-11T18:26:09Z
+    - 2016-08-11T22:37:09Z
+    flyingTimes:
+    - 2016-08-11T18:27:09Z
+    - 2016-08-11T22:35:30Z

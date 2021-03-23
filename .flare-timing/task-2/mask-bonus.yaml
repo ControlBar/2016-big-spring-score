@@ -1,0 +1,68 @@
+bolster:
+  max: 116.154314 km
+  mean: 81.389551 km
+  stdDev: 45.861482 km
+reach:
+  max: 116.154314 km
+  mean: 80.390551 km
+  stdDev: 47.538341 km
+reachRank:
+- - - '104'
+    - Derreck Turner
+  - frac: 1
+    reach: 116.154314 km
+- - - '101'
+    - Davis Straub
+  - frac: 1
+    reach: 116.154314 km
+- - - '103'
+    - Kevin Carter
+  - frac: 1
+    reach: 116.154314 km
+- - - '110'
+    - Bruce Barmakian
+  - frac: 1
+    reach: 116.154314 km
+- - - '106'
+    - Larry Bunner
+  - frac: 1
+    reach: 116.154314 km
+- - - '108'
+    - David Whittle
+  - frac: 1
+    reach: 116.154314 km
+- - - '102'
+    - Tom McGowan
+  - frac: 0.60363934
+    reach: 70.115314 km
+- - - '105'
+    - Cory Barnwell
+  - frac: 0.31728752
+    reach: 36.854314 km
+- - - '107'
+    - Anna Eppink
+  - frac: 4.303889e-2
+    reach: 0.004999 km
+- - - '109'
+    - Jay Devorak
+  - frac: 4.303889e-2
+    reach: 0.004999 km
+nigh:
+- - - '102'
+    - Tom McGowan
+  - togo:
+      distance: 46.039000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 70.115314 km
+- - - '105'
+    - Cory Barnwell
+  - togo:
+      distance: 79.300000 km
+      flipSum: []
+      legs: []
+      legsSum: []
+      waypoints: []
+    made: 36.854314 km

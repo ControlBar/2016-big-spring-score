@@ -1,0 +1,87 @@
+bolster:
+  max: 126.747570 km
+  mean: 106.814413 km
+  stdDev: 37.629588 km
+reach:
+  max: 126.747570 km
+  mean: 106.324613 km
+  stdDev: 38.960010 km
+reachRank:
+- - - '110'
+    - Bruce Barmakian
+  - frac: 1
+    reach: 126.747570 km
+- - - '104'
+    - Derreck Turner
+  - frac: 1
+    reach: 126.747570 km
+- - - '105'
+    - Cory Barnwell
+  - frac: 1
+    reach: 126.747570 km
+- - - '101'
+    - Davis Straub
+  - frac: 1
+    reach: 126.747570 km
+- - - '103'
+    - Kevin Carter
+  - frac: 1
+    reach: 126.747570 km
+- - - '102'
+    - Tom McGowan
+  - frac: 1
+    reach: 126.747570 km
+- - - '108'
+    - David Whittle
+  - frac: 1
+    reach: 126.747570 km
+- - - '107'
+    - Anna Eppink
+  - frac: 0.80475278
+    reach: 0.102000 km
+- - - '109'
+    - Jay Devorak
+  - frac: 0.79074155
+    reach: 100.224570 km
+- - - '106'
+    - Larry Bunner
+  - frac: 0.59714415
+    reach: 75.686570 km
+nigh:
+- - - '109'
+    - Jay Devorak
+  - togo:
+      distance: 26.523435 km
+      flipSum:
+      - 26.523435 km
+      legs:
+      - 26.523435 km
+      legsSum:
+      - 26.523435 km
+      waypoints:
+      - lat: 32.757
+        lng: -100.68996667
+      - lat: 32.82278139
+        lng: -100.41722783
+    made: 100.224570 km
+- - - '106'
+    - Larry Bunner
+  - togo:
+      distance: 51.060208 km
+      flipSum:
+      - 51.060208 km
+      - 50.877879 km
+      legs:
+      - 0.182329 km
+      - 50.877879 km
+      legsSum:
+      - 0.182329 km
+      - 51.060208 km
+      waypoints:
+      - lat: 32.70526667
+        lng: -100.9419
+      - lat: 32.70373947
+        lng: -100.94260943
+      - lat: 32.82284347
+        lng: -100.41724881
+    made: 75.686570 km

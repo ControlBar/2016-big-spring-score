@@ -1,0 +1,50 @@
+comp:
+  compName: 2016 Big Spring Hang Gliding Nationals Open Class
+  discipline: hg
+  earthMath: Haversines
+  location: Big Spring, Texas, USA
+  from: 2016-08-07
+  to: 2016-08-13
+  civilId: '11142'
+  utcOffset:
+    timeZoneMinutes: -300
+  scoreBack: 900.000 s
+  give:
+    giveFraction: 5.0e-3
+    giveDistance: null
+  earth:
+    sphere:
+      radius: 6371000.0 m
+nominal:
+  launch: 1
+  goal: 0.25
+  distance: 120.0 km
+  free: 5.000 km
+  time: 2.000000 h
+compTweak:
+  arrivalRank: true
+  arrivalTime: false
+  essNotGoalScaling: 0.8
+  leadingAreaDistanceSquared: true
+  leadingWeightScaling: null
+pilots:
+- - '107'
+  - Anna Eppink
+- - '110'
+  - Bruce Barmakian
+- - '105'
+  - Cory Barnwell
+- - '108'
+  - David Whittle
+- - '101'
+  - Davis Straub
+- - '104'
+  - Derreck Turner
+- - '109'
+  - Jay Devorak
+- - '103'
+  - Kevin Carter
+- - '106'
+  - Larry Bunner
+- - '102'
+  - Tom McGowan

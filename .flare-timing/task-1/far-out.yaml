@@ -1,0 +1,51 @@
+bestDistance: 126.747570 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1271
+  - 127.1 km
+  sumOf: 2781
+landout: 3
+lookahead: 1267
+difficulty:
+- chunk: 756
+  startChunk: 75.6 km
+  endChunk: 75.7 km
+  endAhead: 202.4 km
+  down: 1
+  downs:
+  - 75.687 km
+  downers:
+  - - '106'
+    - Larry Bunner
+  downward: 3
+  rel: 5.3937e-4
+  frac: 0.40820312
+- chunk: 1002
+  startChunk: 100.2 km
+  endChunk: 100.3 km
+  endAhead: 227.0 km
+  down: 1
+  downs:
+  - 100.225 km
+  downers:
+  - - '109'
+    - Jay Devorak
+  downward: 2
+  rel: 3.5958e-4
+  frac: 0.49682617
+- chunk: 1020
+  startChunk: 102.0 km
+  endChunk: 102.1 km
+  endAhead: 228.8 km
+  down: 1
+  downs:
+  - 102.000 km
+  downers:
+  - - '107'
+    - Anna Eppink
+  downward: 1
+  rel: 1.7979e-4
+  frac: 0.5

@@ -1,0 +1,934 @@
+validityWorking:
+  time:
+    nominalTime: 2.000000 h
+    ssBestTime: 2.524834 h
+    gsBestTime: 2.537251 h
+    nominalDistance: 120.0 km
+    reachMax:
+      extra: 126.747570 km
+      flown: 126.747570 km
+  launch:
+    nominalLaunch: 1
+    flying: 10
+    present: 10
+  distance:
+    sum: 1018.1 km
+    flying: 10
+    area: 72.71844625
+    nominalGoal: 0.25
+    nominalDistance: 120.0 km
+    minimumDistance: 5.000 km
+    reachMax:
+      extra: 126.747570 km
+      flown: 126.747570 km
+  stop: null
+validity:
+  time: 1
+  launch: 1
+  distance: 1
+  task: 1
+  stop: null
+allocation:
+  goalRatio: 0.7
+  weight:
+    effort: 0.1862645
+    arrival: 7.843388e-2
+    time: 0.4392297
+    reach: 0.1862645
+    distance: 0.372529
+    leading: 0.10980742
+  points:
+    effort: 186.264
+    arrival: 78.4
+    time: 439.2
+    reach: 186.264
+    distance: 372.529
+    leading: 109.8
+  taskPoints: 1000
+score:
+- - - '110'
+    - Bruce Barmakian
+  - place: '1'
+    total: 1000
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 78.4
+      time: 439.2
+      reach: 186.264
+      distance: 372.529
+      leading: 109.8
+    velocity:
+      ss: 2016-08-07T19:30:44.70054571768Z
+      gs: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:02:14.103300259032Z
+      ssDistance: 117.148 km
+      ssElapsed: 2.524834 h
+      gsElapsed: 2.537251 h
+      ssVelocity: 46.40 km / h
+      gsVelocity: 46.17 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 1000
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '104'
+    - Derreck Turner
+  - place: '2'
+    total: 939.826
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 56.9
+      time: 422
+      reach: 186.264
+      distance: 372.529
+      leading: 88.3
+    velocity:
+      ss: 2016-08-07T19:30:42.573982280028Z
+      gs: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:02:58.465542888287Z
+      ssDistance: 117.148 km
+      ssElapsed: 2.537748 h
+      gsElapsed: 2.549574 h
+      ssVelocity: 46.16 km / h
+      gsVelocity: 45.95 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 939.826
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '105'
+    - Cory Barnwell
+  - place: '3'
+    total: 877.374
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 41.1
+      time: 375.1
+      reach: 186.264
+      distance: 372.529
+      leading: 88.7
+    velocity:
+      ss: 2016-08-07T19:30:48.51017073545Z
+      gs: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:07:34.172438700114Z
+      ssDistance: 117.148 km
+      ssElapsed: 2.612684 h
+      gsElapsed: 2.626159 h
+      ssVelocity: 44.84 km / h
+      gsVelocity: 44.61 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 877.374
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '101'
+    - Davis Straub
+  - place: '4'
+    total: 783.588
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 29.9
+      time: 299.1
+      reach: 186.264
+      distance: 372.529
+      leading: 82
+    velocity:
+      ss: 2016-08-07T19:30:42.864587086365Z
+      gs: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:19:26.897265421335Z
+      ssDistance: 117.148 km
+      ssElapsed: 2.812231 h
+      gsElapsed: 2.824138 h
+      ssVelocity: 41.66 km / h
+      gsVelocity: 41.48 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 783.588
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '103'
+    - Kevin Carter
+  - place: '5'
+    total: 742.866
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 22.7
+      time: 330.8
+      reach: 186.264
+      distance: 372.529
+      leading: 16.8
+    velocity:
+      ss: 2016-08-07T19:55:13.984016340506Z
+      gs: 2016-08-07T19:50:00Z
+      es: 2016-08-07T22:33:57.036498741962Z
+      ssDistance: 117.148 km
+      ssElapsed: 2.645292 h
+      gsElapsed: 2.732510 h
+      ssVelocity: 44.29 km / h
+      gsVelocity: 42.87 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 742.866
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '102'
+    - Tom McGowan
+  - place: '6'
+    total: 566.888
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 18.5
+      time: 147.5
+      reach: 186.264
+      distance: 372.529
+      leading: 28.3
+    velocity:
+      ss: 2016-08-07T19:46:33.300042893Z
+      gs: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:53:57.922019628122Z
+      ssDistance: 117.148 km
+      ssElapsed: 3.123506 h
+      gsElapsed: 3.399423 h
+      ssVelocity: 37.51 km / h
+      gsVelocity: 34.46 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 566.888
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '108'
+    - David Whittle
+  - place: '7'
+    total: 506.465
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 16.5
+      time: 97.1
+      reach: 186.264
+      distance: 372.529
+      leading: 20.3
+    velocity:
+      ss: 2016-08-07T19:30:47.113950187106Z
+      gs: 2016-08-07T19:30:00Z
+      es: 2016-08-07T23:07:55.393892846486Z
+      ssDistance: 117.148 km
+      ssElapsed: 3.618967 h
+      gsElapsed: 3.632054 h
+      ssVelocity: 32.37 km / h
+      gsVelocity: 32.25 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 506.465
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '107'
+    - Anna Eppink
+  - place: '8'
+    total: 336.161
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 0
+      time: 0
+      reach: 149.897
+      distance: 336.161
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 102.000 km
+      flown: 102.000 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 336.161
+    landedMade: 102.000 km
+    stoppedAlt: null
+- - - '109'
+    - Jay Devorak
+  - place: '9'
+    total: 332.369
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 185.082
+      arrival: 0
+      time: 0
+      reach: 147.287
+      distance: 332.369
+      leading: 0
+    velocity:
+      ss: 2016-08-07T20:15:31.04297763285Z
+      gs: 2016-08-07T19:50:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 100.225 km
+      flown: 100.225 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 332.369
+    landedMade: 100.225 km
+    stoppedAlt: 692.000 m
+- - - '106'
+    - Larry Bunner
+  - place: '10'
+    total: 297.66
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 152.068
+      arrival: 0
+      time: 0
+      reach: 111.227
+      distance: 263.294
+      leading: 34.4
+    velocity:
+      ss: 2016-08-07T19:30:35.26270076676Z
+      gs: 2016-08-07T19:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 75.687 km
+      flown: 75.687 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 297.66
+    landedMade: 75.687 km
+    stoppedAlt: 618.000 m
+scoreDf:
+- - - '110'
+    - Bruce Barmakian
+  - place: '1'
+    total: 1000
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 78.4
+      time: 439.2
+      reach: 186.264
+      distance: 372.529
+      leading: 109.8
+    velocity:
+      ss: 2016-08-07T19:30:44.70054571768Z
+      gs: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:02:14.103300259032Z
+      ssDistance: 117.148 km
+      ssElapsed: 2.524834 h
+      gsElapsed: 2.537251 h
+      ssVelocity: 46.40 km / h
+      gsVelocity: 46.17 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 1000
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '104'
+    - Derreck Turner
+  - place: '2'
+    total: 939.826
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 56.9
+      time: 422
+      reach: 186.264
+      distance: 372.529
+      leading: 88.3
+    velocity:
+      ss: 2016-08-07T19:30:42.573982280028Z
+      gs: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:02:58.465542888287Z
+      ssDistance: 117.148 km
+      ssElapsed: 2.537748 h
+      gsElapsed: 2.549574 h
+      ssVelocity: 46.16 km / h
+      gsVelocity: 45.95 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 939.826
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '105'
+    - Cory Barnwell
+  - place: '3'
+    total: 877.374
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 41.1
+      time: 375.1
+      reach: 186.264
+      distance: 372.529
+      leading: 88.7
+    velocity:
+      ss: 2016-08-07T19:30:48.51017073545Z
+      gs: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:07:34.172438700114Z
+      ssDistance: 117.148 km
+      ssElapsed: 2.612684 h
+      gsElapsed: 2.626159 h
+      ssVelocity: 44.84 km / h
+      gsVelocity: 44.61 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 877.374
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '101'
+    - Davis Straub
+  - place: '4'
+    total: 783.588
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 29.9
+      time: 299.1
+      reach: 186.264
+      distance: 372.529
+      leading: 82
+    velocity:
+      ss: 2016-08-07T19:30:42.864587086365Z
+      gs: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:19:26.897265421335Z
+      ssDistance: 117.148 km
+      ssElapsed: 2.812231 h
+      gsElapsed: 2.824138 h
+      ssVelocity: 41.66 km / h
+      gsVelocity: 41.48 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 783.588
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '103'
+    - Kevin Carter
+  - place: '5'
+    total: 742.866
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 22.7
+      time: 330.8
+      reach: 186.264
+      distance: 372.529
+      leading: 16.8
+    velocity:
+      ss: 2016-08-07T19:55:13.984016340506Z
+      gs: 2016-08-07T19:50:00Z
+      es: 2016-08-07T22:33:57.036498741962Z
+      ssDistance: 117.148 km
+      ssElapsed: 2.645292 h
+      gsElapsed: 2.732510 h
+      ssVelocity: 44.29 km / h
+      gsVelocity: 42.87 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 742.866
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '102'
+    - Tom McGowan
+  - place: '6'
+    total: 566.888
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 18.5
+      time: 147.5
+      reach: 186.264
+      distance: 372.529
+      leading: 28.3
+    velocity:
+      ss: 2016-08-07T19:46:33.300042893Z
+      gs: 2016-08-07T19:30:00Z
+      es: 2016-08-07T22:53:57.922019628122Z
+      ssDistance: 117.148 km
+      ssElapsed: 3.123506 h
+      gsElapsed: 3.399423 h
+      ssVelocity: 37.51 km / h
+      gsVelocity: 34.46 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 566.888
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '108'
+    - David Whittle
+  - place: '7'
+    total: 506.465
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 16.5
+      time: 97.1
+      reach: 186.264
+      distance: 372.529
+      leading: 20.3
+    velocity:
+      ss: 2016-08-07T19:30:47.113950187106Z
+      gs: 2016-08-07T19:30:00Z
+      es: 2016-08-07T23:07:55.393892846486Z
+      ssDistance: 117.148 km
+      ssElapsed: 3.618967 h
+      gsElapsed: 3.632054 h
+      ssVelocity: 32.37 km / h
+      gsVelocity: 32.25 km / h
+    penaltyReason: ''
+    reach:
+      extra: 126.748 km
+      flown: 126.748 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 506.465
+    landedMade: 126.748 km
+    stoppedAlt: null
+- - - '109'
+    - Jay Devorak
+  - place: '8'
+    total: 332.369
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 185.082
+      arrival: 0
+      time: 0
+      reach: 147.287
+      distance: 332.369
+      leading: 0
+    velocity:
+      ss: 2016-08-07T20:15:31.04297763285Z
+      gs: 2016-08-07T19:50:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 100.225 km
+      flown: 100.225 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 332.369
+    landedMade: 100.225 km
+    stoppedAlt: 692.000 m
+- - - '106'
+    - Larry Bunner
+  - place: '9'
+    total: 297.66
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 152.068
+      arrival: 0
+      time: 0
+      reach: 111.227
+      distance: 263.294
+      leading: 34.4
+    velocity:
+      ss: 2016-08-07T19:30:35.26270076676Z
+      gs: 2016-08-07T19:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 75.687 km
+      flown: 75.687 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 297.66
+    landedMade: 75.687 km
+    stoppedAlt: 618.000 m
+scoreDfNoTrack:
+- - - '107'
+    - Anna Eppink
+  - place: '1'
+    total: 336.161
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 186.264
+      arrival: 0
+      time: 0
+      reach: 149.897
+      distance: 336.161
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 102.000 km
+      flown: 102.000 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 336.161
+    landedMade: 102.000 km
+    stoppedAlt: null

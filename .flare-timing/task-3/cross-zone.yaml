@@ -1,0 +1,2696 @@
+crossing:
+- - - '107'
+    - Anna Eppink
+  - zonesCrossSelected:
+    - crossingPair:
+      - fix: 1141
+        time: 2016-08-11T18:59:28Z
+        lat: 32.2144
+        lng: -101.52693333
+        alt: 2093
+      - fix: 1142
+        time: 2016-08-11T18:59:29Z
+        lat: 32.21453333
+        lng: -101.5268
+        alt: 2095
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 2087
+        time: 2016-08-11T19:16:03Z
+        lat: 32.29131667
+        lng: -101.46346667
+        alt: 2225
+      - fix: 2088
+        time: 2016-08-11T19:16:07Z
+        lat: 32.29128333
+        lng: -101.4628
+        alt: 2220
+      inZone:
+      - true
+      - false
+    - crossingPair:
+      - fix: 3762
+        time: 2016-08-11T20:41:41Z
+        lat: 32.68531667
+        lng: -101.00238333
+        alt: 1457
+      - fix: 3763
+        time: 2016-08-11T20:41:42Z
+        lat: 32.68531667
+        lng: -101.00223333
+        alt: 1459
+      inZone:
+      - false
+      - true
+    - null
+    - null
+    zonesCrossNominees:
+    - - crossingPair:
+        - fix: 1141
+          time: 2016-08-11T18:59:28Z
+          lat: 32.2144
+          lng: -101.52693333
+          alt: 2093
+        - fix: 1142
+          time: 2016-08-11T18:59:29Z
+          lat: 32.21453333
+          lng: -101.5268
+          alt: 2095
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1239
+          time: 2016-08-11T19:01:08Z
+          lat: 32.22058333
+          lng: -101.52253333
+          alt: 2241
+        - fix: 1240
+          time: 2016-08-11T19:01:09Z
+          lat: 32.22076667
+          lng: -101.52255
+          alt: 2243
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 2087
+          time: 2016-08-11T19:16:03Z
+          lat: 32.29131667
+          lng: -101.46346667
+          alt: 2225
+        - fix: 2088
+          time: 2016-08-11T19:16:07Z
+          lat: 32.29128333
+          lng: -101.4628
+          alt: 2220
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 3762
+          time: 2016-08-11T20:41:41Z
+          lat: 32.68531667
+          lng: -101.00238333
+          alt: 1457
+        - fix: 3763
+          time: 2016-08-11T20:41:42Z
+          lat: 32.68531667
+          lng: -101.00223333
+          alt: 1459
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 3769
+          time: 2016-08-11T20:41:48Z
+          lat: 32.68495
+          lng: -101.00205
+          alt: 1477
+        - fix: 3770
+          time: 2016-08-11T20:41:49Z
+          lat: 32.68495
+          lng: -101.00218333
+          alt: 1475
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 3776
+          time: 2016-08-11T20:41:55Z
+          lat: 32.68593333
+          lng: -101.0025
+          alt: 1491
+        - fix: 3777
+          time: 2016-08-11T20:41:56Z
+          lat: 32.68611667
+          lng: -101.00236667
+          alt: 1493
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 3876
+          time: 2016-08-11T20:46:58Z
+          lat: 32.712
+          lng: -101.00118333
+          alt: 1458
+        - fix: 3877
+          time: 2016-08-11T20:47:01Z
+          lat: 32.71231667
+          lng: -101.00158333
+          alt: 1465
+        inZone:
+        - true
+        - false
+    - []
+    - []
+    startSelected:
+    - 2016-08-11T19:15:00Z
+    - crossingPair:
+      - fix: 2087
+        time: 2016-08-11T19:16:03Z
+        lat: 32.29131667
+        lng: -101.46346667
+        alt: 2225
+      - fix: 2088
+        time: 2016-08-11T19:16:07Z
+        lat: 32.29128333
+        lng: -101.4628
+        alt: 2220
+      inZone:
+      - true
+      - false
+    startNominees:
+    - - 2016-08-11T19:45:00Z
+      - []
+    - - 2016-08-11T19:30:00Z
+      - []
+    - - 2016-08-11T19:15:00Z
+      - - crossingPair:
+          - fix: 2087
+            time: 2016-08-11T19:16:03Z
+            lat: 32.29131667
+            lng: -101.46346667
+            alt: 2225
+          - fix: 2088
+            time: 2016-08-11T19:16:07Z
+            lat: 32.29128333
+            lng: -101.4628
+            alt: 2220
+          inZone:
+          - true
+          - false
+    - - 2016-08-11T19:00:00Z
+      - []
+    zonesCrossExcluded: []
+- - - '110'
+    - Bruce Barmakian
+  - zonesCrossSelected:
+    - null
+    - crossingPair:
+      - fix: 992
+        time: 2016-08-11T19:01:04Z
+        lat: 32.29465
+        lng: -101.46933333
+        alt: 2181
+      - fix: 993
+        time: 2016-08-11T19:01:06Z
+        lat: 32.29515
+        lng: -101.46916667
+        alt: 2193
+      inZone:
+      - true
+      - false
+    - crossingPair:
+      - fix: 3149
+        time: 2016-08-11T20:14:04Z
+        lat: 32.66133333
+        lng: -100.98261667
+        alt: 1613
+      - fix: 3150
+        time: 2016-08-11T20:14:06Z
+        lat: 32.66173333
+        lng: -100.98263333
+        alt: 1611
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 6876
+        time: 2016-08-11T22:19:25Z
+        lat: 33.63323333
+        lng: -100.35215
+        alt: 907
+      - fix: 6877
+        time: 2016-08-11T22:19:26Z
+        lat: 33.63346667
+        lng: -100.35196667
+        alt: 907
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 6908
+        time: 2016-08-11T22:19:57Z
+        lat: 33.63946667
+        lng: -100.34825
+        alt: 898
+      - fix: 6909
+        time: 2016-08-11T22:19:58Z
+        lat: 33.63965
+        lng: -100.34816667
+        alt: 896
+      inZone:
+      - true
+      - false
+    zonesCrossNominees:
+    - []
+    - - crossingPair:
+        - fix: 992
+          time: 2016-08-11T19:01:04Z
+          lat: 32.29465
+          lng: -101.46933333
+          alt: 2181
+        - fix: 993
+          time: 2016-08-11T19:01:06Z
+          lat: 32.29515
+          lng: -101.46916667
+          alt: 2193
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 3149
+          time: 2016-08-11T20:14:04Z
+          lat: 32.66133333
+          lng: -100.98261667
+          alt: 1613
+        - fix: 3150
+          time: 2016-08-11T20:14:06Z
+          lat: 32.66173333
+          lng: -100.98263333
+          alt: 1611
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 3509
+          time: 2016-08-11T20:26:04Z
+          lat: 32.74228333
+          lng: -100.95935
+          alt: 1505
+        - fix: 3510
+          time: 2016-08-11T20:26:06Z
+          lat: 32.74268333
+          lng: -100.95923333
+          alt: 1499
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 6876
+          time: 2016-08-11T22:19:25Z
+          lat: 33.63323333
+          lng: -100.35215
+          alt: 907
+        - fix: 6877
+          time: 2016-08-11T22:19:26Z
+          lat: 33.63346667
+          lng: -100.35196667
+          alt: 907
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 6908
+          time: 2016-08-11T22:19:57Z
+          lat: 33.63946667
+          lng: -100.34825
+          alt: 898
+        - fix: 6909
+          time: 2016-08-11T22:19:58Z
+          lat: 33.63965
+          lng: -100.34816667
+          alt: 896
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 7009
+          time: 2016-08-11T22:21:40Z
+          lat: 33.63961667
+          lng: -100.34815
+          alt: 746
+        - fix: 7010
+          time: 2016-08-11T22:21:41Z
+          lat: 33.63956667
+          lng: -100.34818333
+          alt: 745
+        inZone:
+        - false
+        - true
+    - - crossingPair:
+        - fix: 6876
+          time: 2016-08-11T22:19:25Z
+          lat: 33.63323333
+          lng: -100.35215
+          alt: 907
+        - fix: 6877
+          time: 2016-08-11T22:19:26Z
+          lat: 33.63346667
+          lng: -100.35196667
+          alt: 907
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 6908
+          time: 2016-08-11T22:19:57Z
+          lat: 33.63946667
+          lng: -100.34825
+          alt: 898
+        - fix: 6909
+          time: 2016-08-11T22:19:58Z
+          lat: 33.63965
+          lng: -100.34816667
+          alt: 896
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 7009
+          time: 2016-08-11T22:21:40Z
+          lat: 33.63961667
+          lng: -100.34815
+          alt: 746
+        - fix: 7010
+          time: 2016-08-11T22:21:41Z
+          lat: 33.63956667
+          lng: -100.34818333
+          alt: 745
+        inZone:
+        - false
+        - true
+    startSelected:
+    - 2016-08-11T19:00:00Z
+    - crossingPair:
+      - fix: 992
+        time: 2016-08-11T19:01:04Z
+        lat: 32.29465
+        lng: -101.46933333
+        alt: 2181
+      - fix: 993
+        time: 2016-08-11T19:01:06Z
+        lat: 32.29515
+        lng: -101.46916667
+        alt: 2193
+      inZone:
+      - true
+      - false
+    startNominees:
+    - - 2016-08-11T19:45:00Z
+      - []
+    - - 2016-08-11T19:30:00Z
+      - []
+    - - 2016-08-11T19:15:00Z
+      - []
+    - - 2016-08-11T19:00:00Z
+      - - crossingPair:
+          - fix: 992
+            time: 2016-08-11T19:01:04Z
+            lat: 32.29465
+            lng: -101.46933333
+            alt: 2181
+          - fix: 993
+            time: 2016-08-11T19:01:06Z
+            lat: 32.29515
+            lng: -101.46916667
+            alt: 2193
+          inZone:
+          - true
+          - false
+    zonesCrossExcluded: []
+- - - '105'
+    - Cory Barnwell
+  - zonesCrossSelected:
+    - null
+    - crossingPair:
+      - fix: 1182
+        time: 2016-08-11T19:22:18Z
+        lat: 32.24681667
+        lng: -101.42406667
+        alt: 2397
+      - fix: 1183
+        time: 2016-08-11T19:22:21Z
+        lat: 32.2469
+        lng: -101.42353333
+        alt: 2405
+      inZone:
+      - true
+      - false
+    - crossingPair:
+      - fix: 2901
+        time: 2016-08-11T20:49:26Z
+        lat: 32.6947
+        lng: -101.0046
+        alt: 2691
+      - fix: 2902
+        time: 2016-08-11T20:49:29Z
+        lat: 32.69478333
+        lng: -101.00386667
+        alt: 2687
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 6229
+        time: 2016-08-11T23:36:52Z
+        lat: 33.63536667
+        lng: -100.35396667
+        alt: 848
+      - fix: 6230
+        time: 2016-08-11T23:36:54Z
+        lat: 33.63545
+        lng: -100.35348333
+        alt: 847
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 6294
+        time: 2016-08-11T23:37:59Z
+        lat: 33.63491667
+        lng: -100.3453
+        alt: 774
+      - fix: 6295
+        time: 2016-08-11T23:38:00Z
+        lat: 33.63488333
+        lng: -100.34525
+        alt: 772
+      inZone:
+      - true
+      - false
+    zonesCrossNominees:
+    - []
+    - - crossingPair:
+        - fix: 971
+          time: 2016-08-11T19:11:42Z
+          lat: 32.24853333
+          lng: -101.4253
+          alt: 1846
+        - fix: 972
+          time: 2016-08-11T19:11:45Z
+          lat: 32.24881667
+          lng: -101.42456667
+          alt: 1852
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 975
+          time: 2016-08-11T19:11:54Z
+          lat: 32.2497
+          lng: -101.42485
+          alt: 1865
+        - fix: 976
+          time: 2016-08-11T19:11:57Z
+          lat: 32.24948333
+          lng: -101.42496667
+          alt: 1870
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 976
+          time: 2016-08-11T19:11:57Z
+          lat: 32.24948333
+          lng: -101.42496667
+          alt: 1870
+        - fix: 977
+          time: 2016-08-11T19:12:00Z
+          lat: 32.2493
+          lng: -101.42453333
+          alt: 1872
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1020
+          time: 2016-08-11T19:14:10Z
+          lat: 32.24683333
+          lng: -101.42363333
+          alt: 1854
+        - fix: 1021
+          time: 2016-08-11T19:14:13Z
+          lat: 32.24643333
+          lng: -101.42373333
+          alt: 1861
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1177
+          time: 2016-08-11T19:22:03Z
+          lat: 32.24651667
+          lng: -101.4237
+          alt: 2370
+        - fix: 1178
+          time: 2016-08-11T19:22:06Z
+          lat: 32.24703333
+          lng: -101.42375
+          alt: 2379
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1178
+          time: 2016-08-11T19:22:06Z
+          lat: 32.24703333
+          lng: -101.42375
+          alt: 2379
+        - fix: 1179
+          time: 2016-08-11T19:22:09Z
+          lat: 32.24731667
+          lng: -101.42413333
+          alt: 2384
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1182
+          time: 2016-08-11T19:22:18Z
+          lat: 32.24681667
+          lng: -101.42406667
+          alt: 2397
+        - fix: 1183
+          time: 2016-08-11T19:22:21Z
+          lat: 32.2469
+          lng: -101.42353333
+          alt: 2405
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 2901
+          time: 2016-08-11T20:49:26Z
+          lat: 32.6947
+          lng: -101.0046
+          alt: 2691
+        - fix: 2902
+          time: 2016-08-11T20:49:29Z
+          lat: 32.69478333
+          lng: -101.00386667
+          alt: 2687
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 2981
+          time: 2016-08-11T20:53:25Z
+          lat: 32.73036667
+          lng: -100.98686667
+          alt: 2666
+        - fix: 2982
+          time: 2016-08-11T20:53:28Z
+          lat: 32.73111667
+          lng: -100.98678333
+          alt: 2661
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 6229
+          time: 2016-08-11T23:36:52Z
+          lat: 33.63536667
+          lng: -100.35396667
+          alt: 848
+        - fix: 6230
+          time: 2016-08-11T23:36:54Z
+          lat: 33.63545
+          lng: -100.35348333
+          alt: 847
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 6294
+          time: 2016-08-11T23:37:59Z
+          lat: 33.63491667
+          lng: -100.3453
+          alt: 774
+        - fix: 6295
+          time: 2016-08-11T23:38:00Z
+          lat: 33.63488333
+          lng: -100.34525
+          alt: 772
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 6298
+          time: 2016-08-11T23:38:03Z
+          lat: 33.63473333
+          lng: -100.34536667
+          alt: 768
+        - fix: 6299
+          time: 2016-08-11T23:38:04Z
+          lat: 33.6347
+          lng: -100.34546667
+          alt: 767
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 6342
+          time: 2016-08-11T23:38:49Z
+          lat: 33.63525
+          lng: -100.34528333
+          alt: 699
+        - fix: 6343
+          time: 2016-08-11T23:38:50Z
+          lat: 33.63535
+          lng: -100.3451
+          alt: 697
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 6356
+          time: 2016-08-11T23:39:03Z
+          lat: 33.63763333
+          lng: -100.34545
+          alt: 684
+        - fix: 6357
+          time: 2016-08-11T23:39:04Z
+          lat: 33.63776667
+          lng: -100.3456
+          alt: 683
+        inZone:
+        - false
+        - true
+    - - crossingPair:
+        - fix: 6229
+          time: 2016-08-11T23:36:52Z
+          lat: 33.63536667
+          lng: -100.35396667
+          alt: 848
+        - fix: 6230
+          time: 2016-08-11T23:36:54Z
+          lat: 33.63545
+          lng: -100.35348333
+          alt: 847
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 6294
+          time: 2016-08-11T23:37:59Z
+          lat: 33.63491667
+          lng: -100.3453
+          alt: 774
+        - fix: 6295
+          time: 2016-08-11T23:38:00Z
+          lat: 33.63488333
+          lng: -100.34525
+          alt: 772
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 6298
+          time: 2016-08-11T23:38:03Z
+          lat: 33.63473333
+          lng: -100.34536667
+          alt: 768
+        - fix: 6299
+          time: 2016-08-11T23:38:04Z
+          lat: 33.6347
+          lng: -100.34546667
+          alt: 767
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 6342
+          time: 2016-08-11T23:38:49Z
+          lat: 33.63525
+          lng: -100.34528333
+          alt: 699
+        - fix: 6343
+          time: 2016-08-11T23:38:50Z
+          lat: 33.63535
+          lng: -100.3451
+          alt: 697
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 6356
+          time: 2016-08-11T23:39:03Z
+          lat: 33.63763333
+          lng: -100.34545
+          alt: 684
+        - fix: 6357
+          time: 2016-08-11T23:39:04Z
+          lat: 33.63776667
+          lng: -100.3456
+          alt: 683
+        inZone:
+        - false
+        - true
+    startSelected:
+    - 2016-08-11T19:15:00Z
+    - crossingPair:
+      - fix: 1182
+        time: 2016-08-11T19:22:18Z
+        lat: 32.24681667
+        lng: -101.42406667
+        alt: 2397
+      - fix: 1183
+        time: 2016-08-11T19:22:21Z
+        lat: 32.2469
+        lng: -101.42353333
+        alt: 2405
+      inZone:
+      - true
+      - false
+    startNominees:
+    - - 2016-08-11T19:45:00Z
+      - []
+    - - 2016-08-11T19:30:00Z
+      - []
+    - - 2016-08-11T19:15:00Z
+      - - crossingPair:
+          - fix: 1177
+            time: 2016-08-11T19:22:03Z
+            lat: 32.24651667
+            lng: -101.4237
+            alt: 2370
+          - fix: 1178
+            time: 2016-08-11T19:22:06Z
+            lat: 32.24703333
+            lng: -101.42375
+            alt: 2379
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1182
+            time: 2016-08-11T19:22:18Z
+            lat: 32.24681667
+            lng: -101.42406667
+            alt: 2397
+          - fix: 1183
+            time: 2016-08-11T19:22:21Z
+            lat: 32.2469
+            lng: -101.42353333
+            alt: 2405
+          inZone:
+          - true
+          - false
+    - - 2016-08-11T19:00:00Z
+      - - crossingPair:
+          - fix: 971
+            time: 2016-08-11T19:11:42Z
+            lat: 32.24853333
+            lng: -101.4253
+            alt: 1846
+          - fix: 972
+            time: 2016-08-11T19:11:45Z
+            lat: 32.24881667
+            lng: -101.42456667
+            alt: 1852
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 976
+            time: 2016-08-11T19:11:57Z
+            lat: 32.24948333
+            lng: -101.42496667
+            alt: 1870
+          - fix: 977
+            time: 2016-08-11T19:12:00Z
+            lat: 32.2493
+            lng: -101.42453333
+            alt: 1872
+          inZone:
+          - true
+          - false
+    zonesCrossExcluded: []
+- - - '108'
+    - David Whittle
+  - zonesCrossSelected:
+    - null
+    - crossingPair:
+      - fix: 1171
+        time: 2016-08-11T19:16:25Z
+        lat: 32.29101667
+        lng: -101.4627
+        alt: 1884
+      - fix: 1172
+        time: 2016-08-11T19:16:27Z
+        lat: 32.29136667
+        lng: -101.46241667
+        alt: 1882
+      inZone:
+      - true
+      - false
+    - crossingPair:
+      - fix: 3894
+        time: 2016-08-11T20:47:20Z
+        lat: 32.6573
+        lng: -100.97495
+        alt: 2062
+      - fix: 3895
+        time: 2016-08-11T20:47:22Z
+        lat: 32.65755
+        lng: -100.97451667
+        alt: 2068
+      inZone:
+      - false
+      - true
+    - null
+    - null
+    zonesCrossNominees:
+    - []
+    - - crossingPair:
+        - fix: 651
+          time: 2016-08-11T18:59:05Z
+          lat: 32.28695
+          lng: -101.45716667
+          alt: 2261
+        - fix: 652
+          time: 2016-08-11T18:59:07Z
+          lat: 32.28725
+          lng: -101.45673333
+          alt: 2257
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 730
+          time: 2016-08-11T19:01:44Z
+          lat: 32.277
+          lng: -101.44425
+          alt: 1977
+        - fix: 731
+          time: 2016-08-11T19:01:46Z
+          lat: 32.27681667
+          lng: -101.44446667
+          alt: 1976
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1171
+          time: 2016-08-11T19:16:25Z
+          lat: 32.29101667
+          lng: -101.4627
+          alt: 1884
+        - fix: 1172
+          time: 2016-08-11T19:16:27Z
+          lat: 32.29136667
+          lng: -101.46241667
+          alt: 1882
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 3894
+          time: 2016-08-11T20:47:20Z
+          lat: 32.6573
+          lng: -100.97495
+          alt: 2062
+        - fix: 3895
+          time: 2016-08-11T20:47:22Z
+          lat: 32.65755
+          lng: -100.97451667
+          alt: 2068
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 4261
+          time: 2016-08-11T20:59:33Z
+          lat: 32.74163333
+          lng: -100.96241667
+          alt: 2016
+        - fix: 4262
+          time: 2016-08-11T20:59:35Z
+          lat: 32.74215
+          lng: -100.96243333
+          alt: 2020
+        inZone:
+        - true
+        - false
+    - []
+    - []
+    startSelected:
+    - 2016-08-11T19:15:00Z
+    - crossingPair:
+      - fix: 1171
+        time: 2016-08-11T19:16:25Z
+        lat: 32.29101667
+        lng: -101.4627
+        alt: 1884
+      - fix: 1172
+        time: 2016-08-11T19:16:27Z
+        lat: 32.29136667
+        lng: -101.46241667
+        alt: 1882
+      inZone:
+      - true
+      - false
+    startNominees:
+    - - 2016-08-11T19:45:00Z
+      - []
+    - - 2016-08-11T19:30:00Z
+      - []
+    - - 2016-08-11T19:15:00Z
+      - - crossingPair:
+          - fix: 1171
+            time: 2016-08-11T19:16:25Z
+            lat: 32.29101667
+            lng: -101.4627
+            alt: 1884
+          - fix: 1172
+            time: 2016-08-11T19:16:27Z
+            lat: 32.29136667
+            lng: -101.46241667
+            alt: 1882
+          inZone:
+          - true
+          - false
+    - - 2016-08-11T19:00:00Z
+      - []
+    zonesCrossExcluded: []
+- - - '101'
+    - Davis Straub
+  - zonesCrossSelected:
+    - null
+    - crossingPair:
+      - fix: 614
+        time: 2016-08-11T19:00:39Z
+        lat: 32.27683333
+        lng: -101.44503333
+        alt: 2296
+      - fix: 615
+        time: 2016-08-11T19:00:44Z
+        lat: 32.27776667
+        lng: -101.44406667
+        alt: 2290
+      inZone:
+      - true
+      - false
+    - null
+    - null
+    - null
+    zonesCrossNominees:
+    - []
+    - - crossingPair:
+        - fix: 525
+          time: 2016-08-11T18:53:17Z
+          lat: 32.27478333
+          lng: -101.44258333
+          alt: 2252
+        - fix: 526
+          time: 2016-08-11T18:53:22Z
+          lat: 32.27553333
+          lng: -101.44255
+          alt: 2261
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 526
+          time: 2016-08-11T18:53:22Z
+          lat: 32.27553333
+          lng: -101.44255
+          alt: 2261
+        - fix: 527
+          time: 2016-08-11T18:53:27Z
+          lat: 32.2758
+          lng: -101.44315
+          alt: 2271
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 529
+          time: 2016-08-11T18:53:37Z
+          lat: 32.27498333
+          lng: -101.44316667
+          alt: 2277
+        - fix: 530
+          time: 2016-08-11T18:53:42Z
+          lat: 32.27513333
+          lng: -101.4423
+          alt: 2268
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 533
+          time: 2016-08-11T18:53:57Z
+          lat: 32.27626667
+          lng: -101.44331667
+          alt: 2274
+        - fix: 534
+          time: 2016-08-11T18:54:02Z
+          lat: 32.2757
+          lng: -101.44326667
+          alt: 2275
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 534
+          time: 2016-08-11T18:54:02Z
+          lat: 32.2757
+          lng: -101.44326667
+          alt: 2275
+        - fix: 535
+          time: 2016-08-11T18:54:07Z
+          lat: 32.27545
+          lng: -101.44253333
+          alt: 2261
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 610
+          time: 2016-08-11T19:00:23Z
+          lat: 32.27655
+          lng: -101.44363333
+          alt: 2325
+        - fix: 611
+          time: 2016-08-11T19:00:28Z
+          lat: 32.2761
+          lng: -101.44426667
+          alt: 2318
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 614
+          time: 2016-08-11T19:00:39Z
+          lat: 32.27683333
+          lng: -101.44503333
+          alt: 2296
+        - fix: 615
+          time: 2016-08-11T19:00:44Z
+          lat: 32.27776667
+          lng: -101.44406667
+          alt: 2290
+        inZone:
+        - true
+        - false
+    - []
+    - []
+    - []
+    startSelected:
+    - 2016-08-11T19:00:00Z
+    - crossingPair:
+      - fix: 614
+        time: 2016-08-11T19:00:39Z
+        lat: 32.27683333
+        lng: -101.44503333
+        alt: 2296
+      - fix: 615
+        time: 2016-08-11T19:00:44Z
+        lat: 32.27776667
+        lng: -101.44406667
+        alt: 2290
+      inZone:
+      - true
+      - false
+    startNominees:
+    - - 2016-08-11T19:45:00Z
+      - []
+    - - 2016-08-11T19:30:00Z
+      - []
+    - - 2016-08-11T19:15:00Z
+      - []
+    - - 2016-08-11T19:00:00Z
+      - - crossingPair:
+          - fix: 614
+            time: 2016-08-11T19:00:39Z
+            lat: 32.27683333
+            lng: -101.44503333
+            alt: 2296
+          - fix: 615
+            time: 2016-08-11T19:00:44Z
+            lat: 32.27776667
+            lng: -101.44406667
+            alt: 2290
+          inZone:
+          - true
+          - false
+    zonesCrossExcluded: []
+- - - '104'
+    - Derreck Turner
+  - zonesCrossSelected:
+    - null
+    - crossingPair:
+      - fix: 2443
+        time: 2016-08-11T19:00:32Z
+        lat: 32.25828333
+        lng: -101.42971667
+        alt: 2205
+      - fix: 2444
+        time: 2016-08-11T19:00:33Z
+        lat: 32.25845
+        lng: -101.42953333
+        alt: 2202
+      inZone:
+      - true
+      - false
+    - crossingPair:
+      - fix: 7934
+        time: 2016-08-11T20:32:03Z
+        lat: 32.68185
+        lng: -101.00096667
+        alt: 2503
+      - fix: 7935
+        time: 2016-08-11T20:32:04Z
+        lat: 32.6821
+        lng: -101.00091667
+        alt: 2501
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 15555
+        time: 2016-08-11T22:39:05Z
+        lat: 33.63511667
+        lng: -100.35375
+        alt: 851
+      - fix: 15556
+        time: 2016-08-11T22:39:06Z
+        lat: 33.63518333
+        lng: -100.35348333
+        alt: 847
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 15605
+        time: 2016-08-11T22:39:55Z
+        lat: 33.63651667
+        lng: -100.34516667
+        alt: 867
+      - fix: 15606
+        time: 2016-08-11T22:39:56Z
+        lat: 33.63651667
+        lng: -100.34506667
+        alt: 866
+      inZone:
+      - true
+      - false
+    zonesCrossNominees:
+    - []
+    - - crossingPair:
+        - fix: 2027
+          time: 2016-08-11T18:53:36Z
+          lat: 32.253
+          lng: -101.42675
+          alt: 2073
+        - fix: 2028
+          time: 2016-08-11T18:53:37Z
+          lat: 32.25316667
+          lng: -101.42661667
+          alt: 2073
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 2042
+          time: 2016-08-11T18:53:51Z
+          lat: 32.25491667
+          lng: -101.4275
+          alt: 2079
+        - fix: 2043
+          time: 2016-08-11T18:53:52Z
+          lat: 32.25493333
+          lng: -101.4276
+          alt: 2080
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 2212
+          time: 2016-08-11T18:56:41Z
+          lat: 32.25191667
+          lng: -101.42611667
+          alt: 2360
+        - fix: 2213
+          time: 2016-08-11T18:56:42Z
+          lat: 32.25208333
+          lng: -101.426
+          alt: 2362
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 2223
+          time: 2016-08-11T18:56:52Z
+          lat: 32.25325
+          lng: -101.4267
+          alt: 2376
+        - fix: 2224
+          time: 2016-08-11T18:56:53Z
+          lat: 32.25323333
+          lng: -101.42685
+          alt: 2378
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 2239
+          time: 2016-08-11T18:57:08Z
+          lat: 32.25245
+          lng: -101.4265
+          alt: 2406
+        - fix: 2240
+          time: 2016-08-11T18:57:09Z
+          lat: 32.25253333
+          lng: -101.42631667
+          alt: 2407
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 2258
+          time: 2016-08-11T18:57:27Z
+          lat: 32.25425
+          lng: -101.42715
+          alt: 2434
+        - fix: 2259
+          time: 2016-08-11T18:57:28Z
+          lat: 32.25423333
+          lng: -101.42728333
+          alt: 2435
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 2443
+          time: 2016-08-11T19:00:32Z
+          lat: 32.25828333
+          lng: -101.42971667
+          alt: 2205
+        - fix: 2444
+          time: 2016-08-11T19:00:33Z
+          lat: 32.25845
+          lng: -101.42953333
+          alt: 2202
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 7934
+          time: 2016-08-11T20:32:03Z
+          lat: 32.68185
+          lng: -101.00096667
+          alt: 2503
+        - fix: 7935
+          time: 2016-08-11T20:32:04Z
+          lat: 32.6821
+          lng: -101.00091667
+          alt: 2501
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 8167
+          time: 2016-08-11T20:35:57Z
+          lat: 32.73485
+          lng: -100.98106667
+          alt: 2168
+        - fix: 8168
+          time: 2016-08-11T20:35:58Z
+          lat: 32.73506667
+          lng: -100.98095
+          alt: 2168
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 15555
+          time: 2016-08-11T22:39:05Z
+          lat: 33.63511667
+          lng: -100.35375
+          alt: 851
+        - fix: 15556
+          time: 2016-08-11T22:39:06Z
+          lat: 33.63518333
+          lng: -100.35348333
+          alt: 847
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 15605
+          time: 2016-08-11T22:39:55Z
+          lat: 33.63651667
+          lng: -100.34516667
+          alt: 867
+        - fix: 15606
+          time: 2016-08-11T22:39:56Z
+          lat: 33.63651667
+          lng: -100.34506667
+          alt: 866
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 15614
+          time: 2016-08-11T22:40:04Z
+          lat: 33.63626667
+          lng: -100.34503333
+          alt: 863
+        - fix: 15615
+          time: 2016-08-11T22:40:05Z
+          lat: 33.63626667
+          lng: -100.34515
+          alt: 862
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 15699
+          time: 2016-08-11T22:41:29Z
+          lat: 33.63965
+          lng: -100.3499
+          alt: 763
+        - fix: 15700
+          time: 2016-08-11T22:41:30Z
+          lat: 33.63976667
+          lng: -100.34973333
+          alt: 761
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 15752
+          time: 2016-08-11T22:42:22Z
+          lat: 33.63941667
+          lng: -100.35123333
+          alt: 689
+        - fix: 15753
+          time: 2016-08-11T22:42:23Z
+          lat: 33.63941667
+          lng: -100.35105
+          alt: 685
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 15761
+          time: 2016-08-11T22:42:31Z
+          lat: 33.6397
+          lng: -100.34963333
+          alt: 674
+        - fix: 15762
+          time: 2016-08-11T22:42:32Z
+          lat: 33.63975
+          lng: -100.34946667
+          alt: 673
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 15771
+          time: 2016-08-11T22:42:41Z
+          lat: 33.63966667
+          lng: -100.3484
+          alt: 665
+        - fix: 15772
+          time: 2016-08-11T22:42:42Z
+          lat: 33.63956667
+          lng: -100.34843333
+          alt: 662
+        inZone:
+        - false
+        - true
+    - - crossingPair:
+        - fix: 15555
+          time: 2016-08-11T22:39:05Z
+          lat: 33.63511667
+          lng: -100.35375
+          alt: 851
+        - fix: 15556
+          time: 2016-08-11T22:39:06Z
+          lat: 33.63518333
+          lng: -100.35348333
+          alt: 847
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 15605
+          time: 2016-08-11T22:39:55Z
+          lat: 33.63651667
+          lng: -100.34516667
+          alt: 867
+        - fix: 15606
+          time: 2016-08-11T22:39:56Z
+          lat: 33.63651667
+          lng: -100.34506667
+          alt: 866
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 15614
+          time: 2016-08-11T22:40:04Z
+          lat: 33.63626667
+          lng: -100.34503333
+          alt: 863
+        - fix: 15615
+          time: 2016-08-11T22:40:05Z
+          lat: 33.63626667
+          lng: -100.34515
+          alt: 862
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 15699
+          time: 2016-08-11T22:41:29Z
+          lat: 33.63965
+          lng: -100.3499
+          alt: 763
+        - fix: 15700
+          time: 2016-08-11T22:41:30Z
+          lat: 33.63976667
+          lng: -100.34973333
+          alt: 761
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 15752
+          time: 2016-08-11T22:42:22Z
+          lat: 33.63941667
+          lng: -100.35123333
+          alt: 689
+        - fix: 15753
+          time: 2016-08-11T22:42:23Z
+          lat: 33.63941667
+          lng: -100.35105
+          alt: 685
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 15761
+          time: 2016-08-11T22:42:31Z
+          lat: 33.6397
+          lng: -100.34963333
+          alt: 674
+        - fix: 15762
+          time: 2016-08-11T22:42:32Z
+          lat: 33.63975
+          lng: -100.34946667
+          alt: 673
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 15771
+          time: 2016-08-11T22:42:41Z
+          lat: 33.63966667
+          lng: -100.3484
+          alt: 665
+        - fix: 15772
+          time: 2016-08-11T22:42:42Z
+          lat: 33.63956667
+          lng: -100.34843333
+          alt: 662
+        inZone:
+        - false
+        - true
+    startSelected:
+    - 2016-08-11T19:00:00Z
+    - crossingPair:
+      - fix: 2443
+        time: 2016-08-11T19:00:32Z
+        lat: 32.25828333
+        lng: -101.42971667
+        alt: 2205
+      - fix: 2444
+        time: 2016-08-11T19:00:33Z
+        lat: 32.25845
+        lng: -101.42953333
+        alt: 2202
+      inZone:
+      - true
+      - false
+    startNominees:
+    - - 2016-08-11T19:45:00Z
+      - []
+    - - 2016-08-11T19:30:00Z
+      - []
+    - - 2016-08-11T19:15:00Z
+      - []
+    - - 2016-08-11T19:00:00Z
+      - - crossingPair:
+          - fix: 2443
+            time: 2016-08-11T19:00:32Z
+            lat: 32.25828333
+            lng: -101.42971667
+            alt: 2205
+          - fix: 2444
+            time: 2016-08-11T19:00:33Z
+            lat: 32.25845
+            lng: -101.42953333
+            alt: 2202
+          inZone:
+          - true
+          - false
+    zonesCrossExcluded: []
+- - - '109'
+    - Jay Devorak
+  - zonesCrossSelected:
+    - crossingPair:
+      - fix: 78
+        time: 2016-08-11T18:58:16Z
+        lat: 32.21406667
+        lng: -101.52765
+        alt: 2168
+      - fix: 79
+        time: 2016-08-11T18:58:26Z
+        lat: 32.21551667
+        lng: -101.52746667
+        alt: 2186
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 183
+        time: 2016-08-11T19:15:41Z
+        lat: 32.28978333
+        lng: -101.46201667
+        alt: 2249
+      - fix: 184
+        time: 2016-08-11T19:15:51Z
+        lat: 32.29146667
+        lng: -101.46083333
+        alt: 2254
+      inZone:
+      - true
+      - false
+    - null
+    - null
+    - null
+    zonesCrossNominees:
+    - - crossingPair:
+        - fix: 78
+          time: 2016-08-11T18:58:16Z
+          lat: 32.21406667
+          lng: -101.52765
+          alt: 2168
+        - fix: 79
+          time: 2016-08-11T18:58:26Z
+          lat: 32.21551667
+          lng: -101.52746667
+          alt: 2186
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 93
+          time: 2016-08-11T19:00:33Z
+          lat: 32.22048333
+          lng: -101.5227
+          alt: 2458
+        - fix: 94
+          time: 2016-08-11T19:00:43Z
+          lat: 32.22198333
+          lng: -101.52248333
+          alt: 2483
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 183
+          time: 2016-08-11T19:15:41Z
+          lat: 32.28978333
+          lng: -101.46201667
+          alt: 2249
+        - fix: 184
+          time: 2016-08-11T19:15:51Z
+          lat: 32.29146667
+          lng: -101.46083333
+          alt: 2254
+        inZone:
+        - true
+        - false
+    - []
+    - []
+    - []
+    startSelected:
+    - 2016-08-11T19:15:00Z
+    - crossingPair:
+      - fix: 183
+        time: 2016-08-11T19:15:41Z
+        lat: 32.28978333
+        lng: -101.46201667
+        alt: 2249
+      - fix: 184
+        time: 2016-08-11T19:15:51Z
+        lat: 32.29146667
+        lng: -101.46083333
+        alt: 2254
+      inZone:
+      - true
+      - false
+    startNominees:
+    - - 2016-08-11T19:45:00Z
+      - []
+    - - 2016-08-11T19:30:00Z
+      - []
+    - - 2016-08-11T19:15:00Z
+      - - crossingPair:
+          - fix: 183
+            time: 2016-08-11T19:15:41Z
+            lat: 32.28978333
+            lng: -101.46201667
+            alt: 2249
+          - fix: 184
+            time: 2016-08-11T19:15:51Z
+            lat: 32.29146667
+            lng: -101.46083333
+            alt: 2254
+          inZone:
+          - true
+          - false
+    - - 2016-08-11T19:00:00Z
+      - []
+    zonesCrossExcluded: []
+- - - '103'
+    - Kevin Carter
+  - zonesCrossSelected:
+    - crossingPair:
+      - fix: 1488
+        time: 2016-08-11T18:16:01Z
+        lat: 32.21408333
+        lng: -101.52383333
+        alt: 0
+      - fix: 1489
+        time: 2016-08-11T18:16:02Z
+        lat: 32.21421667
+        lng: -101.52391667
+        alt: 0
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 5052
+        time: 2016-08-11T19:15:25Z
+        lat: 32.29011667
+        lng: -101.46135
+        alt: 0
+      - fix: 5053
+        time: 2016-08-11T19:15:26Z
+        lat: 32.2902
+        lng: -101.46115
+        alt: 0
+      inZone:
+      - true
+      - false
+    - crossingPair:
+      - fix: 9641
+        time: 2016-08-11T20:31:54Z
+        lat: 32.72976667
+        lng: -100.98851667
+        alt: 0
+      - fix: 9642
+        time: 2016-08-11T20:31:55Z
+        lat: 32.72976667
+        lng: -100.98831667
+        alt: 0
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 15752
+        time: 2016-08-11T22:13:45Z
+        lat: 33.63251667
+        lng: -100.34876667
+        alt: 0
+      - fix: 15753
+        time: 2016-08-11T22:13:46Z
+        lat: 33.63276667
+        lng: -100.34876667
+        alt: 0
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 15784
+        time: 2016-08-11T22:14:17Z
+        lat: 33.63886667
+        lng: -100.34663333
+        alt: 0
+      - fix: 15785
+        time: 2016-08-11T22:14:18Z
+        lat: 33.6388
+        lng: -100.3465
+        alt: 0
+      inZone:
+      - true
+      - false
+    zonesCrossNominees:
+    - - crossingPair:
+        - fix: 1488
+          time: 2016-08-11T18:16:01Z
+          lat: 32.21408333
+          lng: -101.52383333
+          alt: 0
+        - fix: 1489
+          time: 2016-08-11T18:16:02Z
+          lat: 32.21421667
+          lng: -101.52391667
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1510
+          time: 2016-08-11T18:16:23Z
+          lat: 32.21411667
+          lng: -101.52553333
+          alt: 0
+        - fix: 1511
+          time: 2016-08-11T18:16:24Z
+          lat: 32.214
+          lng: -101.52551667
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1525
+          time: 2016-08-11T18:16:38Z
+          lat: 32.21401667
+          lng: -101.52393333
+          alt: 0
+        - fix: 1526
+          time: 2016-08-11T18:16:39Z
+          lat: 32.21418333
+          lng: -101.52386667
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1590
+          time: 2016-08-11T18:17:43Z
+          lat: 32.21406667
+          lng: -101.52478333
+          alt: 0
+        - fix: 1591
+          time: 2016-08-11T18:17:44Z
+          lat: 32.21396667
+          lng: -101.52473333
+          alt: 0
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 4962
+          time: 2016-08-11T19:13:55Z
+          lat: 32.29006667
+          lng: -101.46133333
+          alt: 0
+        - fix: 4963
+          time: 2016-08-11T19:13:56Z
+          lat: 32.29018333
+          lng: -101.46116667
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 5027
+          time: 2016-08-11T19:15:00Z
+          lat: 32.29113333
+          lng: -101.46256667
+          alt: 0
+        - fix: 5028
+          time: 2016-08-11T19:15:01Z
+          lat: 32.29105
+          lng: -101.46266667
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 5052
+          time: 2016-08-11T19:15:25Z
+          lat: 32.29011667
+          lng: -101.46135
+          alt: 0
+        - fix: 5053
+          time: 2016-08-11T19:15:26Z
+          lat: 32.2902
+          lng: -101.46115
+          alt: 0
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 9641
+          time: 2016-08-11T20:31:54Z
+          lat: 32.72976667
+          lng: -100.98851667
+          alt: 0
+        - fix: 9642
+          time: 2016-08-11T20:31:55Z
+          lat: 32.72976667
+          lng: -100.98831667
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 9656
+          time: 2016-08-11T20:32:09Z
+          lat: 32.73161667
+          lng: -100.98598333
+          alt: 0
+        - fix: 9657
+          time: 2016-08-11T20:32:10Z
+          lat: 32.73185
+          lng: -100.98593333
+          alt: 0
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 15752
+          time: 2016-08-11T22:13:45Z
+          lat: 33.63251667
+          lng: -100.34876667
+          alt: 0
+        - fix: 15753
+          time: 2016-08-11T22:13:46Z
+          lat: 33.63276667
+          lng: -100.34876667
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 15784
+          time: 2016-08-11T22:14:17Z
+          lat: 33.63886667
+          lng: -100.34663333
+          alt: 0
+        - fix: 15785
+          time: 2016-08-11T22:14:18Z
+          lat: 33.6388
+          lng: -100.3465
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 15785
+          time: 2016-08-11T22:14:18Z
+          lat: 33.6388
+          lng: -100.3465
+          alt: 0
+        - fix: 15786
+          time: 2016-08-11T22:14:19Z
+          lat: 33.63865
+          lng: -100.34638333
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 15824
+          time: 2016-08-11T22:14:57Z
+          lat: 33.63878333
+          lng: -100.34655
+          alt: 0
+        - fix: 15825
+          time: 2016-08-11T22:14:58Z
+          lat: 33.63898333
+          lng: -100.34643333
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 15860
+          time: 2016-08-11T22:15:33Z
+          lat: 33.6397
+          lng: -100.34983333
+          alt: 0
+        - fix: 15861
+          time: 2016-08-11T22:15:34Z
+          lat: 33.63963333
+          lng: -100.34985
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 15914
+          time: 2016-08-11T22:16:27Z
+          lat: 33.63678333
+          lng: -100.34516667
+          alt: 0
+        - fix: 15915
+          time: 2016-08-11T22:16:28Z
+          lat: 33.63676667
+          lng: -100.34503333
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 16231
+          time: 2016-08-11T22:21:44Z
+          lat: 33.63818333
+          lng: -100.34571667
+          alt: 0
+        - fix: 16232
+          time: 2016-08-11T22:21:45Z
+          lat: 33.63821667
+          lng: -100.3459
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 16247
+          time: 2016-08-11T22:22:00Z
+          lat: 33.63881667
+          lng: -100.34668333
+          alt: 0
+        - fix: 16248
+          time: 2016-08-11T22:22:01Z
+          lat: 33.63886667
+          lng: -100.3465
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 16259
+          time: 2016-08-11T22:22:12Z
+          lat: 33.63878333
+          lng: -100.34648333
+          alt: 0
+        - fix: 16260
+          time: 2016-08-11T22:22:13Z
+          lat: 33.63883333
+          lng: -100.34668333
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 16267
+          time: 2016-08-11T22:22:20Z
+          lat: 33.63946667
+          lng: -100.348
+          alt: 0
+        - fix: 16268
+          time: 2016-08-11T22:22:21Z
+          lat: 33.6396
+          lng: -100.34818333
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 16284
+          time: 2016-08-11T22:22:37Z
+          lat: 33.63978333
+          lng: -100.34928333
+          alt: 0
+        - fix: 16285
+          time: 2016-08-11T22:22:38Z
+          lat: 33.6397
+          lng: -100.34925
+          alt: 0
+        inZone:
+        - false
+        - true
+    - - crossingPair:
+        - fix: 15752
+          time: 2016-08-11T22:13:45Z
+          lat: 33.63251667
+          lng: -100.34876667
+          alt: 0
+        - fix: 15753
+          time: 2016-08-11T22:13:46Z
+          lat: 33.63276667
+          lng: -100.34876667
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 15784
+          time: 2016-08-11T22:14:17Z
+          lat: 33.63886667
+          lng: -100.34663333
+          alt: 0
+        - fix: 15785
+          time: 2016-08-11T22:14:18Z
+          lat: 33.6388
+          lng: -100.3465
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 15785
+          time: 2016-08-11T22:14:18Z
+          lat: 33.6388
+          lng: -100.3465
+          alt: 0
+        - fix: 15786
+          time: 2016-08-11T22:14:19Z
+          lat: 33.63865
+          lng: -100.34638333
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 15824
+          time: 2016-08-11T22:14:57Z
+          lat: 33.63878333
+          lng: -100.34655
+          alt: 0
+        - fix: 15825
+          time: 2016-08-11T22:14:58Z
+          lat: 33.63898333
+          lng: -100.34643333
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 15860
+          time: 2016-08-11T22:15:33Z
+          lat: 33.6397
+          lng: -100.34983333
+          alt: 0
+        - fix: 15861
+          time: 2016-08-11T22:15:34Z
+          lat: 33.63963333
+          lng: -100.34985
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 15914
+          time: 2016-08-11T22:16:27Z
+          lat: 33.63678333
+          lng: -100.34516667
+          alt: 0
+        - fix: 15915
+          time: 2016-08-11T22:16:28Z
+          lat: 33.63676667
+          lng: -100.34503333
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 16231
+          time: 2016-08-11T22:21:44Z
+          lat: 33.63818333
+          lng: -100.34571667
+          alt: 0
+        - fix: 16232
+          time: 2016-08-11T22:21:45Z
+          lat: 33.63821667
+          lng: -100.3459
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 16247
+          time: 2016-08-11T22:22:00Z
+          lat: 33.63881667
+          lng: -100.34668333
+          alt: 0
+        - fix: 16248
+          time: 2016-08-11T22:22:01Z
+          lat: 33.63886667
+          lng: -100.3465
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 16259
+          time: 2016-08-11T22:22:12Z
+          lat: 33.63878333
+          lng: -100.34648333
+          alt: 0
+        - fix: 16260
+          time: 2016-08-11T22:22:13Z
+          lat: 33.63883333
+          lng: -100.34668333
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 16267
+          time: 2016-08-11T22:22:20Z
+          lat: 33.63946667
+          lng: -100.348
+          alt: 0
+        - fix: 16268
+          time: 2016-08-11T22:22:21Z
+          lat: 33.6396
+          lng: -100.34818333
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 16284
+          time: 2016-08-11T22:22:37Z
+          lat: 33.63978333
+          lng: -100.34928333
+          alt: 0
+        - fix: 16285
+          time: 2016-08-11T22:22:38Z
+          lat: 33.6397
+          lng: -100.34925
+          alt: 0
+        inZone:
+        - false
+        - true
+    startSelected:
+    - 2016-08-11T19:15:00Z
+    - crossingPair:
+      - fix: 5052
+        time: 2016-08-11T19:15:25Z
+        lat: 32.29011667
+        lng: -101.46135
+        alt: 0
+      - fix: 5053
+        time: 2016-08-11T19:15:26Z
+        lat: 32.2902
+        lng: -101.46115
+        alt: 0
+      inZone:
+      - true
+      - false
+    startNominees:
+    - - 2016-08-11T19:45:00Z
+      - []
+    - - 2016-08-11T19:30:00Z
+      - []
+    - - 2016-08-11T19:15:00Z
+      - - crossingPair:
+          - fix: 5052
+            time: 2016-08-11T19:15:25Z
+            lat: 32.29011667
+            lng: -101.46135
+            alt: 0
+          - fix: 5053
+            time: 2016-08-11T19:15:26Z
+            lat: 32.2902
+            lng: -101.46115
+            alt: 0
+          inZone:
+          - true
+          - false
+    - - 2016-08-11T19:00:00Z
+      - - crossingPair:
+          - fix: 4962
+            time: 2016-08-11T19:13:55Z
+            lat: 32.29006667
+            lng: -101.46133333
+            alt: 0
+          - fix: 4963
+            time: 2016-08-11T19:13:56Z
+            lat: 32.29018333
+            lng: -101.46116667
+            alt: 0
+          inZone:
+          - true
+          - false
+    zonesCrossExcluded: []
+- - - '106'
+    - Larry Bunner
+  - zonesCrossSelected:
+    - crossingPair:
+      - fix: 168
+        time: 2016-08-11T18:15:59Z
+        lat: 32.2189
+        lng: -101.52043333
+        alt: 2308
+      - fix: 169
+        time: 2016-08-11T18:16:09Z
+        lat: 32.21936667
+        lng: -101.52181667
+        alt: 2298
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 435
+        time: 2016-08-11T19:00:41Z
+        lat: 32.27816667
+        lng: -101.44558333
+        alt: 2312
+      - fix: 436
+        time: 2016-08-11T19:00:51Z
+        lat: 32.27985
+        lng: -101.44335
+        alt: 2297
+      inZone:
+      - true
+      - false
+    - crossingPair:
+      - fix: 1022
+        time: 2016-08-11T20:39:54Z
+        lat: 32.70783333
+        lng: -101.0049
+        alt: 2053
+      - fix: 1023
+        time: 2016-08-11T20:40:04Z
+        lat: 32.70831667
+        lng: -101.00273333
+        alt: 2038
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 1656
+        time: 2016-08-11T22:26:22Z
+        lat: 33.63313333
+        lng: -100.35473333
+        alt: 961
+      - fix: 1657
+        time: 2016-08-11T22:26:31Z
+        lat: 33.63351667
+        lng: -100.35233333
+        alt: 930
+      inZone:
+      - false
+      - true
+    - crossingPair:
+      - fix: 1817
+        time: 2016-08-11T22:29:16Z
+        lat: 33.63916667
+        lng: -100.35128333
+        alt: 717
+      - fix: 1818
+        time: 2016-08-11T22:29:17Z
+        lat: 33.6394
+        lng: -100.35125
+        alt: 718
+      inZone:
+      - true
+      - false
+    zonesCrossNominees:
+    - - crossingPair:
+        - fix: 168
+          time: 2016-08-11T18:15:59Z
+          lat: 32.2189
+          lng: -101.52043333
+          alt: 2308
+        - fix: 169
+          time: 2016-08-11T18:16:09Z
+          lat: 32.21936667
+          lng: -101.52181667
+          alt: 2298
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 174
+          time: 2016-08-11T18:17:00Z
+          lat: 32.21421667
+          lng: -101.52408333
+          alt: 2230
+        - fix: 175
+          time: 2016-08-11T18:17:10Z
+          lat: 32.21295
+          lng: -101.52278333
+          alt: 2203
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 378
+          time: 2016-08-11T18:51:21Z
+          lat: 32.27185
+          lng: -101.44063333
+          alt: 2258
+        - fix: 379
+          time: 2016-08-11T18:51:31Z
+          lat: 32.27385
+          lng: -101.44031667
+          alt: 2263
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 386
+          time: 2016-08-11T18:52:42Z
+          lat: 32.27633333
+          lng: -101.44168333
+          alt: 2231
+        - fix: 387
+          time: 2016-08-11T18:52:52Z
+          lat: 32.27551667
+          lng: -101.44291667
+          alt: 2221
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 390
+          time: 2016-08-11T18:53:22Z
+          lat: 32.2733
+          lng: -101.44323333
+          alt: 2193
+        - fix: 391
+          time: 2016-08-11T18:53:32Z
+          lat: 32.27478333
+          lng: -101.44196667
+          alt: 2188
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 431
+          time: 2016-08-11T19:00:17Z
+          lat: 32.27801667
+          lng: -101.44326667
+          alt: 2357
+        - fix: 432
+          time: 2016-08-11T19:00:27Z
+          lat: 32.27698333
+          lng: -101.44455
+          alt: 2337
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 435
+          time: 2016-08-11T19:00:41Z
+          lat: 32.27816667
+          lng: -101.44558333
+          alt: 2312
+        - fix: 436
+          time: 2016-08-11T19:00:51Z
+          lat: 32.27985
+          lng: -101.44335
+          alt: 2297
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 1022
+          time: 2016-08-11T20:39:54Z
+          lat: 32.70783333
+          lng: -101.0049
+          alt: 2053
+        - fix: 1023
+          time: 2016-08-11T20:40:04Z
+          lat: 32.70831667
+          lng: -101.00273333
+          alt: 2038
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1034
+          time: 2016-08-11T20:41:37Z
+          lat: 32.72303333
+          lng: -100.99458333
+          alt: 1877
+        - fix: 1035
+          time: 2016-08-11T20:41:47Z
+          lat: 32.72495
+          lng: -100.9938
+          alt: 1856
+        inZone:
+        - true
+        - false
+    - - crossingPair:
+        - fix: 1656
+          time: 2016-08-11T22:26:22Z
+          lat: 33.63313333
+          lng: -100.35473333
+          alt: 961
+        - fix: 1657
+          time: 2016-08-11T22:26:31Z
+          lat: 33.63351667
+          lng: -100.35233333
+          alt: 930
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1817
+          time: 2016-08-11T22:29:16Z
+          lat: 33.63916667
+          lng: -100.35128333
+          alt: 717
+        - fix: 1818
+          time: 2016-08-11T22:29:17Z
+          lat: 33.6394
+          lng: -100.35125
+          alt: 718
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1857
+          time: 2016-08-11T22:29:57Z
+          lat: 33.63971667
+          lng: -100.34908333
+          alt: 662
+        - fix: 1858
+          time: 2016-08-11T22:29:58Z
+          lat: 33.63955
+          lng: -100.3491
+          alt: 660
+        inZone:
+        - false
+        - true
+    - - crossingPair:
+        - fix: 1656
+          time: 2016-08-11T22:26:22Z
+          lat: 33.63313333
+          lng: -100.35473333
+          alt: 961
+        - fix: 1657
+          time: 2016-08-11T22:26:31Z
+          lat: 33.63351667
+          lng: -100.35233333
+          alt: 930
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1817
+          time: 2016-08-11T22:29:16Z
+          lat: 33.63916667
+          lng: -100.35128333
+          alt: 717
+        - fix: 1818
+          time: 2016-08-11T22:29:17Z
+          lat: 33.6394
+          lng: -100.35125
+          alt: 718
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1857
+          time: 2016-08-11T22:29:57Z
+          lat: 33.63971667
+          lng: -100.34908333
+          alt: 662
+        - fix: 1858
+          time: 2016-08-11T22:29:58Z
+          lat: 33.63955
+          lng: -100.3491
+          alt: 660
+        inZone:
+        - false
+        - true
+    startSelected:
+    - 2016-08-11T19:00:00Z
+    - crossingPair:
+      - fix: 435
+        time: 2016-08-11T19:00:41Z
+        lat: 32.27816667
+        lng: -101.44558333
+        alt: 2312
+      - fix: 436
+        time: 2016-08-11T19:00:51Z
+        lat: 32.27985
+        lng: -101.44335
+        alt: 2297
+      inZone:
+      - true
+      - false
+    startNominees:
+    - - 2016-08-11T19:45:00Z
+      - []
+    - - 2016-08-11T19:30:00Z
+      - []
+    - - 2016-08-11T19:15:00Z
+      - []
+    - - 2016-08-11T19:00:00Z
+      - - crossingPair:
+          - fix: 435
+            time: 2016-08-11T19:00:41Z
+            lat: 32.27816667
+            lng: -101.44558333
+            alt: 2312
+          - fix: 436
+            time: 2016-08-11T19:00:51Z
+            lat: 32.27985
+            lng: -101.44335
+            alt: 2297
+          inZone:
+          - true
+          - false
+    zonesCrossExcluded: []
+- - - '102'
+    - Tom McGowan
+  - zonesCrossSelected:
+    - null
+    - crossingPair:
+      - fix: 814
+        time: 2016-08-11T18:57:02Z
+        lat: 32.2859
+        lng: -101.45525
+        alt: 2199
+      - fix: 815
+        time: 2016-08-11T18:57:04Z
+        lat: 32.28623333
+        lng: -101.455
+        alt: 2192
+      inZone:
+      - true
+      - false
+    - null
+    - null
+    - null
+    zonesCrossNominees:
+    - []
+    - - crossingPair:
+        - fix: 814
+          time: 2016-08-11T18:57:02Z
+          lat: 32.2859
+          lng: -101.45525
+          alt: 2199
+        - fix: 815
+          time: 2016-08-11T18:57:04Z
+          lat: 32.28623333
+          lng: -101.455
+          alt: 2192
+        inZone:
+        - true
+        - false
+    - []
+    - - crossingPair:
+        - fix: 7225
+          time: 2016-08-11T22:30:48Z
+          lat: 33.63308333
+          lng: -100.35241667
+          alt: 991
+        - fix: 7226
+          time: 2016-08-11T22:30:50Z
+          lat: 33.63346667
+          lng: -100.35223333
+          alt: 990
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 7257
+          time: 2016-08-11T22:31:21Z
+          lat: 33.6396
+          lng: -100.35
+          alt: 946
+        - fix: 7258
+          time: 2016-08-11T22:31:22Z
+          lat: 33.63973333
+          lng: -100.34983333
+          alt: 947
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 7278
+          time: 2016-08-11T22:31:43Z
+          lat: 33.6396
+          lng: -100.34816667
+          alt: 933
+        - fix: 7279
+          time: 2016-08-11T22:31:44Z
+          lat: 33.63955
+          lng: -100.34825
+          alt: 931
+        inZone:
+        - false
+        - true
+    - - crossingPair:
+        - fix: 7225
+          time: 2016-08-11T22:30:48Z
+          lat: 33.63308333
+          lng: -100.35241667
+          alt: 991
+        - fix: 7226
+          time: 2016-08-11T22:30:50Z
+          lat: 33.63346667
+          lng: -100.35223333
+          alt: 990
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 7257
+          time: 2016-08-11T22:31:21Z
+          lat: 33.6396
+          lng: -100.35
+          alt: 946
+        - fix: 7258
+          time: 2016-08-11T22:31:22Z
+          lat: 33.63973333
+          lng: -100.34983333
+          alt: 947
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 7278
+          time: 2016-08-11T22:31:43Z
+          lat: 33.6396
+          lng: -100.34816667
+          alt: 933
+        - fix: 7279
+          time: 2016-08-11T22:31:44Z
+          lat: 33.63955
+          lng: -100.34825
+          alt: 931
+        inZone:
+        - false
+        - true
+    startSelected: null
+    startNominees:
+    - - 2016-08-11T19:45:00Z
+      - []
+    - - 2016-08-11T19:30:00Z
+      - []
+    - - 2016-08-11T19:15:00Z
+      - []
+    - - 2016-08-11T19:00:00Z
+      - []
+    zonesCrossExcluded: []
+trackLogError:
+  fileUnset: []
+  dirMissing: []
+  fileMissing: []
+  fileUnread: []

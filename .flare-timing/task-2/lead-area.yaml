@@ -1,0 +1,41 @@
+areas:
+- - - '110'
+    - Bruce Barmakian
+  - areaFlown: 48456132.0302 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 15619078.2809 km^2 s
+- - - '105'
+    - Cory Barnwell
+  - areaFlown: 3838521.3252 km^2 s
+    areaAfterLanding: 68423668.8960 km^2 s
+    areaBeforeStart: 31476.2308 km^2 s
+- - - '108'
+    - David Whittle
+  - areaFlown: 49086638.5168 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 2373380.2504 km^2 s
+- - - '101'
+    - Davis Straub
+  - areaFlown: 29175452.2158 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 156124.5472 km^2 s
+- - - '104'
+    - Derreck Turner
+  - areaFlown: 29106259.5698 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 31474.4564 km^2 s
+- - - '103'
+    - Kevin Carter
+  - areaFlown: 38009584.8578 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 3441355.5717 km^2 s
+- - - '106'
+    - Larry Bunner
+  - areaFlown: 48331128.9723 km^2 s
+    areaAfterLanding: 0.0000 km^2 s
+    areaBeforeStart: 16449113.8838 km^2 s
+- - - '102'
+    - Tom McGowan
+  - areaFlown: 25133187.4241 km^2 s
+    areaAfterLanding: 23062784.7990 km^2 s
+    areaBeforeStart: 381439.0570 km^2 s

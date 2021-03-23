@@ -1,0 +1,186 @@
+pilotGroup:
+  absent: []
+  didFlyNoTracklog:
+  - pilot:
+    - '107'
+    - Anna Eppink
+    awardedReach:
+      extra:
+        awardedMade: 5.000000 km
+        awardedTask: 116.174000 km
+        awardedFrac: 4.303888994095064e-2
+      flown:
+        awardedMade: 5.000000 km
+        awardedTask: 116.174000 km
+        awardedFrac: 4.303888994095064e-2
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '109'
+    - Jay Devorak
+    awardedReach:
+      extra:
+        awardedMade: 5.000000 km
+        awardedTask: 116.174000 km
+        awardedFrac: 4.303888994095064e-2
+      flown:
+        awardedMade: 5.000000 km
+        awardedTask: 116.174000 km
+        awardedFrac: 4.303888994095064e-2
+    awardedVelocity:
+      ss: 2016-08-08T19:00:00Z
+      es: null
+  dnf: []
+task:
+  taskName: t2
+  zones:
+    raw:
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 771.000 m
+    - zoneName: BIGSPR
+      lat: 32.2176
+      lng: -101.5249
+      radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: 771.000 m
+    - zoneName: 12T
+      lat: 32.40552
+      lng: -101.33923
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 762.000 m
+    - zoneName: ACKERL
+      lat: 32.52643
+      lng: -101.71603
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 846.000 m
+    - zoneName: GAIL
+      lat: 32.7887
+      lng: -101.5261
+      radius: 10000.0 m
+      giveIn: 9950.0 m
+      giveOut: 10050.0 m
+      alt: 808.000 m
+    - zoneName: LAMESA
+      lat: 32.7592
+      lng: -101.9192
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 914.000 m
+    - zoneName: LAMESA
+      lat: 32.7592
+      lng: -101.9192
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 914.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 32.21760000 deg
+          - -101.52490000 deg
+          radius: 10000.0 m
+      - cylinder:
+          center:
+          - 32.40552000 deg
+          - -101.33923000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 32.52643000 deg
+          - -101.71603000 deg
+          radius: 1000.0 m
+      - cylinder:
+          center:
+          - 32.78870000 deg
+          - -101.52610000 deg
+          radius: 10000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 32.75920000 deg
+          - -101.91920000 deg
+          radius: 400.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 32.75920000 deg
+          - -101.91920000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 6
+  zoneTimes:
+  - open: 2016-08-08T19:00:00Z
+    close: 2016-08-09T01:00:00Z
+  startGates:
+  - 2016-08-08T19:00:00Z
+  - 2016-08-08T19:20:00Z
+  - 2016-08-08T19:40:00Z
+  stopped: null
+  cancelled: false
+  taskTweak:
+    arrivalRank: true
+    arrivalTime: false
+    essNotGoalScaling: 0.8
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+taskFolder:
+- flights
+pilots:
+- - - '107'
+    - Anna Eppink
+  - null
+- - - '110'
+    - Bruce Barmakian
+  - barmakian.T2.110.IGC
+- - - '105'
+    - Cory Barnwell
+  - Barnwell.T2.105.IGC
+- - - '108'
+    - David Whittle
+  - Whittle.T2.108.igc
+- - - '101'
+    - Davis Straub
+  - straub.t2.101.IGC
+- - - '104'
+    - Derreck Turner
+  - Turner.T2.104.igc
+- - - '109'
+    - Jay Devorak
+  - null
+- - - '103'
+    - Kevin Carter
+  - Carter.T2.103.igc
+- - - '106'
+    - Larry Bunner
+  - Bunner.t2.106.igc
+- - - '102'
+    - Tom McGowan
+  - mcgowant.t2.102.IGC
